@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?",
+        "answer": "A",
+        "choices": [
+            "plaque",
+            "enamel",
+            "white blood cells",
+            "red blood cells"
+        ],
+        "response": "To solve this question, let's consider what rupture could cause fragments to travel via the bloodstream and become lodged in other arteries. \n\n1. **Plaque**: This is a likely candidate because plaque buildup in arteries (atherosclerosis) can rupture, releasing fragments into the bloodstream. These fragments can then travel and become lodged in other arteries, potentially causing blockages.\n\n2. **Enamel**: This is unlikely as enamel refers to the hard outer layer of teeth, and its rupture wouldn't typically involve the bloodstream or arteries.\n\n3. **White blood cells**: While white blood cells are part of the bloodstream, they aren't typically associated with ruptures that cause them to become lodged in arteries in the context implied by the question.\n\n4. **Red blood cells**: Similar to white blood cells, red blood cells are a component of blood but aren't usually described as becoming lodged in arteries due to a rupture in the way the question suggests.\n\nGiven the context, the most plausible answer is related to the rupture of plaque in arteries, which can lead to the described scenario.\n\nANSWER: A",
+        "proposed_answer": "A"
+    },
+    {
+        "question": "The lithosphere is divided into a dozen major and several minor what?",
+        "answer": "C",
+        "choices": [
+            "crystals",
+            "zones",
+            "plates",
+            "faults"
+        ],
+        "response": "To answer this question, we need to consider the structure of the Earth's lithosphere. The lithosphere is the outermost solid layer of the planet, and it is broken into large pieces that fit together like a jigsaw puzzle. These pieces are in constant motion, sliding over the more fluid asthenosphere below. The term that best describes these large, moving pieces of the lithosphere is \"plates.\" This is a fundamental concept in plate tectonics, which explains how the Earth's surface changes over time due to the movement of these plates.\n\nANSWER: C",
+        "proposed_answer": "C"
+    },
+    {
+        "question": "No charge is actually created or destroyed when charges are separated as we have been discussing. rather, existing charges are moved about. in fact, in all situations the total amount of charge is always this?",
+        "answer": "B",
+        "choices": [
+            "less",
+            "constant",
+            "smaller",
+            "more"
+        ],
+        "response": "The statement mentions that no charge is created or destroyed, and existing charges are only moved. This implies that the total amount of charge remains the same, as it is only being rearranged. Therefore, the total amount of charge is always constant.\n\nANSWER: B",
+        "proposed_answer": "B"
+    },
+    {
+        "question": "What happens to air density and pressure when gas molecules are warm?",
+        "answer": "D",
+        "choices": [
+            "they are greater",
+            "they are unchanged",
+            "they are equal",
+            "they are lower"
+        ],
+        "response": "When gas molecules are warm, they move faster and spread out, occupying more space. This results in a decrease in air density. According to the ideal gas law, as temperature increases, pressure decreases if the volume is constant, and density also decreases. Therefore, warm gas molecules lead to lower air density and pressure.\n\nANSWER: D",
+        "proposed_answer": "D"
+    }
+]

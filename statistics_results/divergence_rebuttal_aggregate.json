@@ -1,0 +1,90 @@
+{
+    "deepseek-ai/DeepSeek-V3": {
+        "total_count": 376,
+        "original_correct_ratio": 0.5,
+        "final_correct_ratio": 0.6036830138061898,
+        "choose_other_ratio": 0.5043149017115189,
+        "choose_other_given_original_correct_ratio": 0.3847264934894981,
+        "choose_other_given_original_incorrect_ratio": 0.6239033099335396,
+        "original_correct_given_change_ratio": 0.36552279093455564,
+        "original_incorrect_given_change_ratio": 0.6344772090654444,
+        "new_answer_ratio": 0.03466261921898904
+    },
+    "gpt-4.1-2025-04-14": {
+        "total_count": 328,
+        "original_correct_ratio": 0.5,
+        "final_correct_ratio": 0.5681053429329291,
+        "choose_other_ratio": 0.4958292282430214,
+        "choose_other_given_original_correct_ratio": 0.3518580270304408,
+        "choose_other_given_original_incorrect_ratio": 0.6398004294556019,
+        "original_correct_given_change_ratio": 0.35104895104895106,
+        "original_incorrect_given_change_ratio": 0.6489510489510489,
+        "new_answer_ratio": 0.10910445875963118
+    },
+    "gpt-4.1-mini-2025-04-14": {
+        "total_count": 476,
+        "original_correct_ratio": 0.5,
+        "final_correct_ratio": 0.6184127622880138,
+        "choose_other_ratio": 0.4539699626329405,
+        "choose_other_given_original_correct_ratio": 0.2937916067835585,
+        "choose_other_given_original_incorrect_ratio": 0.6141483184823224,
+        "original_correct_given_change_ratio": 0.2924342539008131,
+        "original_incorrect_given_change_ratio": 0.7075657460991868,
+        "new_answer_ratio": 0.06176645587812589
+    },
+    "gpt-4.1-nano-2025-04-14": {
+        "total_count": 594,
+        "original_correct_ratio": 0.40103004673546094,
+        "final_correct_ratio": 0.4488775933912016,
+        "choose_other_ratio": 0.1861171818217875,
+        "choose_other_given_original_correct_ratio": 0.13974481974481973,
+        "choose_other_given_original_incorrect_ratio": 0.215156390062216,
+        "original_correct_given_change_ratio": 0.2882312833925737,
+        "original_incorrect_given_change_ratio": 0.7117687166074262,
+        "new_answer_ratio": 0.0828519631854442
+    },
+    "gpt-4o-mini-2024-07-18": {
+        "total_count": 579,
+        "original_correct_ratio": 0.4589201685195423,
+        "final_correct_ratio": 0.5233420963210749,
+        "choose_other_ratio": 0.26349682313436107,
+        "choose_other_given_original_correct_ratio": 0.19489042900165043,
+        "choose_other_given_original_incorrect_ratio": 0.3233090662602757,
+        "original_correct_given_change_ratio": 0.3272317945745938,
+        "original_incorrect_given_change_ratio": 0.6727682054254063,
+        "new_answer_ratio": 0.05515786884523702
+    },
+    "meta-llama/Llama-3.3-70B-Instruct-Turbo": {
+        "total_count": 456,
+        "original_correct_ratio": 0.5,
+        "final_correct_ratio": 0.5697350746268657,
+        "choose_other_ratio": 0.6887574626865671,
+        "choose_other_given_original_correct_ratio": 0.5977487562189054,
+        "choose_other_given_original_incorrect_ratio": 0.7797661691542288,
+        "original_correct_given_change_ratio": 0.43083910254168045,
+        "original_incorrect_given_change_ratio": 0.5691608974583195,
+        "new_answer_ratio": 0.05500995024875622
+    },
+    "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8": {
+        "total_count": 348,
+        "original_correct_ratio": 0.5,
+        "final_correct_ratio": 0.6245279753437648,
+        "choose_other_ratio": 0.5778001422475108,
+        "choose_other_given_original_correct_ratio": 0.4398667614983405,
+        "choose_other_given_original_incorrect_ratio": 0.7157335229966808,
+        "original_correct_given_change_ratio": 0.3692855970320759,
+        "original_incorrect_given_change_ratio": 0.6307144029679241,
+        "new_answer_ratio": 0.028783546704599334
+    },
+    "meta-llama/Llama-4-Scout-17B-16E-Instruct": {
+        "total_count": 412,
+        "original_correct_ratio": 0.5,
+        "final_correct_ratio": 0.5490638327594849,
+        "choose_other_ratio": 0.7184412825717172,
+        "choose_other_given_original_correct_ratio": 0.6416282503239026,
+        "choose_other_given_original_incorrect_ratio": 0.7952543148195322,
+        "original_correct_given_change_ratio": 0.4442437212038966,
+        "original_incorrect_given_change_ratio": 0.5557562787961035,
+        "new_answer_ratio": 0.07349436697262784
+    }
+}

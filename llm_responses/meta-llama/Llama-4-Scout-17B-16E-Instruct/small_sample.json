@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?",
+        "answer": "A",
+        "choices": [
+            "plaque",
+            "enamel",
+            "white blood cells",
+            "red blood cells"
+        ],
+        "response": "To solve this question, let's consider what can rupture and cause fragments to travel via the bloodstream.\n\n1. **Understanding the context**: The question implies a condition where something breaks apart (rupture) and the fragments can travel through the bloodstream, potentially causing blockages in other arteries.\n\n2. **Evaluating the options**:\n   - **A. Plaque**: In the context of cardiovascular health, plaque refers to atherosclerotic plaque, which builds up in arteries. When this plaque ruptures, it can release fragments into the bloodstream.\n   - **B. Enamel**: Enamel is related to teeth and wouldn't travel via the bloodstream in the context of arterial blockages.\n   - **C. White blood cells**: While white blood cells do travel in the bloodstream, they are not typically associated with rupturing and causing arterial blockages in the way described.\n   - **D. Red blood cells**: Red blood cells can be involved in clot formation but are not typically described as rupturing and causing fragments to block arteries in the same way plaque does.\n\n3. **Conclusion**: The most likely candidate that fits the description given in the question is plaque. Plaque rupture is a known cause of acute cardiovascular events, such as heart attacks and strokes, where fragments of the plaque can enter the bloodstream and become lodged in other arteries.\n\nANSWER: A",
+        "proposed_answer": "A"
+    },
+    {
+        "question": "The lithosphere is divided into a dozen major and several minor what?",
+        "answer": "C",
+        "choices": [
+            "crystals",
+            "zones",
+            "plates",
+            "faults"
+        ],
+        "response": "To solve this question, let's consider what we know about the lithosphere and its structure.\n\n1. **Understanding the Lithosphere**: The lithosphere is the outermost solid layer of the planet, comprising the crust and the uppermost part of the mantle. It's known for its rigidity and its role in geological processes.\n\n2. **Division of the Lithosphere**: The lithosphere is not uniform but is broken into several large and small segments. This division is fundamental to plate tectonics, which explains the movement of these segments and the resulting geological phenomena.\n\n3. **Terminology**:\n   - **Crystals**: These are solid materials whose atoms, molecules, or ions are arranged in a repeating pattern, called a crystal lattice. While crystals are relevant in geology, they don't describe the division of the lithosphere.\n   - **Zones**: This term is too general and doesn't specifically relate to the division of the lithosphere in the context of plate tectonics.\n   - **Plates**: In plate tectonics, the lithosphere is divided into plates that move relative to each other. These can be major or minor, depending on their size.\n   - **Faults**: These are fractures in the Earth's crust where movement has occurred. While faults are found at the boundaries of these divisions, they don't describe the divisions themselves.\n\nGiven this information, the most accurate term for the divisions of the lithosphere, considering both major and minor categories, is \"plates.\"\n\nANSWER: C",
+        "proposed_answer": "C"
+    },
+    {
+        "question": "No charge is actually created or destroyed when charges are separated as we have been discussing. rather, existing charges are moved about. in fact, in all situations the total amount of charge is always this?",
+        "answer": "B",
+        "choices": [
+            "less",
+            "constant",
+            "smaller",
+            "more"
+        ],
+        "response": "To solve this question, let's consider the fundamental principle of conservation of charge.\n\n1. The principle states that charge cannot be created or destroyed, only transferred from one body to another.\n2. This means that in any process, the total charge remains unchanged.\n\nGiven this understanding:\n\n- Option A (\"less\") and Option C (\"smaller\") and Option D (\"more\") suggest a change in the total amount of charge, which contradicts the principle of conservation of charge.\n\n- Option B (\"constant\") aligns with the principle that the total amount of charge does not change, only the distribution of charges changes.\n\nTherefore, based on the principle of conservation of charge:\n\nANSWER: B",
+        "proposed_answer": "B"
+    },
+    {
+        "question": "What happens to air density and pressure when gas molecules are warm?",
+        "answer": "D",
+        "choices": [
+            "they are greater",
+            "they are unchanged",
+            "they are equal",
+            "they are lower"
+        ],
+        "response": "To solve this, let's consider the basic principles of physics and chemistry related to gases.\n\n1. **Effect of Temperature on Gas Molecules**: When gas molecules are warmed, they gain kinetic energy. This increased energy causes the molecules to move more rapidly.\n\n2. **Effect on Density**: As gas molecules move more rapidly with increased temperature, they spread out. This spreading out results in the same number of molecules occupying a larger volume. Density is defined as mass per unit volume. If the mass remains constant but the volume increases, the density decreases.\n\n3. **Effect on Pressure**: Pressure is defined as the force exerted per unit area on the surface of an object or on the surface of the container holding the gas. When gas molecules are warmed and move more rapidly, they collide more frequently and with greater force against the walls of their container. However, the key factor here is the relationship described by the ideal gas law (PV = nRT), where P is pressure, V is volume, n is the number of moles of gas, R is the gas constant, and T is temperature in Kelvin. If the volume is allowed to increase (as it typically does in an open system or a system not constrained to a fixed volume), the pressure may not increase as much as it would if the volume were fixed. However, in a fixed volume scenario, pressure increases with temperature. But considering a scenario where volume can change (like in the atmosphere), as molecules spread out (increasing volume), and assuming no change in the number of molecules, both density and pressure decrease because the molecules are spread over a larger volume.\n\nGiven these principles:\n\n- Warming gas molecules causes them to spread out.\n- This spreading out decreases both air density (because the same mass of gas now occupies a larger volume) and pressure (as the force is distributed over a larger area due to increased volume).\n\nTherefore, when gas molecules are warm, both air density and pressure are **lower** because the gas expands.\n\nANSWER: D",
+        "proposed_answer": "D"
+    }
+]

@@ -1,0 +1,3002 @@
+[
+    {
+        "question": "A most common complication of Colles",
+        "choices": [
+            "Malunion",
+            "Avascular necrosis",
+            "Finger stiffness",
+            "Rupture of EPL tendon"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hinge fracture is seen in -",
+        "choices": [
+            "Vault",
+            "Ant cranial fossa",
+            "Middle cranial fossa",
+            "Posteriorcamtal fossa"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Anti-alpha fodrin autoantibodies are seen in",
+        "choices": [
+            "Polymyositis",
+            "Crohn's disease",
+            "Sjogren's syndrome",
+            "Grave's disease"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pregnancy leads to development of?",
+        "choices": [
+            "Respiratory alkalosis",
+            "Respiratory acidosis",
+            "Metabolic acidosis",
+            "Metabolic alkalosis"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Most common type of congenital adrenal hyperplasis is",
+        "choices": [
+            "11 β Hydroxylase deficiency",
+            "21 Hydroxylase deficiency",
+            "17 α Hydroxylase deficiency",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The critical narrowing of coronary vessels to cause angina is -",
+        "choices": [
+            "More than 50%",
+            "More than 60%",
+            "More than 70%",
+            "More than 80%"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Regarding Campylobacter jejuni not true is -",
+        "choices": [
+            "Most common cause of Campylobacteriosis",
+            "Poultry is the cause of the disease",
+            "Human is the only reservoir",
+            "Causes Guillain barre syndrome"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "HLA associated with psoriasis",
+        "choices": [
+            "HLA-B27",
+            "HLA-DR4",
+            "HLA-CW6",
+            "HLA-B8"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A 2-month-old infant is brought to the clinic because of poor feeding, sweating, and difficulty breathing. The parents state that she was doing very well, and has actually been a \"very easy going baby\", until about a week ago. They assumed that she was developing a \"cold\", but it has not passed, and the symptoms have been worsening. Cardiac examination reveals a loud, harsh systolic murmur with a thrill that is heard best at the left sternal border. The most likely underlying abnormality is",
+        "choices": [
+            "aoic stenosis",
+            "atrial septal defect",
+            "ventricular septal defect",
+            "patent ductus aeriosis"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Optic foramen is located between",
+        "choices": [
+            "Between greater & lesser wing of sphenoid",
+            "Between two roots of lesser wing of sphenoid",
+            "Between two roots of greater wing of sphenoid",
+            "Between ethmoidal and frontal bones"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "True about fibroid is all except",
+        "choices": [
+            "Pseudo capsulated",
+            "Slow growing",
+            "Least vascular periphery",
+            "Calcifications begins from periphery"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nerve supply of Stapedius is",
+        "choices": [
+            "2nd Cranial Nerve",
+            "3rd Cranial Nerve",
+            "5th Cranial Nerve",
+            "7th Cranial Nerve"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Investigation of choice to demonstrate vesico ureteral reflux",
+        "choices": [
+            "Isotope cystogram",
+            "Contrast Micturating Cysto Urethrogram",
+            "IVP",
+            "Cystoscopy"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Senile cardiac amyloidosis associated protein is ?",
+        "choices": [
+            "Transthyretin",
+            "ANP",
+            "Beta 2 microglobin",
+            "Gelsolin"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Dark brown post mortem lividity is seen in-",
+        "choices": [
+            "Aniline",
+            "CO",
+            "Phosphorus",
+            "Hydrocyanide"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All of the following pathogenic bacteria fulfill Koch's postulates, except?",
+        "choices": [
+            "Treponema pallidum",
+            "Yersinia pestis",
+            "Bacillus anthracis",
+            "Helicobacter pylori"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Patients with generalized anxiety disorder have?",
+        "choices": [
+            "Delusion",
+            "Night mares",
+            "Obsession",
+            "Worries"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A child presents with sudden loss of vision with painful ocular movements. The eye is white and there are no obvious signs on ophthalmoscopy. The most likely diagnosis is",
+        "choices": [
+            "Optic nerve glioma",
+            "Retrobulbar neuritis",
+            "Craniopharyngioma",
+            "Eales disease"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Most common bone fracture in body is:",
+        "choices": [
+            "Radius",
+            "Clavicle",
+            "Femur",
+            "Vertebra"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "True about corpus callosum",
+        "choices": [
+            "Unite far area of two sides of brain",
+            "Connect two frontal lobe",
+            "Unite two hemisphere",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The gingival fibre group which inserts in two adjacent teeth is the?",
+        "choices": [
+            "Horizontal group",
+            "Circular group",
+            "Trans-septal group",
+            "Oblique group"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Carbon dioxide trasported in blood mostly as -",
+        "choices": [
+            "CarboxyHb",
+            "In combination with plasma proteins",
+            "Bicarbonate",
+            "Carbonic acid dissolved in plasma"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A 60 year old male patient complains of bleeding from gums and loss of appetite. Histopathologic examination reveals basophilic leukocytosis. This patient may be suffering from?",
+        "choices": [
+            "Hodgkin lymphoma",
+            "Systemic lupus erythematosus​",
+            "Chronic myeloid leukemia",
+            "Bordetella pertussis infection"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "First cell in RBC development is",
+        "choices": [
+            "Proerythroblast",
+            "Intermediate normoblast",
+            "Reticulocyte",
+            "Basophilic erythroblast"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Good clinical practice (GCP) seen in all except",
+        "choices": [
+            "Preclinical trials",
+            "Phase I trials",
+            "Phase II trials",
+            "Phase IV trials"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chloride responsive alkalosis, causes are -a) Severe vomitingb) Bartter's syndromec) Milk alkali syndromed) Frusemide therapy",
+        "choices": [
+            "acd",
+            "bcd",
+            "abc",
+            "ab"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Megaloblastic anaemia is caused by all EXCEPT :",
+        "choices": [
+            "Aspirin",
+            "Primidone",
+            "Methotrexate",
+            "N2O"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "How is under-nutrition defined?",
+        "choices": [
+            "Weight for age < -2 SD",
+            "Weight for height < -2 SD",
+            "Weight for age < -3 SD",
+            "Weight for height < - 3 SD"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following drugs is not a pa of the ' -Triple Therapy' immunosuppression for post-renai transplant patients ?",
+        "choices": [
+            "Cyclosporine",
+            "Azathioprine",
+            "FK506",
+            "Prednisolone"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is least seen in uterine fibroid",
+        "choices": [
+            "Hyaline degeneration",
+            "Sarcomatous change",
+            "Red degeneration",
+            "Fatty degeneration"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A patient had seven irregular hyperpigmented macules on the trunk and multiple small hyperpigmented macules in the axillae and groins since early childhood. There were no other skin lesions. Which is the most likely investigation to suppo the diagnosis?",
+        "choices": [
+            "Slit lamp examination of eye",
+            "Measurement of intraocular tension",
+            "Examination of fundus",
+            "Retinal aery angiography"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A 24-year-old unmarried women has multiple nodular, cystic, pustular and comadonic lesions on face, upper back and shoulders for 2 years. The drug of choice for her treatment would be:",
+        "choices": [
+            "Acitretin",
+            "Isotretinoin",
+            "Doxycycline",
+            "Azithromycin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following substances is commonly used by washerman to put marks on clothes -",
+        "choices": [
+            "Calotropis procera",
+            "Plumbago rosea",
+            "Semecarpus anacardium",
+            "Croton tigluiurns"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which level of prevention is applicable in a population without any risk factor -",
+        "choices": [
+            "Primordial prevention",
+            "Primary prevention",
+            "Secondary prevention",
+            "Tertiary prevention"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which among the following is an example for Inflammatory bowel disease",
+        "choices": [
+            "Irritable bowel syndrome",
+            "Tropical sprue",
+            "Whipple's disease",
+            "Crohn's disease"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "About glycolysis true is:",
+        "choices": [
+            "Occurs in mitochondria",
+            "Complete breakdown of glucose",
+            "Conversion of glucose to 3C units",
+            "3 ATPs are used in anaerobic pathway"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Contrast dye(s) used in MR1:",
+        "choices": [
+            "Gadolinium",
+            "Iodine",
+            "Myodinium",
+            "Technitium"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "All of the following factors contribute to Resurgence of malaria, Except-",
+        "choices": [
+            "Drug resistance in host",
+            "Drug resistance in parasite",
+            "Insecticide resistance in vectors",
+            "Antigenic variations in parasite"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "To define obesity on the basis of BMI, it should be-",
+        "choices": [
+            ">20",
+            ">30",
+            ">35",
+            ">40"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is given in the form of an intralesional injection to treat keloid?",
+        "choices": [
+            "Heparin",
+            "Triamcinolone",
+            "Danazole",
+            "Hydrocoisone"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In a preadolescent child, the maximum midline diastema that will be closed spontaneously after canine eruption:",
+        "choices": [
+            "1 mm",
+            "2 mm",
+            "4 mm",
+            "5 mm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Radiological appearance of 'corkscrew oesophagus' is a characteristic finding seen in the condition:",
+        "choices": [
+            "Achalasia cardia",
+            "Diffuse esophageal spasm",
+            "Carcinoma esophagus",
+            "Reflux oesophagitis"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Florence test detects: JIPMER 13",
+        "choices": [
+            "Inositol",
+            "Choline",
+            "Spermine",
+            "Citric acid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Smoking is generally not associated as a risk factor with -",
+        "choices": [
+            "Small cell carcinoma",
+            "Respiratory bronchiolitis",
+            "Emphysema",
+            "Bronchiolitis obliterans organizing pneumonia"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "201. Sheetal, 39-yrs-old presents with chronic abdominal cramps, watery diarrhea, and periodic facial flushing. Examination reveals wheezing and a slightly enlarged liver. Work up reveals several masses within the liver and a large mass in the small intestine. Which of the following substances is likely to be elevated in her urine?",
+        "choices": [
+            "5-HIAA",
+            "Aminolevulinic acid (ALA)",
+            "FIGLU",
+            "Norepinephrine"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "LDH, / LDH2 in acute MI is -",
+        "choices": [
+            ">1.0",
+            ">1.5",
+            ">2.0",
+            ">2.5"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is not a platelet associated coagulation factor?",
+        "choices": [
+            "vWF",
+            "Factor IX",
+            "Factor XI",
+            "Factor XIII"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "True about Glasgow coma scale:",
+        "choices": [
+            "Includes verbal response",
+            "Includes papillary reflex",
+            "High score means poor prognosis",
+            "Includes measurement of intracranial pressure"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A 40-year-old woman has experienced chest pain on exertion for the past 2 months. A month ago, she had pneumonia with Streptococcus pneumoniae cultured from her sputum. On physical examination, she has a body mass index of 35. A random blood glucose value is 132 mg/dL. The next day, fasting blood glucose is 120 mg/dL, followed by a value of 122 mg/ dL on the following day. She is given an oral glucose tolerance test, and her blood glucose is 240 mg/dL 2 hours after receiving the standard 75-g glucose dose. On the basis of these findings, she is prescribed an oral thiazolidinedione (TZD) drug. After 2 months of therapy, her fasting blood glucose is 90 mg/ dL. The beneficial effect of TZD in this patient is most likely related to which of the following processes?",
+        "choices": [
+            "Activation of PPARg nuclear receptor in adipocytes",
+            "Decreased production of insulin autoantibodies",
+            "Greater density of insulin receptors in adipocytes",
+            "Increased half-life of circulating plasma insulin"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trickling filter is used in –",
+        "choices": [
+            "Primary treatment of sewage",
+            "Scondary treatment of sewage",
+            "Oxygen ponds",
+            "Sewage farming"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A 6 year old child does not have any permanent tooth erupted in oral cavity. By what maximum age the tooth should erupt normally?",
+        "choices": [
+            "7.5 years",
+            "8.5 years",
+            "6.5 years",
+            "all of the above"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The most common condition of inherited blindness due to mitochondrial chromosomal anomaly is-",
+        "choices": [
+            "Retinopathy of prematurity",
+            "Leber's Hereditary Optic neuropathy",
+            "Retinitis pigmentosa",
+            "Retinal detachment"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Indication for surgery in a case of adrenal incidentaloma:",
+        "choices": [
+            "Size>5 cm",
+            "Bilateral adrenal metastasis",
+            "Functional tumor",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Treatment of choice for acute Kawasaki disease is -",
+        "choices": [
+            "Low molecular weight heparin",
+            "Aspirin",
+            "Intravenous immunoglobulin",
+            "Mycophenolate mofetil"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pleomorphic adenomas (mixed tumors) of the salivary glands are characterized by which of the following?",
+        "choices": [
+            "They occur most commonly on the lips, tongue, and palate",
+            "They grow rapidly",
+            "They rarely recur if simply enucleated",
+            "They present as rock-hard masses"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Acute yellow Fatty Liver is caused by which of the following poisonings?",
+        "choices": [
+            "Aconite",
+            "Arsenic",
+            "Lead",
+            "Mercury"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The preferred public health approach to control non-communicable disease is -",
+        "choices": [
+            "Shift the population based approach",
+            "Focus on high risk individuals for reduction of risk",
+            "Early diagnosis and treatment of identified cases",
+            "Individual disease based veical programmes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Treatment of choice for medullary carcinoma of thyroid is -",
+        "choices": [
+            "Total thyroidectomy",
+            "Partial thyroidectomy",
+            "1131 ablation",
+            "Hemithyroidectomy"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Size of uterus in inches is:",
+        "choices": [
+            "5x4x2",
+            "4x3x1",
+            "3x2x1",
+            "4x2x1"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All of the following drugs useful in the treatment of a patient with acute bronchial asthma EXCEPT: March 2004",
+        "choices": [
+            "Ipratropium",
+            "Salbutamol",
+            "Monteleukast",
+            "Hydrocoisone"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Radial aery is cannulated to measure: March 2013 (f)",
+        "choices": [
+            "Hea rate",
+            "Blood pressure",
+            "CVP",
+            "End tidal CO2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The lateral border of the right kidney is related to which of the following structures ?",
+        "choices": [
+            "right lobe of the liver and to the hepatic flexure of the colon",
+            "right lobe of the liver and to the descending colon",
+            "the spleen and to the descending colon",
+            "the spleen and to the hepatic flexure of the colon"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "An event that is caused by an error in vaccine preparation, handling, or administration is called as:",
+        "choices": [
+            "Coincidental event",
+            "Injection reaction",
+            "Vaccine reaction",
+            "Programme error"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following condition is associated with Iris pearls?",
+        "choices": [
+            "Sarcoidosis",
+            "Hansen's disease",
+            "Tuberculosis",
+            "Sympathetic ophthalmitis"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The most reliable criteria in Gustafson method of age estimation is -",
+        "choices": [
+            "Attrition",
+            "Secondary dentin deposition",
+            "Transparency of root",
+            "Cementum apposition"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Best diagnosis of ovulation is by :",
+        "choices": [
+            "Ultrasound",
+            "Laproscopy",
+            "Endometrial biopsy",
+            "Chromotubation"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In the liver cells, triglycerides are formed primarily in the following organelle:",
+        "choices": [
+            "Rough endoplasmic reticulum",
+            "Smooth endoplasmic reticulum",
+            "Golgi apparatus",
+            "Ribosomes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "General visceral fibres do not supply",
+        "choices": [
+            "Smooth muscles",
+            "Skeletal muscles",
+            "Cardiac muscles",
+            "Glands"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which activity will be difficult to perform for a patient with an anterior cruciate deficient knee joint-",
+        "choices": [
+            "Walk downhill",
+            "Walk uphill",
+            "Sit cross leg",
+            "Getting up from sitting"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following statements is false regarding Japanese Encephalitis:",
+        "choices": [
+            "Transmitted by culex mosquitoes",
+            "Water tanks serve as breeding sites",
+            "Pigs are amplifers",
+            "Four dose of vaccine"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Sexually active males comes with complaints of recurrent ulcers over the glans which heals with hyperpigmentation probable diagnosis is",
+        "choices": [
+            "Aphthous ulcer",
+            "Fixed drug eruptions",
+            "Herpes-genitalis",
+            "Chlamydial infection"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "All the features of the Ileum EXCEPT:",
+        "choices": [
+            "Larger circular muscosal folds",
+            "Short villi",
+            "Peyer's patches",
+            "Numerous solitary lymphatic follicles"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Structure of brain involved in emotiona) Neocortexb) Limbic systemc) Thalamusd) Hippocampuse) Basal ganglia",
+        "choices": [
+            "bd",
+            "d",
+            "ab",
+            "ac"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "True about branchial cyst; is all except",
+        "choices": [
+            "Arise from lower third of sternocleidomastoid",
+            "Peak age of presentation is 3rd decade",
+            "Cyst wall consists of lymphoid tissue",
+            "Fluid contains cholesterol crystal"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "High air flow oxygen enriched devices",
+        "choices": [
+            "Are variable performance devices",
+            "Deliver constant concentrations of oxygen",
+            "Require oxygen entrainment",
+            "Require closed face masks."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which amongst the following is the indication for parenteral iron therapy?",
+        "choices": [
+            "Compliant patient",
+            "Intolerance to oral iron",
+            "When an immediate rise of Hb is required such as a patient in labour",
+            "To decrease the duration of oral medication"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Acute endocarditis with abscess is most commonly associated with?",
+        "choices": [
+            "Listeria",
+            "Staphylococcus",
+            "Streptococcus",
+            "Enterococcus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Non-parenteral hepatitis is :",
+        "choices": [
+            "Hepatitis E",
+            "Hep B",
+            "Hep C",
+            "Hep D"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Identity the Instrument used in ENT surgery",
+        "choices": [
+            "Eve's Tonsillar snare",
+            "Luc Nasal forceps",
+            "Denis Browne Tonsil Holding forceps",
+            "ST Clair Thompson curette"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Staph aureus causes",
+        "choices": [
+            "Erythrasma",
+            "Chancroid",
+            "Acne vulgaris",
+            "Bullous impetigo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Binding of proteins to DNA is regulated by",
+        "choices": [
+            "Copper",
+            "Zinc",
+            "Selenium",
+            "Nickle"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A 58 year old male presents with hematuria. He s diagnosed of having bladder cancer which extends muscle deep. The best treatment is -",
+        "choices": [
+            "Intravesical Chemotherapy",
+            "Neoadjuvant chemotherapy followed by radical cystectomy",
+            "Radiotherapy",
+            "Tranurethral resection"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "High dose radiotherapy causes pancreatic -",
+        "choices": [
+            "Acinar dificiency",
+            "Islets of Langerhans deficiency",
+            "A +B",
+            "None"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is the cause of sudden and unexpected onset of dyspnea at rest: September 2011",
+        "choices": [
+            "Severe anemia",
+            "Spontaneous pneumothorax",
+            "COPD",
+            "Large pleural effusion"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A young child, who has had abnormal development of the membranous bones has a broad skull with associated facial and dental anomalies. Which other bones is most likely to be also affected?",
+        "choices": [
+            "Clavicles",
+            "Femurs",
+            "Metatarsals",
+            "Phalanges"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following DPP IV inhibitors does not require dose modification in Chronic kidney disease patients",
+        "choices": [
+            "Sitagliptin",
+            "Vildagliptin",
+            "Linagliptin",
+            "All of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All the following are conditions precipitating hemolysis in G6PD deficiency?",
+        "choices": [
+            "Ingestion of fava beans",
+            "Viral hepatitis",
+            "Antimalarials  - primaquine,chloroproguanil",
+            "Intake of acetaminophen and aspirin"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tympanic membrane develops from?",
+        "choices": [
+            "Mesoderm",
+            "Endoderm",
+            "Ectoderm",
+            "All three germ layers"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In which of the following types of carcinoma breast, comedo growth pattern is seen?",
+        "choices": [
+            "Ductal carcinoma in situ",
+            "Medullary carcinoma",
+            "Lobular carcinoma in situ",
+            "Infiltrating lobular carcinoma"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Rigid gas permeable lens are made of-",
+        "choices": [
+            "Plymethymethacrylate",
+            "Hydroxymethylmethacrylate",
+            "Co polymer of PMMA, Silicon containing monomer & cellulose acetyl butyrate",
+            "Cellulose acetae Butyrate"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When the dental plaque is allowed to accumulate in the absence of any plaque control procedures, it results in gingivitis within",
+        "choices": [
+            "1 to 3 days",
+            "7 to 21 days",
+            "2 months to 3 months",
+            "24 hours to 48 hours"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Acute tubular necrosis can be caused by-",
+        "choices": [
+            "Contrast media",
+            "Hemolysis",
+            "Shock",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Plaque is transmitted by: September 2005",
+        "choices": [
+            "Flea",
+            "Soft tick",
+            "Mites",
+            "Hard tick"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is TRUE for morphine :",
+        "choices": [
+            "Tolerance to all its actions except sedation and euphoria",
+            "Tolerance to all side effects except constipation and miosis.",
+            "It is a peripherally acting analgesic.",
+            "It has no abuse potential."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "HRCT is investigation of choice for diagnosing all of the following conditions, EXCEPT:",
+        "choices": [
+            "Sarcoidosis",
+            "Miliary tuberculosis",
+            "Interstitial fibrosis",
+            "Pulmonary aery aneurysm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ionising radiation acts on tissue depending upon:",
+        "choices": [
+            "Linear acceleration energy",
+            "Excitation of electron from orbit",
+            "Formation of pyrimidine dimers",
+            "Thermal injury"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ortolani's test is done for",
+        "choices": [
+            "Congenial dislocation of the knee joints",
+            "Congenital dislocation of the hip joints",
+            "Congenital dislocation of the shoulder joints",
+            "Congenital dislocation of the elbow joints"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Most common presentation of adult rhinosporodiosis is ?",
+        "choices": [
+            "Halitosis",
+            "Pain",
+            "Anosmia",
+            "Polypoidal mass"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "ATT drug causing contact lens stainig is",
+        "choices": [
+            "INH",
+            "Rifamipicin",
+            "Streptomycin",
+            "Pyrazinamide"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The Predominant source of blood supply to the organ whose histological slide is shown in?",
+        "choices": [
+            "Hepatic aery",
+            "Hepatic Vein",
+            "Poal vein",
+            "Cystic aery"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Continued production of estrogen and progesterone from the corpus luteum of the ovary is essential during the implantation process. The corpus luteum of the ovary (now known as the corpus luteum of pregnancy) is maintained by the secretion of human chorionic gonadotropin from which source?",
+        "choices": [
+            "The embryoblast cells",
+            "The endometrial glands",
+            "The hypoblast cells",
+            "The trophoblast cells"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The total volume of CSF in an adult is about -",
+        "choices": [
+            "100-150 ml",
+            "300-350 ml",
+            "500-550 ml",
+            "600-650 ml"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Estimation of age done after 25 years with changes in teeth is by",
+        "choices": [
+            "Galton system",
+            "Bertillon system",
+            "Gustafsan's method",
+            "Pearson's formula"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All of the following hormones affect the intrauterine growth of the foetus, EXCEPT:",
+        "choices": [
+            "Growth hormone",
+            "Insulin",
+            "Thyroxine",
+            "Glucocoicoids"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "All are true state statements about malignant hypehermia except",
+        "choices": [
+            "Autosomal dominant condition",
+            "TIVA safe in Malignant Hypehermia",
+            "Malignant hypehermia is hyp,ermetabolic state with Elevated end tidal CO2,Tachypnea, or tachycardia, Masseter spasm if succinycholine used & Gen muscle rigidity",
+            "Oral DANTROLENE is drug of choice"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Most common organism causing neonatal meningitis is",
+        "choices": [
+            "E. coli",
+            "Listeria",
+            "Pseudomonas",
+            "Staph aureus"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Dysthyroid ophthalmopathy all are true except:",
+        "choices": [
+            "Proptosis",
+            "Myopathy",
+            "Exophthalmos",
+            "Optic neuritis"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which morphological type of cataract is most visually handicapping ?",
+        "choices": [
+            "Cortical",
+            "Nuclear",
+            "Posterior subcapsular",
+            "Zonular"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Caries vaccine works by all the following except",
+        "choices": [
+            "Monoclonal antibodies are formed which attach to the tooth surface by adhering to the salivary pellicle",
+            "Strep.mutans binds to the antibodies",
+            "New flora is established",
+            "Strep.fecalis takes the place occupied by Strep.mutans"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Increased alkaline phosphate are in seen in-",
+        "choices": [
+            "Multiple myeloma",
+            "Primary hyperparathyroidism",
+            "Chronic renal Mure",
+            "Osteoporosis"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Inhibition of 5- lipoxygenase is useful in:",
+        "choices": [
+            "cardiac failure",
+            "bronchial asthma",
+            "hepatic failure",
+            "arthritis"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The greatest potential for wearing exists when :",
+        "choices": [
+            "Porcelain opposes porcelain.",
+            "Porcelain opposes acrylic.",
+            "Porcelain opposes gold.",
+            "Porcelain opposes natural teeth."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which component of diet effects plaque composition",
+        "choices": [
+            "Carbohydrate",
+            "Mineral",
+            "Protein",
+            "Fats/lipids"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following neuronal pathways are implicated in amyotropic lateral sclerosis?",
+        "choices": [
+            "Involves posterior column only",
+            "Involves lower motor neuron only",
+            "Involves Raphae nucleus",
+            "Involves both upper and lower motor neurons"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "True about montelukast is:",
+        "choices": [
+            "It inhibit lipooxygenase pathway",
+            "It decreases the frequency of asthma attacks as com pared to glucocoicoids",
+            "It blocks LT receptor",
+            "It is effective in acute bronchial asthma"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All of the following are true about osmotic diuretics except:",
+        "choices": [
+            "It expands extracellular fluid compartment and increases renal blood flow",
+            "Osmotic diuretics are used in cerebral edema",
+            "Osmotic diuretics are used in active cerebral bleeding",
+            "Mannitol is used in Acute congestive glaucoma"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Treatment of neurogenic diabetes insipidus is?",
+        "choices": [
+            "Vasopressin",
+            "Desmopressin",
+            "Terlipressin",
+            "Amiodarone"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Catalase positive, coagulase negative beta hemolytic bacteria",
+        "choices": [
+            "Strep pyogens",
+            "Staph aureus",
+            "CONS",
+            "Enterococci"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nasal cycle is the cyclical alternate nasal blockage occurring:",
+        "choices": [
+            "Every 6-12 hours",
+            "Every 4- 12 hours",
+            "Every 6-8 Hours",
+            "Every 12-24 hours"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All of the following statements about penicillin-binding proteins are true EXCEPT :",
+        "choices": [
+            "Present on cell surface",
+            "Mutation in PBPs gives rise to resistance",
+            "These are target site of vancomycin",
+            "These are targeted by imipenem"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not a sonographic criterion for cesarean scar pregnancy",
+        "choices": [
+            "Anterior uterine isthmic mass",
+            "Hourglass uterine shape",
+            "Empty cervical canal",
+            "Hyperechoic thin endometrial stripe"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Rapid Antigen Test for meningitis organisms in a child can be done on the following specimens except",
+        "choices": [
+            "Blood",
+            "CSF",
+            "Urine",
+            "Throat swab"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What should be the value of BMI for it to be classified as obesity?",
+        "choices": [
+            "> 50",
+            "> 40",
+            "> 30",
+            "> 20"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which is most economical and best screening?",
+        "choices": [
+            "Mass screening",
+            "High risk screening",
+            "Multiphasic screening",
+            "Any of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "True about colonic volvulus",
+        "choices": [
+            "Most common in caecum",
+            "Common in psychiatric pt.",
+            "Bird's beak sign",
+            "May present as intestinal obstruction"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is not a typical feature of Meniere's disease",
+        "choices": [
+            "Sensorineural deafness",
+            "Veigo",
+            "Pulsatile tinnitus",
+            "Fluctuating deafness"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Calcaneum is associated most commonly with which # -",
+        "choices": [
+            "# rib",
+            "# vertebrae",
+            "# skull",
+            "# fibula"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Function of Stapedius is:",
+        "choices": [
+            "Protects the ear from loud frequency sound",
+            "Helps in hearing sounds of low frequency",
+            "Helps in hearing sounds of high frequency",
+            "Helps in hearing whispered words"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pas of fallopian tube from ovary to uterus are:",
+        "choices": [
+            "Infundibulum-isthmus-ampullary -intramural",
+            "Ampulla -isthmus -intramural -infundibulum",
+            "Infundibulum -Ampulla- Isthmus -Intramural",
+            "Isthmus- Ampulla- Infundibulum- Intramural"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Genetic component of Superfemale is",
+        "choices": [
+            "XX",
+            "XXY",
+            "XO",
+            "XXX"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following structures contribute to development of Kidney?",
+        "choices": [
+            "Metanephros",
+            "Mesonephros",
+            "Blastema",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hepatorenal syndrome feature are -",
+        "choices": [
+            "Urine sodium < 10 mEq/L",
+            "Normal renal histology",
+            "Renal function abnormal even after liver become normal",
+            "Proteinuria < 500 mg/day"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The enzymes secreted by endocrinal pa of pancreas are all except:",
+        "choices": [
+            "Somatostatin",
+            "Chymotrypsin",
+            "Glucagon",
+            "Insulin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following about Nonbacterial thrombotic endocarditis (NBTE) is false?",
+        "choices": [
+            "Characterized by the deposition of sterile thrombi on cardiac valves",
+            "The vegetations in NBTE are typically small (1 to 5 mm in diameter)",
+            "Valvular damage is a prerequisite for NBTE to occur",
+            "Hypercoagulable states are the usual precursor to NBTE"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The age and sex structure of a population may be best described by",
+        "choices": [
+            "Life table",
+            "Correlation coefficient",
+            "Population pyramid",
+            "Bar cha"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Patient on verapamil should not be given beta blocker as ?",
+        "choices": [
+            "Conduction block",
+            "Bronchospasm",
+            "Neurogenic shock",
+            "Anaphylaxis"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A 30-year-old woman presents to the clinic complaining of fatigue. In addition, she reports that her urine is very dark and \"tea color\" like, and today her partner commented that her eyes look yellow. Her past medical history is significant for myasthenia gravis for which she is taking azathioprine and pyridostigmine. Laboratory investigations reveal findings in keeping with autoimmune hemolytic anemia. The chest x-ray (CXR) reveals an anterior mediastinal mass. Which of the following is the most likely diagnosis?",
+        "choices": [
+            "thymoma",
+            "nodular sclerosing Hodgkin disease",
+            "small cleaved cell non-Hodgkin lymphoma",
+            "teratoma"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Mannose 6 phosphate containing freshly synthesized proteins are directed to",
+        "choices": [
+            "Nucleus",
+            "Lysosomes",
+            "Mitochondria",
+            "Golgi apparatus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Occlusion of the ant descending branch of LAD will lead to infarction of which area?",
+        "choices": [
+            "Posterior pa of the interventricular septum",
+            "Anterior wall of the left ventricle",
+            "Lateral pa of the hea",
+            "Inferior surface of right ventricle"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Serological testing of a patient shows HBsAg, Ig Manti HBc and HBeAg positive. The patient has:",
+        "choices": [
+            "Chronic hepatitis B with low infectivity",
+            "Acute hepatitis B with high infectivity",
+            "Chronic hepatitis B with high infectivity",
+            "Acute on chronic hepatitis"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pseudomonal infection should not be cleaned by:",
+        "choices": [
+            "Dettol",
+            "Hypochlorite",
+            "Chlorine",
+            "Betadine"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In papilledema, all the following are true except",
+        "choices": [
+            "Blurring of the disc",
+            "Congestion of retinal veins",
+            "Soft white exudates around the disc",
+            "Sudden loss of vision"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Churg-strauss involves following except -",
+        "choices": [
+            "Lungs",
+            "Kidenys",
+            "Small blood vessels",
+            "Heart"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chances of multiple sclerosis are maximum if",
+        "choices": [
+            "Mother has the disease",
+            "Father has the disease",
+            "Mother is carrier",
+            "Father is carrier"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following drug is most commonly used world wide in maintenance doses for opioid dependence?",
+        "choices": [
+            "naltrexone",
+            "Methadone",
+            "Imipramine",
+            "Disulfiram"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Gasless abdomen in X-ray is a sign of -",
+        "choices": [
+            "Acute pancreatitis",
+            "Necoising enterocolitis",
+            "Ulcerative colitis",
+            "Intussusception"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which is the most likely inheritance pattern of the disease in the family pedigree cha given below?",
+        "choices": [
+            "Autosomal recessive type",
+            "Autosomal dominant type",
+            "X-Linked dominant type",
+            "X-linked recessive type"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A two months old child presents with epiphora and regurgitation. The most probable diagnosis is -",
+        "choices": [
+            "Mucopurulent conjunctivitis",
+            "Buphthalmos",
+            "Congenital dacryocystitis",
+            "Encysted mucocele"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In Wegeners glomerulonephritis characteristic feature seen is",
+        "choices": [
+            "Granuloma in the vessel wall",
+            "Focal necrotizing glomerulonephritis",
+            "Nodular glomerulosclerosis",
+            "Interstitial granuloma"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Skip granulomatous lesions are seen in",
+        "choices": [
+            "Ulcerative colitis",
+            "Crohn's disease",
+            "Whipple's disease",
+            "Reiter's disease"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A 72-year-old woman falls at home after an episode of dizziness. She had been complaining of low-back pain for 3 days before the fall. In the emergency department, she is hypotensive and has cold, clammy extremities. A pulsating mass is palpable on abdominal examination. Following resuscitation, the next step in the management should involve which of the following?",
+        "choices": [
+            "Peritoneal lavage",
+            "Immediate abdominal exploration",
+            "CT scan of the abdomen",
+            "Abdominal aortogram"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Severity of cyanosis in fallot's physiology is best decided by?",
+        "choices": [
+            "Size of V.S.D",
+            "Overriding of aoa",
+            "Degree of RVH",
+            "Degree of pulmonary stenosis"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Lyre sign in seen in",
+        "choices": [
+            "Grave's disease",
+            "Meniere's disease",
+            "Lateral sinus thrombosis",
+            "Carotid body tumour"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Resting membrane potential of neurons is about",
+        "choices": [
+            "+60mv",
+            "+70mv",
+            "-60mv",
+            "-70mv"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "True statements about ABPA include all of the following, Except:",
+        "choices": [
+            "Serum IgE > 1000 ng/ml",
+            "Eosinophils > 1000/mm3",
+            "Elevated IgG antibodies",
+            "Lower lobe predominance"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pulmonary edema PCWP-",
+        "choices": [
+            ">28 mm Hg",
+            "15 mm Hg",
+            "> 10 mm Hg",
+            "> 8 mmg"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "25 year old patient presented with mass in rt iliac fossa. Which after laparotomy was found to be carcinoid of 2.5 cm. in diameter. What will be next step in management -",
+        "choices": [
+            "Segmental resection",
+            "Appendicetomy",
+            "Rt. hemicolectomy",
+            "Do yearly 5 HIAA assay."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In the conventional finger rest, the finger rest is established on the",
+        "choices": [
+            "Other side of the same arch",
+            "Tooth surface immediately adjacent to the working area",
+            "Opposing arch",
+            "Index finger or thumb of the non operating hand"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following disorders of eye is controlled using SAFE strategy?",
+        "choices": [
+            "Cataract",
+            "Trachoma",
+            "Glaucoma",
+            "Diabetic retinopathy"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "At low dose, linear increase in plasma drug concentration and at higher dose, steep increase in drug concentration is what type of kinetics?",
+        "choices": [
+            "First order",
+            "Saturation kinetics",
+            "Pseudo zero order",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Gene silencing RNA",
+        "choices": [
+            "rRNA",
+            "tRNA",
+            "miRNA",
+            "None"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is an impoant disinfectant on account of effectively destroying gram positive and gram negative bacteria, viruses and even spores at low pH levels?",
+        "choices": [
+            "Phenol",
+            "Alcohol",
+            "Chlorine",
+            "Hexachlorophene"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Involution forms are seen in",
+        "choices": [
+            "Lag phise",
+            "Log phase",
+            "Stationary phase",
+            "Phase of decline"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Unlocking of knee joint is done by which muscle?",
+        "choices": [
+            "Popliteus",
+            "Biceps femoris",
+            "Quadriceps",
+            "Gastrocnemeus"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "All are a differential diagnosis in hypochromic microcytic anaemia Except",
+        "choices": [
+            "Thalassemia",
+            "Iron deficiency",
+            "Sideroblastic anemia",
+            "Recent blood loss"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A 3-year-old recently adopted Romanian boy is referred after his initial pediatrician's assessment for an undescended testicle. On exam his left testicle is normal and in place. He has no evidence of hernias. However, his right hemiscrotum is empty and there is a testicule sized mass plapable at the pubic tubercle. The most appropriate next step is",
+        "choices": [
+            "Observation until age 5",
+            "Right orchiopexy",
+            "Right orchiopexy and right inguinal hernia repair",
+            "Right orchiopexy and right testicle biopsy"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Korotkoff sound is produced due to",
+        "choices": [
+            "Stream line flow of blood",
+            "Increase in viscosity of blood",
+            "Murmur",
+            "Turbulent flow of blood"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Fracture shaft of femur in children of less than 2 years old is treated by:",
+        "choices": [
+            "Open reduction",
+            "External fixation",
+            "Gallow's traction",
+            "Closed reduction"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "White persistent patch in mouth indicates",
+        "choices": [
+            "Mucormycosis",
+            "Streptococcal infection",
+            "Erythroplakia",
+            "All"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Complement C1 is produced by",
+        "choices": [
+            "Macrophages",
+            "Liver",
+            "Intestinal epithelium",
+            "Spleen"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is TRUE regarding Barrett&;s esophagus -",
+        "choices": [
+            "Seen in females",
+            "Responds to conservative management",
+            "Premalignant condition",
+            "Squamous metaplasia is seen"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "To obtain true conjugate, the following factor should be substracted from the diagonal conjugate :",
+        "choices": [
+            "0.5 cm",
+            "1.2 cm",
+            "2.5 cm",
+            "3.0 cm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In type -II respiratory failure, there is",
+        "choices": [
+            "Low p02 and low pCO2",
+            "Low p02 and high pCO2",
+            "Normal p02 and high pCO2",
+            "Low p02 and normal pCO2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Weil's disease is caused by:",
+        "choices": [
+            "Leptospira",
+            "Listeria",
+            "Mycoplasma",
+            "Legionella"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "All the following drugs act on the Microtubular Protein Tubulin EXCEPT:",
+        "choices": [
+            "Colchicine",
+            "Vincristin",
+            "Bleomycin",
+            "Paclitaxel"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All of the following drugs are administered orally except :",
+        "choices": [
+            "Ciprofloxacin",
+            "Cotrimoxazole",
+            "Gentamicin",
+            "Amoxicillin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "ALL of the following statement regarding the ECG in acute pericarditis are true except -",
+        "choices": [
+            "T wave inversions develop before ST elevation retur to baseline",
+            "Global ST segment elevation is seen in early pericarditis",
+            "Sinus tachycardia is a common finding.",
+            "PR segment depression is present in majority of patients"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "15 - 30% blood loss seen in what class of hemorrhagic shock",
+        "choices": [
+            "I",
+            "II",
+            "III",
+            "IV"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Variation in drug responsiveness to a paicular dose of the drug in different individuals can be obtained from",
+        "choices": [
+            "Quantal Dose Response Curve",
+            "Efficacy",
+            "Potency",
+            "Graded Dose Response Curve"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the best time to operate cleft lip?",
+        "choices": [
+            "Immediately after birth",
+            "1 to 3 months",
+            "3 months to 6 months",
+            "6 months to 1 year"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In a young female of reproductive age an absolute contraindication for prescribing oral contraceptive pills is",
+        "choices": [
+            "Diabetes",
+            "Hypeension",
+            "Obesity",
+            "Impaired liver function"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Uveitis with raised intraocular tension is best managed by",
+        "choices": [
+            "Timolol",
+            "Atropine",
+            "Pilocarpine",
+            "Steroid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Body dysmorphic disorder can be associated with all except",
+        "choices": [
+            "Bulimia nervosa",
+            "Mania",
+            "OCD",
+            "Anxiety"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Dose of acyclovir in a patient suffering from herpes labialis:",
+        "choices": [
+            "200 mg, five times a day for 5 days",
+            "400 mg, five times a day for 3 days",
+            "600 mg, five times a day for 5 days",
+            "800 mg, five times a day for 7 days"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Most common carcinoma of breast is",
+        "choices": [
+            "Ductal carcinoma",
+            "Mucinous carcinoma",
+            "Lobular carcinoma",
+            "Neuroendocrine carcinoma"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Per Rectal palpation of uterus is done in :",
+        "choices": [
+            "Primigravida",
+            "Virgins",
+            "Grand multi paras",
+            "Placenta pre"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Belief is",
+        "choices": [
+            "Temporary",
+            "Provisional",
+            "Permanent",
+            "Objective in nature"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cyclo propagative means:",
+        "choices": [
+            "Only development",
+            "Only multiplication",
+            "No development and no multiplication",
+            "M ul ti plication and development"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Mid diastolic murmur with presystolic accentuation is seen in?",
+        "choices": [
+            "Aortic stenosis",
+            "MVP",
+            "Mitral regurgitation",
+            "Mitral Stenosis"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A 11 year-old boy is brought to the physician with complaint that he gets up at night and while sleeping walks around the house for a few minutes before returning to bed. When parents try to wake him up he is confused and disoriented. Which of the following is the most appropriate treatment for him?",
+        "choices": [
+            "Tell the parents to maintain a safe environment and monitor the patient's symptoms",
+            "Sta the patient on a low dose of benzodiazepines at night",
+            "Sta the patient on a low dose of a tricyclic antidepressant",
+            "Tell the parents that the child would benefit from cognitive psychotherapy"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cervical cytology smear revealed CIN2- next step -",
+        "choices": [
+            "Colposcopy",
+            "Cryocautery",
+            "Hysterectomy",
+            "Laser ablation"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "All are given for management of burns EXCEPT?",
+        "choices": [
+            "Hypotonic solutions",
+            "Albumin",
+            "25% dextrose",
+            "Hartmann solution/ATLS"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chandipura virus multiplies in",
+        "choices": [
+            "Sandfly",
+            "Black fly",
+            "Simulum fly",
+            "Rat flea"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which is not true regarding Insulinoma -",
+        "choices": [
+            "Hypoglycemic attacks",
+            "Weight loss",
+            "Usually Solitary tumour",
+            "Mostly benign tumour"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "External cephalic version is contraindicated in all except:",
+        "choices": [
+            "Breech",
+            "Twins",
+            "Placenta pre",
+            "Previous"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thiazolidinedione is associated with increased risk of-",
+        "choices": [
+            "Hea failure",
+            "Pulmonary fibrosis",
+            "Myocarditis",
+            "Renal dysfunction"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is selective myosin activator?",
+        "choices": [
+            "Istaroxime",
+            "Omecamtiv & Mecarbil",
+            "Tolvaptan",
+            "Levosimendan"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "High or low fistula in ano is termed according to its internal opening present with reference to -",
+        "choices": [
+            "Anal canal",
+            "Dentate line",
+            "Anorectal ring",
+            "Sacral promontory"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Serum amylase level is raised in A/E",
+        "choices": [
+            "Blocked salivary duct",
+            "Ruptured ectopic",
+            "Appendicitis",
+            "Pancreatitis"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which among the following is NOT secreted by adrenal medulla:",
+        "choices": [
+            "Epinephrine",
+            "Nor epinephrine",
+            "Dopamine",
+            "Coisol"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Synovial sarcoma cellular markers are -a) Cytokeratinb) S-100c) Vimentind) Calretinin",
+        "choices": [
+            "abc",
+            "bc",
+            "acd",
+            "bcd"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A tangled mass of hyphae is",
+        "choices": [
+            "Conidia",
+            "Molds",
+            "Pseudopodia",
+            "Mycelium"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "True about Rotameter –",
+        "choices": [
+            "Rotameter reading may not get affected by dirt inside the tube",
+            "Rotameter reading may not get affected by static electricity",
+            "The height to which bobbin rises indicates the flow rate",
+            "A rotameter is a variable pressure flowmeter"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Non Parametric tests among the following:",
+        "choices": [
+            "Mann Whitney test",
+            "Student t-test",
+            "Pearson correlation",
+            "ANOVA"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A patient who has spider telangiectatic spots on skin should have an examination to determine the condition of his:",
+        "choices": [
+            "Lungs",
+            "Liver",
+            "Kidneys",
+            "Pancreas"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In which of the following conditions the level of creatinine kinase 1 increases?",
+        "choices": [
+            "Myocardial ischemia",
+            "Brain Ischemia",
+            "Kidney damage",
+            "Electrical cardioversion"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Following is true about safety muscle of tongue",
+        "choices": [
+            "Innervated by cranial pa of accessory nerve",
+            "Hypoglossal nerve",
+            "Attached to hard palate",
+            "None of the given options"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Waves seen in EEG during stage 4- NREM period of sleep is:",
+        "choices": [
+            "Alpha",
+            "Beta",
+            "Delta",
+            "Theta"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A 35-year-old smoker is involved in a house fire and receives a 45% total surface area burn. One half of the burned surface appears to be third degree. On the third post-burn day, the patient is noted to have bloody drainage from a nasogastric tube and a decrease of 5% in his hematocrit. Appropriate management should include which of the following?",
+        "choices": [
+            "Urgent upper gastrointestinal contrast study to delineate site of bleeding",
+            "Immediate selective aeriography the left gastric aery to diagnose and treat presumed stress ulceration",
+            "Urgent esophagogastroduodenoscopy to diagnosis the cause of bleeding",
+            "Urgent intravenous infusion of vasopressin at 0.2-0.4 IU/min"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All are synonyms except -",
+        "choices": [
+            "Heatstroke",
+            "Sunstroke",
+            "Heat hyperthermia",
+            "Heat collapse"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "One millimeter decrease in axial length of the eyeball leads to hypermetropia of:",
+        "choices": [
+            "6 dioptres",
+            "2 dioptres",
+            "3 dioptres",
+            "4 dioptres"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Landmark for superior laryngeal nerve block",
+        "choices": [
+            "Angle of mandible",
+            "C7 transverse process",
+            "Cricoid cailage",
+            "Great cornua hyoid bone"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Number of pustules to diagnose a possible severe bacterial infection in children is?",
+        "choices": [
+            "> 5",
+            "> 1O",
+            ">15",
+            ">20"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Functional adrenal incidentaloma of size is managed by",
+        "choices": [
+            "Laparoscopic adrenalectomy",
+            "Observation and biannual hormonal evaluation",
+            "Palliative management using mitotane",
+            "Chemotherapy using vineristine, Cyclophosphamide"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Mother with previous history of delivery a CAH child, what to do in next pregnancy in regard to steroid therapy",
+        "choices": [
+            "To sta before conception",
+            "To sta as soon as pregnancy is diagnosed",
+            "After chorionic villous sampling",
+            "Determine sex on usg and then sta steroid therapy"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A patient in shock comes to you in trauma ward. You examine him and decide not to give him vasoconstrictors. Which is the type of shock your patient is having ?",
+        "choices": [
+            "Neurogenic shock",
+            "Haemorrhagic shock",
+            "Secondary shock",
+            "Hypotension due to spinal anaesthesia"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not a mechanism for resistance to MRSA",
+        "choices": [
+            "Resistance is chromosomally mediated",
+            "Produced mainly by alteration in PBP's",
+            "MRSA resitance is absolutely beta lactamase dependent",
+            "Intrinsic resistance is known"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Number connection test is used in",
+        "choices": [
+            "Alzheimer's disease",
+            "Parkinson's disease",
+            "Hepatic encephalopathy",
+            "Global aphasia"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Glucose tolerance test is usually done to assess:",
+        "choices": [
+            "Acute pancreatitis",
+            "Carcinoma of head of pancreas",
+            "Acinar function of the pancreas",
+            "Endocrine dysfunction of pancreas"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The first line of treatment of open angle glaucoma is –",
+        "choices": [
+            "Timolol",
+            "Pilocarpine",
+            "Epinephrine",
+            "Carbonic anhydrase inhibitor"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Anthrax bacilli differs from anthracoid bacilli by being -",
+        "choices": [
+            "Non-capsulated",
+            "Strict aerobe",
+            "Non-motile",
+            "Haemolytic colonies on blood agar"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Iron is most commonly absorbed from:",
+        "choices": [
+            "Duodenum and upper jejunum",
+            "Lower jejunum",
+            "Stomach",
+            "Ileum"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Supposititious child is: March 2013 (d, h)",
+        "choices": [
+            "Illegitimate child",
+            "Fictitious child",
+            "Battered child",
+            "Posthumous child"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Long term adverse effect of tamoxifen is",
+        "choices": [
+            "Weight gain",
+            "Osteoporosis",
+            "Venous thrombosis",
+            "Breast cancer"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Now-a-days Down syndrome is referred to as",
+        "choices": [
+            "Submental disorder",
+            "Oligophrenia",
+            "Madness",
+            "Mentally unstable"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Maximum cardiac output is seen during which phase of pregnancy?",
+        "choices": [
+            "Ist trimester",
+            "IInd trimester",
+            "Labour",
+            "Immediate postpaum period"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Anthracosis is due to inhalation of-",
+        "choices": [
+            "Coal dust",
+            "Asbestos dust",
+            "Silica dust",
+            "Berylium dust"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A woman with H/o recurrent abortions presents with isolated increase in APTT. Most likely cause is:",
+        "choices": [
+            "Lupus anticoagulant",
+            "Factor VII",
+            "Von Willebrand's disease",
+            "Hemophilia A"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Ligament below head of talus is ?",
+        "choices": [
+            "Spring",
+            "Deltoid",
+            "Cervical",
+            "None"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "\"Smack\" is the \"common\" name for",
+        "choices": [
+            "Heroin",
+            "Cocaine",
+            "Opium",
+            "None"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A child on beta-2-agonist for treatment of bronchial asthma may exhibit all of the following features except?",
+        "choices": [
+            "Tremors",
+            "Hypoglycemia",
+            "Hypokalemia",
+            "Bronchodilation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Compression depth in CPR in Adults is?",
+        "choices": [
+            "1 inch",
+            "2 inch",
+            "3 inch",
+            "4 inch"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Red infarcts occur in -",
+        "choices": [
+            "Kidney",
+            "Lung",
+            "Spleen",
+            "Hea"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Dwarfism is caused by all EXCEPT",
+        "choices": [
+            "Thyroid deficiency",
+            "Growth hormone deficiency",
+            "Castration before pubey",
+            "GH-receptor unresponsiveness"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Onion peel appearance on radiograph is not seen in",
+        "choices": [
+            "Garre's osteomyelitis",
+            "Ewing's sarcoma",
+            "Osteogenic sarcoma",
+            "Fibrous dysplasia"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Painless, heavy, recurrent bleeding of sudden onset is seen in: March 2005",
+        "choices": [
+            "Cervical carcinoma",
+            "Circumvallate placenta",
+            "Placenta prae",
+            "Abruptio placentae"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Study the following table of population in a district and the average population served per doctor. Calculate the harmonic mean: AREA POPULATION SERVED PER DOCTOR POPULATION NUMBER OF DOCTORS RURAL 1000 50000 50 URBAN 500 50000 100 TOTAL 100000 150",
+        "choices": [
+            "500",
+            "567",
+            "667",
+            "750"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "This condition is treated by:",
+        "choices": [
+            "Surgery when medical treatment has failed",
+            "Nissensfundoplication",
+            "Medical treatment only",
+            "None of the above"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If a diabetic patient being treated with an oral hypoglycemic agent develops dilutional Hyponatremia, which one of the following could be responsible for this effect",
+        "choices": [
+            "Chlorpropamide",
+            "Tolbutamide",
+            "Glyburide",
+            "Glimepride"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Medial epicondylitis is called?",
+        "choices": [
+            "Tennis elbow",
+            "Golfer's elbow",
+            "Student elbow",
+            "Miners elbow"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A 65 year old lady underwent mastectomy for Carcinoma breast. Later she developed frontal headache, pain in temple region and around eye. Her ESR is 55 mm/hour. What is the most probable diagnosis?",
+        "choices": [
+            "Cavernous sinus thrombosis",
+            "Meningeal metastasis",
+            "Frontal sinusitis",
+            "Giant cell aeritis"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Dystrophin is lacking in",
+        "choices": [
+            "Polio",
+            "Duchenne's muscular dystrophy",
+            "Peroneal muscular atrophy",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which is the first order neuron in optic pathway?",
+        "choices": [
+            "Bipolar cells",
+            "Ganglionic cells",
+            "Cells of lateral geniculate body",
+            "Astrocytes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Inversion and eversion occurs at which joint",
+        "choices": [
+            "Subtalar and midtarsal",
+            "Calcaneo navicular",
+            "Midtarsal",
+            "Calcaneocuboid only"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "C-carbohydrate in Streptococcus hemolyticus is impoant for-",
+        "choices": [
+            "Lancefield classification",
+            "Phagocytic inhibition",
+            "Toxin production",
+            "Haemolysis"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What Is the best and most sensitive Investigation for hypothyroidism ?",
+        "choices": [
+            "TSH levels",
+            "TRH levels",
+            "T3",
+            "T4"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the enzymatic defect which causes Hunter's Disease?",
+        "choices": [
+            "a) L- Iduronidase",
+            "b) Iduronate sulphatase",
+            "c) Beta Galactosidase",
+            "d) All of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "True about mycoplasma -",
+        "choices": [
+            "Obligate intracellular organism",
+            "Penicillin is effective treatment",
+            "Require cholesterol for growth",
+            "Have thick cell wall"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Gas responsible for Bhopal Gas tragedy was:",
+        "choices": [
+            "Methyl isocyanate",
+            "Potassium isocyanate",
+            "Sodium isocyanate",
+            "Ethyl isocyanate"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A graft that has been derived from another species of a different genetic disposition is also known as a:",
+        "choices": [
+            "Allograft",
+            "Isograft",
+            "Homograft",
+            "Heterograft"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Haemorrhagic cystitis is caused by",
+        "choices": [
+            "Cyclophosphamide",
+            "Busulphan",
+            "Prednisolone",
+            "Melphalan"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Miner's cramp are due to ?",
+        "choices": [
+            "Heat collaps",
+            "Heat cramps",
+            "Sunstroke",
+            "Heat exhaustion"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Uterus, before menarche, is lined by: September 2011",
+        "choices": [
+            "Ciliated columnar epithelium",
+            "Stratifies squamous non-keratinized epithelium",
+            "Staifies squamous keratinized epithelium",
+            "Cuboidal epithelium"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A female newborn was found to have a large midline tumor in the lower sacral area, which was diagnosed as a sacrococcygeal tumor. Which of the following courses of treatment is recommended for this child?",
+        "choices": [
+            "Immediate chemotherapy and radiation treatment",
+            "Surgical removal by age 6 months",
+            "Surgical removal at age 4-5 years",
+            "Surgical removal at age 13-15 years"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "All these are the properties of exotoxin except:",
+        "choices": [
+            "Heat stable",
+            "Highly antigenic",
+            "Neutralized by antibodies",
+            "Protein in nature"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is responsibile for pubeal growth in females",
+        "choices": [
+            "Decreased level of adrenal androgens at pubey",
+            "Low level of estrogen at pubey",
+            "Pulsatile release of GnRh during sleep",
+            "Increased sensitivity of HPO axis to estrogen"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Femoral sheath contains all except",
+        "choices": [
+            "Femoral artery",
+            "Femoral vein",
+            "Femoral nerve",
+            "Lymph node"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Examination of a peripheral blood smear demonstrates leukemia composed of small mature lymphocytes without blast forms. Which of the following is the most likely age of this patient?",
+        "choices": [
+            "1 year",
+            "20 years",
+            "45 years",
+            "65 years"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Monoaicular joint involvement is seen in which of the following: September 2007",
+        "choices": [
+            "Primary osteoahritis",
+            "Rheumatoid ahritis",
+            "Tubercular ahritis",
+            "Sero-neagtive spond-ahritis"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Epimer combination (s) is/are",
+        "choices": [
+            "D-glucose & D-fructose",
+            "D-mannose & D-talose",
+            "D-glucose & D-mannose",
+            "D-glucose & D-gulose"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Gray hepatization of lungs is seen in day -",
+        "choices": [
+            "1",
+            "3-Feb",
+            "5-Mar",
+            "8-Apr"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Placenta pre at 32 weeks, management of choice is :",
+        "choices": [
+            "Oxytocin IN",
+            "Ergometrine I/V",
+            "Conservative treatment",
+            "PN examination & ARM"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Composition of Varnish is:",
+        "choices": [
+            "10% copal resin+90%solvent",
+            "90% copal resin+10%solvent",
+            "50% copal resin+50% solvent",
+            "39% copal resin+70%solvent"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The leukotriene receptor antagonist used in bronchial asthma is:",
+        "choices": [
+            "Zafirleukast",
+            "Zileuton",
+            "Ketotifen",
+            "Omalizumab"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which one of the following coenzyme is associated with glycogen phosphorylase?",
+        "choices": [
+            "Thiamine pyrophosphate",
+            "Tetrahydrofolate",
+            "Flavin mononuleotide",
+            "Pyridoxal phosphate"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The most frequent symptom of gastric diverticulum is",
+        "choices": [
+            "Epigastric pain",
+            "Haematemesis",
+            "Vomiting",
+            "Pain relieved by food"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "X-ray of a child's arm after a fall appears to show a fracture near, but not at, distal end of the ulna. Before diagnosing a fracture, you should also consider the possibility that this is actually which of the following?",
+        "choices": [
+            "Aicular cailage",
+            "Epiphyseal plate",
+            "Perichondrium",
+            "Primary ossification center"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Acoustic shadow in USG is due to",
+        "choices": [
+            "Aefact",
+            "Absorption",
+            "Reflection",
+            "Refraction"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Lesion of which area can lead to visual field defects like this:",
+        "choices": [
+            "Optic nerve",
+            "Central Chiasma",
+            "Lateral chiasma",
+            "LGB"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Gastric infection with H.pylori account for all these adverse events , EXCEPT:",
+        "choices": [
+            "Peptic ulcer disease",
+            "Gastric MALT lymphoma",
+            "GERD",
+            "Gastric adenocarcinoma"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Venous return to hea during quiet standing is facilitated by all of the following factors, except",
+        "choices": [
+            "Calfmuscle contraction during standing",
+            "Valves in perforators",
+            "Sleeve of deep fascia",
+            "Gravitational ihcrease in aerial pressure"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "First heart sound occurs during the:",
+        "choices": [
+            "Isovolumetric ventricular systole.",
+            "Isovolumetric ventricular diastole.",
+            "Protodisatole.",
+            "Ventricular ejection."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "All of the following are seen in psoriasis except -",
+        "choices": [
+            "Auspitz sign present",
+            "10% associated with arthritis",
+            "It is premalignant disease",
+            "Worsening of disease during winter"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "An 18 year old female patient reports for her routine orthodontic appointment. 1st premolars from all quadrants had been extracted at the beginning of treatment. Her current status reveals 3 mm of space between the canines and 2nd premolars in all quadrants. Class II elastics were initiated to close these spaces. The type of anchorage provided by the elastics is known as :",
+        "choices": [
+            "Intramaxillary anchorage",
+            "Baker’s anchorage",
+            "Moyer’s anchorage",
+            "Absolute anchorage"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "All of the following are true about abdominal compament syndrome except:",
+        "choices": [
+            "Characterized by a increased peak inspiratory pressure, decreased urinary output",
+            "Can lead to fatal complications due to pulmonary failure and mesenteric vascular compromise",
+            "A urinary bladder catheter is the gold standard indirect method used to measure IAP",
+            "Grade III abdominal compament syndrome is managed by hypovolemic resuscitation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Erythema multiforme ?",
+        "choices": [
+            "Staphylococcus",
+            "TB",
+            "HSV",
+            "EBV"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Wasting of the intrinsic muscles of the hand can be expected to follow injury of the -",
+        "choices": [
+            "Ulnar nerve",
+            "Radial nerve",
+            "Brachial nerve",
+            "Axillary nerve"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Isolaion is not carried out in one of the following",
+        "choices": [
+            "Plague",
+            "Cholera",
+            "AIDS",
+            "Chicken pox"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following conditions is due to membrane receptor defect?",
+        "choices": [
+            "Beta thalassemia",
+            "Familial hypercholesterolemia",
+            "HSP",
+            "Sickle cell disease"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Oncocytic carcinoma arises from -",
+        "choices": [
+            "Perivascular",
+            "Glomerulus",
+            "Loop of henle",
+            "Collecting duct"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is autosomal dominant disorder?",
+        "choices": [
+            "Tuberous sclerosis",
+            "Von Hipple - Lindau disease",
+            "Neuro fibromatosis",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The blood gas parameters: pH 7.58, pCO2 23 mm pO2 300 mm Hg and oxygen saturation 60% are most consistent with -",
+        "choices": [
+            "Carbon monoxide poisoning",
+            "Ventilatory malfunction",
+            "Voluntary hyperventilation",
+            "Methyl alcohol poisoning"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trousseau's syndrome is classically seen with:",
+        "choices": [
+            "Carcinoma stomach",
+            "MEN type II",
+            "Neuroendocrine tumors",
+            "Carcinoma pancreas"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pendred syndrome due to mutation of -",
+        "choices": [
+            "Bartillin",
+            "Pendrin",
+            "Fibrillin",
+            "Reticulin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Whihc of the following is true about meningococcal Meningitis-",
+        "choices": [
+            "Case fatality less than 10% in untreated cases",
+            "Cases are main source of infection",
+            "Rifampicin is the Drug of choice",
+            "Treatment in the first 2 days can save the life of 95% cases"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Activation of protein kinase-C causes",
+        "choices": [
+            "Increase adenylyl cyclase",
+            "Phosphorylation of proteins",
+            "Increased cAMP",
+            "Increased ion channel conduction"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Contraction of muscle can be caused by",
+        "choices": [
+            "Release of noradrenaline",
+            "Release of acetylcholine",
+            "Release of serotonin",
+            "Release of histamine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Type I MEN involves all except-",
+        "choices": [
+            "Pancreas",
+            "Adrenal",
+            "Pituitary",
+            "Parathyroid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is seen in Ulcerative colitis?",
+        "choices": [
+            "Cryptitis",
+            "Crypt loss",
+            "Crypt branching",
+            "Proliferating mucosa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following type of joint is proximal radioulnar joint?",
+        "choices": [
+            "Hinge joint",
+            "Ball and socket joint",
+            "Pivot joint",
+            "Saddle joint"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Steroid receptor superfamily is present in :",
+        "choices": [
+            "Vitamin D3",
+            "Insulin",
+            "Glucagon",
+            "All"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In brachytherapy of carcinoma cervix, dose of radiation to Point A is",
+        "choices": [
+            "1000 rad",
+            "4000 rad",
+            "6000 rad",
+            "8000 rad"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "All of the following are mediators of inflammation except-",
+        "choices": [
+            "Tumour necrosis factor-a",
+            "Interleukin-1",
+            "Myeloperoxidase",
+            "Prostaglandins"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sarcodiosis can be associated with",
+        "choices": [
+            "Cranial diabetes insipidus",
+            "Psychogenic polydypsia",
+            "Nephrogenic diabetes insipidus",
+            "SAIDH"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "True statement about clonidine are all except-",
+        "choices": [
+            "Increases parasympathetic outflow",
+            "Decreases sympathetic outflow by blocking central alpha receptor",
+            "Used in Hypertension",
+            "Prazosin is used to antagonize side effects of clonidine"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tone of lower esophageal sphincter is increased by-",
+        "choices": [
+            "NO",
+            "VIP",
+            "Acetylcholine",
+            "Epinephrine"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following conditions is worsened by prostaglandin E infusion?",
+        "choices": [
+            "Pulmonary atresia without VSD",
+            "Hypoplastic left hea syndrome",
+            "Obstructive TAPVC",
+            "Aoic arch interruption"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sample registration is done",
+        "choices": [
+            "Every 3 months",
+            "Every 6 months",
+            "Every 9 months",
+            "Every 12 months"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The most common symptom of AIDS in an infant is",
+        "choices": [
+            "Gastrointestinal infection",
+            "Persistent cough",
+            "Failure to thrive",
+            "Lymphadenopathy"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Bone pearl appearance is seen in -",
+        "choices": [
+            "Electrical bums",
+            "Hydrocution",
+            "Strangulation",
+            "Throttling"
+        ],
+        "answer": 0
+    }
+]

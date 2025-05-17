@@ -1,0 +1,57 @@
+{
+    "logiqa_sample.json": {
+        "total_count": 1120,
+        "original_correct_ratio": 0.48002958579881655,
+        "final_correct_ratio": 0.5385178669419735,
+        "choose_other_ratio": 0.26503010968090224,
+        "choose_other_given_original_correct_ratio": 0.2103320003238685,
+        "choose_other_given_original_incorrect_ratio": 0.31843607182376443,
+        "original_correct_given_change_ratio": 0.3540515476262125,
+        "original_incorrect_given_change_ratio": 0.6459484523737874,
+        "new_answer_ratio": 0.00734640705794552
+    },
+    "medmcqa_sample.json": {
+        "total_count": 486,
+        "original_correct_ratio": 0.48138297872340424,
+        "final_correct_ratio": 0.577508620638535,
+        "choose_other_ratio": 0.19130201291539173,
+        "choose_other_given_original_correct_ratio": 0.09942094439377047,
+        "choose_other_given_original_incorrect_ratio": 0.28373726598239346,
+        "original_correct_given_change_ratio": 0.27105429292929295,
+        "original_incorrect_given_change_ratio": 0.603945707070707,
+        "new_answer_ratio": 0.0013297872340425532
+    },
+    "mmlu_sample.json": {
+        "total_count": 444,
+        "original_correct_ratio": 0.49085365853658536,
+        "final_correct_ratio": 0.5480642849697727,
+        "choose_other_ratio": 0.13439445040054798,
+        "choose_other_given_original_correct_ratio": 0.06995879120879121,
+        "choose_other_given_original_incorrect_ratio": 0.19662831553789,
+        "original_correct_given_change_ratio": 0.17961309523809524,
+        "original_incorrect_given_change_ratio": 0.6953869047619048,
+        "new_answer_ratio": 0.014004213943238334
+    },
+    "mmlu_pro_sample.json": {
+        "total_count": 791,
+        "original_correct_ratio": 0.481408018618428,
+        "final_correct_ratio": 0.595308843123963,
+        "choose_other_ratio": 0.25671906734031036,
+        "choose_other_given_original_correct_ratio": 0.14201441987397007,
+        "choose_other_given_original_incorrect_ratio": 0.36924661618213406,
+        "original_correct_given_change_ratio": 0.2299467893217893,
+        "original_incorrect_given_change_ratio": 0.7700532106782108,
+        "new_answer_ratio": 0.010417822415657148
+    },
+    "commonsense_qa_sample.json": {
+        "total_count": 728,
+        "original_correct_ratio": 0.47879464285714285,
+        "final_correct_ratio": 0.5476702613193318,
+        "choose_other_ratio": 0.35861993745248455,
+        "choose_other_given_original_correct_ratio": 0.30006043868141535,
+        "choose_other_given_original_incorrect_ratio": 0.41505507972419736,
+        "original_correct_given_change_ratio": 0.45910814685623275,
+        "original_incorrect_given_change_ratio": 0.5408918531437673,
+        "new_answer_ratio": 0.0016025641025641025
+    }
+}

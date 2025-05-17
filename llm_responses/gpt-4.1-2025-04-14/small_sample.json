@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?",
+        "answer": "A",
+        "choices": [
+            "plaque",
+            "enamel",
+            "white blood cells",
+            "red blood cells"
+        ],
+        "response": "Step-by-step reasoning:\n\n1. The question asks what can rupture and cause fragments to travel in the bloodstream and lodge in other arteries.\n2. Plaque refers to the fatty deposits that build up in arteries (atherosclerosis). When plaque ruptures, fragments can break off and travel through the bloodstream, potentially causing blockages (emboli) in other arteries.\n3. Enamel is the hard outer layer of teeth and is not found in the bloodstream.\n4. White blood cells and red blood cells are normal components of blood and do not form fragments that lodge in arteries due to rupture.\n\nTherefore, the correct answer is the one that matches the process described in the question.\n\nANSWER: A",
+        "proposed_answer": "A"
+    },
+    {
+        "question": "The lithosphere is divided into a dozen major and several minor what?",
+        "answer": "C",
+        "choices": [
+            "crystals",
+            "zones",
+            "plates",
+            "faults"
+        ],
+        "response": "Step by step reasoning:\n- The lithosphere is the rigid outer layer of the Earth.\n- It is not divided into \"crystals\" (A), as crystals refer to mineral structures.\n- \"Zones\" (B) is too vague and not the standard geological term.\n- \"Plates\" (C) refers to tectonic plates, which is the correct geological term for the large sections the lithosphere is divided into.\n- \"Faults\" (D) are fractures in the Earth's crust, not the large divisions of the lithosphere.\n\nANSWER: C",
+        "proposed_answer": "C"
+    },
+    {
+        "question": "No charge is actually created or destroyed when charges are separated as we have been discussing. rather, existing charges are moved about. in fact, in all situations the total amount of charge is always this?",
+        "answer": "B",
+        "choices": [
+            "less",
+            "constant",
+            "smaller",
+            "more"
+        ],
+        "response": "Step-by-step reasoning:\n- The question discusses the principle that when charges are separated, no new charge is created or destroyed; charges are simply moved.\n- This is a direct reference to the law of conservation of charge, which states that the total amount of electric charge in an isolated system remains unchanged.\n- Therefore, the total amount of charge is always the same, or \"constant,\" regardless of how charges are moved.\n\nANSWER: B",
+        "proposed_answer": "B"
+    },
+    {
+        "question": "What happens to air density and pressure when gas molecules are warm?",
+        "answer": "D",
+        "choices": [
+            "they are greater",
+            "they are unchanged",
+            "they are equal",
+            "they are lower"
+        ],
+        "response": "When gas molecules are warm, they move faster and spread farther apart. This causes the air to expand, making both its density and pressure lower compared to cooler air (assuming the volume can change or the system is open). Therefore, both air density and pressure decrease when gas molecules are warm.\n\nANSWER: D",
+        "proposed_answer": "D"
+    }
+]

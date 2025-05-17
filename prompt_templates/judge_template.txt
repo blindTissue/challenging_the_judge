@@ -1,0 +1,14 @@
+Please evaluate these two conflicting responses and determine which one is correct. Your response should:
+1. Analyze both reasoning paths
+2. Provide your final conclusion and answer
+
+Your output should end with:
+ANSWER: [letter]
+
+Where [letter] is your final answer.
+
+Question: {question_text}
+
+First Response: {response_1}
+
+Second Response: {response_2}

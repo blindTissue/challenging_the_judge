@@ -1,0 +1,886 @@
+[
+    {
+        "question": "LDH, / LDH2 in acute MI is -",
+        "answer": "A",
+        "choices": [
+            ">1.0",
+            ">1.5",
+            ">2.0",
+            ">2.5"
+        ],
+        "response": "Let's break it down:\n\n1. LDH (Lactate Dehydrogenase) has five isoenzymes (LDH1 to LDH5). Normally, LDH2 is higher than LDH1 in serum.\n2. In acute myocardial infarction (MI), LDH1 rises more than LDH2, causing the LDH1/LDH2 ratio to flip (\"LDH flip\").\n3. The \"flip\" is considered significant when LDH1/LDH2 ratio becomes greater than 1.0.\n\nTherefore, the correct answer is:\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4o-mini-2024-07-18",
+        "challenging_response": "In the context of an acute myocardial infarction (MI), the ratio of lactate dehydrogenase (LDH) isoenzymes, specifically LDH1 to LDH2, is used as a diagnostic marker. In acute MI, LDH1 typically rises and LDH2 remains relatively stable, leading to a higher ratio of LDH1 to LDH2. \n\nThe normal ratio of LDH1 to LDH2 is usually less than 1.0, but in the case of an acute MI, this ratio can exceed 1.0, often reaching values greater than 1.5. However, it is most commonly noted that the ratio can be significantly elevated, often exceeding 2.0, indicating a strong likelihood of myocardial damage.\n\nGiven this information, the most appropriate answer is C. >2.0, as this reflects the significant elevation of LDH1 in relation to LDH2 during an acute MI.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Involution forms are seen in",
+        "answer": "D",
+        "choices": [
+            "Lag phise",
+            "Log phase",
+            "Stationary phase",
+            "Phase of decline"
+        ],
+        "response": "Let's break it down:\n\n1. Involution forms refer to abnormal or degenerative forms of bacteria, often seen when bacteria are under stress or dying.\n2. The bacterial growth curve has four phases: lag, log (exponential), stationary, and decline (death).\n3. In the lag phase, bacteria are adapting, not dividing rapidly.\n4. In the log phase, bacteria are actively dividing and healthy.\n5. In the stationary phase, growth rate slows due to nutrient depletion and waste accumulation, but most cells are still viable.\n6. In the phase of decline (death phase), nutrients are exhausted, waste is high, and many cells die or show abnormal forms (involution forms).\n\nTherefore, involution forms are most commonly seen in the phase of decline.\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4o-mini-2024-07-18",
+        "challenging_response": "Involution forms are atypical morphological changes that occur in bacteria, often in response to unfavorable conditions. These forms are typically observed during the stationary phase or the phase of decline when nutrients are depleted, and the environment becomes less favorable for growth.\n\n1. **Lag phase**: This is a period of adaptation where bacteria are not actively dividing, so involution forms are not present.\n2. **Log phase**: This is the exponential growth phase where bacteria are actively dividing, and again, involution forms are not typically seen.\n3. **Stationary phase**: In this phase, growth rate slows as resources become limited, and involution forms can appear as a survival strategy.\n4. **Phase of decline**: This phase follows the stationary phase and is characterized by a decrease in the number of viable cells, where involution forms may also be present.\n\nGiven that involution forms are primarily associated with the stationary phase due to stress conditions, the best answer is C.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "High air flow oxygen enriched devices",
+        "answer": "B",
+        "choices": [
+            "Are variable performance devices",
+            "Deliver constant concentrations of oxygen",
+            "Require oxygen entrainment",
+            "Require closed face masks."
+        ],
+        "response": "Let's break down the options:\n\nA. Are variable performance devices  \nHigh air flow oxygen enriched devices (like Venturi masks) are actually fixed performance devices, not variable, because they deliver a precise concentration of oxygen.\n\nB. Deliver constant concentrations of oxygen  \nThis is correct. High air flow devices are designed to deliver a constant, predictable concentration of oxygen regardless of the patient's breathing pattern.\n\nC. Require oxygen entrainment  \nWhile many high air flow devices do use entrainment of room air to achieve a specific oxygen concentration, this is not the defining feature.\n\nD. Require closed face masks.  \nHigh air flow devices do not necessarily require closed face masks; they can use open or partially open masks.\n\nTherefore, the best answer is B.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "Step 1: Understand the options:\n- A: Are variable performance devices \u2013 suggests they can change performance.\n- B: Deliver constant concentrations of oxygen \u2013 implies a fixed oxygen concentration.\n- C: Require oxygen entrainment \u2013 need to draw in room air to mix with oxygen.\n- D: Require closed face masks \u2013 specify a type of mask.\n\nStep 2: Recall that high flow oxygen devices (like Venturi masks or high flow nasal cannula) are designed to deliver a precise, consistent oxygen concentration regardless of the patient's breathing pattern, often by entraining room air to achieve a set FiO2.\n\nStep 3: Therefore:\n- They are designed to deliver a **constant** FiO2, not variable.\n- They often require oxygen entrainment to control the concentration.\n- They are not necessarily limited to closed face masks; they can be used with various interfaces.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Sarcodiosis can be associated with",
+        "answer": "A",
+        "choices": [
+            "Cranial diabetes insipidus",
+            "Psychogenic polydypsia",
+            "Nephrogenic diabetes insipidus",
+            "SAIDH"
+        ],
+        "response": "Step-by-step reasoning:\n\n1. Sarcoidosis is a granulomatous disease that can affect multiple organs, including the central nervous system.\n2. When sarcoidosis involves the hypothalamus or pituitary gland, it can disrupt the production or release of antidiuretic hormone (ADH).\n3. Cranial (central) diabetes insipidus is caused by a deficiency of ADH due to damage to the hypothalamus or pituitary.\n4. Psychogenic polydipsia is due to excessive water intake, not related to sarcoidosis.\n5. Nephrogenic diabetes insipidus is due to renal resistance to ADH, not typically associated with sarcoidosis.\n6. SIADH (syndrome of inappropriate antidiuretic hormone secretion) is characterized by excessive ADH, not deficiency.\n\nTherefore, the correct answer is cranial diabetes insipidus.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+        "challenging_response": "To approach this question, let's consider what sarcoidosis is and its potential effects on the body, particularly in relation to the options provided.\n\nSarcoidosis is a systemic granulomatous disease that can affect multiple organs, including the lungs, skin, eyes, and kidneys. It can cause a wide range of symptoms depending on the organs involved.\n\nA. Cranial diabetes insipidus (CDI) is a condition characterized by the insufficient production of antidiuretic hormone (ADH), also known as vasopressin, which is produced in the hypothalamus and released by the posterior pituitary gland. Sarcoidosis can affect the hypothalamus and pituitary gland, potentially leading to CDI.\n\nB. Psychogenic polydipsia is a condition of excessive water intake not caused by a medical condition but rather by psychological factors. While patients with sarcoidosis might experience a variety of symptoms, psychogenic polydipsia is not directly associated with the disease process itself.\n\nC. Nephrogenic diabetes insipidus (NDI) is a condition where the kidneys are unable to respond to ADH, leading to an inability to concentrate urine. Sarcoidosis can cause hypercalcemia, which can lead to NDI, but more directly, granulomatous infiltration of the kidneys in sarcoidosis can cause a form of NDI.\n\nD. SIADH (Syndrome of Inappropriate Antidiuretic Hormone Secretion) is a condition characterized by excessive release of ADH, leading to water retention and hyponatremia. While sarcoidosis can affect multiple systems, SIADH is not commonly associated with it; instead, CDI or NDI are more plausible given the disease's potential to affect the hypothalamic-pituitary axis or kidney function.\n\nGiven these considerations, the most directly related conditions to sarcoidosis from the provided options are A (Cranial diabetes insipidus) and C (Nephrogenic diabetes insipidus), with C being a well-documented complication.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Which component of diet effects plaque composition",
+        "answer": "A",
+        "choices": [
+            "Carbohydrate",
+            "Mineral",
+            "Protein",
+            "Fats/lipids"
+        ],
+        "response": "Step-by-step reasoning:\n\n1. Dental plaque is a biofilm that forms on teeth, and its composition is influenced by the nutrients available in the mouth.\n2. Carbohydrates, especially sugars, are metabolized by oral bacteria to produce acids, which contribute to plaque formation and its cariogenic (cavity-causing) potential.\n3. While minerals, proteins, and fats/lipids are present in the diet, they do not have as direct an effect on the composition of dental plaque as carbohydrates do.\n4. Carbohydrates provide the substrate for bacterial growth and acid production, which directly affects the makeup and pathogenicity of plaque.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-mini-2025-04-14",
+        "challenging_response": "Step 1: Understand what plaque composition refers to. In the context of diet and health, \"plaque\" often refers to dental plaque or arterial plaque.\n\nStep 2: If the question is about dental plaque, carbohydrates are known to influence its formation because bacteria metabolize sugars to produce acids that contribute to plaque buildup.\n\nStep 3: If the question is about arterial plaque (atherosclerosis), fats/lipids are the primary dietary component affecting its composition, as lipids accumulate in arterial walls forming plaques.\n\nStep 4: Since the question is general and does not specify dental or arterial plaque, consider the most common context in diet-related plaque discussions, which is arterial plaque.\n\nStep 5: Therefore, fats/lipids (D) are the main dietary component affecting plaque composition in arteries.\n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "Pseudomonal infection should not be cleaned by:",
+        "answer": "A",
+        "choices": [
+            "Dettol",
+            "Hypochlorite",
+            "Chlorine",
+            "Betadine"
+        ],
+        "response": "Let's analyze each option:\n\n- **A. Dettol:** Dettol is a commonly used antiseptic containing chloroxylenol. However, it is not effective against Pseudomonas species and can even promote their growth due to its composition.\n- **B. Hypochlorite:** Sodium hypochlorite (bleach) is effective against Pseudomonas.\n- **C. Chlorine:** Chlorine is also effective against Pseudomonas.\n- **D. Betadine:** Betadine (povidone-iodine) is effective against a broad range of bacteria, including Pseudomonas.\n\n**Reasoning:** Dettol is specifically known to be ineffective against Pseudomonas and should not be used for cleaning such infections.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "challenging_response": "To determine which option is not suitable for cleaning pseudomonal infections, let's evaluate each choice:\n\nA. Dettol - It's a disinfectant that can be effective against a wide range of bacteria, including Pseudomonas.\nB. Hypochlorite - This is a form of bleach and is known for its effectiveness against Pseudomonas.\nC. Chlorine - Similar to hypochlorite, chlorine is a strong disinfectant that can kill Pseudomonas.\nD. Betadine - It's an antiseptic that contains iodine, effective against many bacteria but not always reliable against Pseudomonas, especially in biofilm form.\n\nGiven the options, Betadine (iodine-based) might not be as effective as the other choices for cleaning surfaces contaminated with Pseudomonas, especially in cases of biofilm formation.\n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "Lyre sign in seen in",
+        "answer": "D",
+        "choices": [
+            "Grave's disease",
+            "Meniere's disease",
+            "Lateral sinus thrombosis",
+            "Carotid body tumour"
+        ],
+        "response": "Let's analyze each option:\n\nA. Grave's disease \u2013 This is an autoimmune disorder affecting the thyroid, not typically associated with the \"lyre sign.\"\n\nB. Meniere's disease \u2013 This is an inner ear disorder, not associated with the \"lyre sign.\"\n\nC. Lateral sinus thrombosis \u2013 This is a vascular condition involving the dural venous sinuses, not associated with the \"lyre sign.\"\n\nD. Carotid body tumour \u2013 This is a paraganglioma at the carotid bifurcation. The \"lyre sign\" refers to the splaying of the internal and external carotid arteries by a mass at the carotid bifurcation, which is characteristic of a carotid body tumour.\n\nTherefore, the correct answer is D.\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4o-mini-2024-07-18",
+        "challenging_response": "The \"lyre sign\" is a radiological finding that is typically associated with lateral sinus thrombosis. It refers to the appearance of the lateral sinus on imaging, which can resemble a lyre due to the changes in the surrounding structures caused by the thrombosis.\n\n- A. Grave's disease: This is an autoimmune disorder affecting the thyroid and does not relate to the lyre sign.\n- B. Meniere's disease: This is an inner ear disorder and is not associated with the lyre sign.\n- C. Lateral sinus thrombosis: This condition is directly associated with the lyre sign due to the characteristic changes in the lateral sinus on imaging.\n- D. Carotid body tumour: This is a type of tumor located at the carotid artery and does not relate to the lyre sign.\n\nBased on this reasoning, the correct answer is C.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "True about corpus callosum",
+        "answer": "D",
+        "choices": [
+            "Unite far area of two sides of brain",
+            "Connect two frontal lobe",
+            "Unite two hemisphere",
+            "All of the above"
+        ],
+        "response": "Let's analyze each option:\n\nA. Unite far area of two sides of brain  \n- The corpus callosum connects corresponding and distant areas of the left and right cerebral hemispheres.\n\nB. Connect two frontal lobe  \n- The corpus callosum does connect the left and right frontal lobes, among other regions.\n\nC. Unite two hemisphere  \n- The main function of the corpus callosum is to connect the two cerebral hemispheres.\n\nD. All of the above  \n- Since all the above statements are correct, this is the most comprehensive answer.\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-mini-2025-04-14",
+        "challenging_response": "Step 1: Understand what the corpus callosum is.  \nThe corpus callosum is a large bundle of nerve fibers that connects the two cerebral hemispheres of the brain, allowing communication between them.\n\nStep 2: Analyze each option.  \nA. \"Unite far area of two sides of brain\" \u2013 This is vague but somewhat true since the corpus callosum connects distant areas across hemispheres.  \nB. \"Connect two frontal lobe\" \u2013 The corpus callosum does connect corresponding lobes, including the frontal lobes, but it is not limited to just the frontal lobes.  \nC. \"Unite two hemisphere\" \u2013 This is the most accurate and general description; the corpus callosum connects the left and right hemispheres.  \nD. \"All of the above\" \u2013 Since A and B are partially true and C is fully true, this option could be considered correct if we accept the partial truths.\n\nStep 3: Choose the best answer.  \nOption C is the most precise and universally accepted description of the corpus callosum's function. Option D is tempting but A is vague and B is too specific, so the best concise answer is C.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "A 72-year-old woman falls at home after an episode of dizziness. She had been complaining of low-back pain for 3 days before the fall. In the emergency department, she is hypotensive and has cold, clammy extremities. A pulsating mass is palpable on abdominal examination. Following resuscitation, the next step in the management should involve which of the following?",
+        "answer": "B",
+        "choices": [
+            "Peritoneal lavage",
+            "Immediate abdominal exploration",
+            "CT scan of the abdomen",
+            "Abdominal aortogram"
+        ],
+        "response": "Let's break down the case:\n\n- Elderly woman with recent low-back pain, now with a fall, hypotension, cold/clammy extremities (signs of shock), and a palpable pulsatile abdominal mass.\n- This is classic for a ruptured abdominal aortic aneurysm (AAA).\n\nManagement priorities:\n- In a hemodynamically unstable patient with suspected ruptured AAA, immediate surgical intervention is required.\n- Imaging (CT, aortogram) is only for stable patients.\n- Peritoneal lavage is not indicated here.\n\nTherefore, after resuscitation, the next step is **immediate abdominal exploration** (surgery).\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "deepseek-ai/DeepSeek-V3",
+        "challenging_response": "To answer this question, let's analyze the clinical scenario step by step:\n\n1. **Key findings**: \n   - The patient is a 72-year-old woman with a history of low-back pain (a classic symptom of abdominal aortic aneurysm, AAA) and a recent fall. \n   - She is hypotensive with cold, clammy extremities, suggesting shock. \n   - A pulsating abdominal mass is palpable, which is highly suggestive of an AAA. \n   - The hypotension and shock-like symptoms raise concern for a ruptured AAA, a life-threatening emergency.\n\n2. **Next steps**:\n   - The patient has already been resuscitated, so the priority is confirming the diagnosis and proceeding to definitive treatment.\n   - While **immediate abdominal exploration (B)** might seem appropriate for a ruptured AAA, imaging is typically performed first to confirm the diagnosis and assess the anatomy, unless the patient is hemodynamically unstable to the point of requiring emergent surgery without delay.\n   - **CT scan of the abdomen (C)** is the most appropriate next step as it is rapid, noninvasive, and highly accurate for diagnosing a ruptured AAA. It also helps in surgical planning.\n   - **Abdominal aortogram (D)** is less commonly used in this acute setting because it is more invasive and time-consuming compared to CT.\n   - **Peritoneal lavage (A)** is outdated and not indicated here, as it does not diagnose a retroperitoneal bleed (common with AAA rupture) and delays definitive management.\n\n3. **Conclusion**: \n   - The patient is stable enough post-resuscitation to undergo a CT scan, which is the most efficient and accurate diagnostic tool for a suspected ruptured AAA. \n\nThus, the correct next step is a CT scan of the abdomen.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "What is the best time to operate cleft lip?",
+        "answer": "C",
+        "choices": [
+            "Immediately after birth",
+            "1 to 3 months",
+            "3 months to 6 months",
+            "6 months to 1 year"
+        ],
+        "response": "Step-by-step reasoning:\n- Cleft lip repair is ideally timed to optimize healing, minimize anesthesia risks, and support normal feeding and development.\n- The \"Rule of 10s\" is commonly used: at least 10 weeks of age, 10 pounds in weight, and 10 g/dL hemoglobin.\n- Immediate surgery after birth (A) is not recommended due to higher surgical and anesthetic risks.\n- 1 to 3 months (B) may be too early for some infants to meet the \"Rule of 10s.\"\n- 3 to 6 months (C) is the standard recommended window, as most infants meet the criteria and can safely undergo surgery.\n- 6 months to 1 year (D) is later than necessary and may delay speech and feeding development.\n\nANSWER: C",
+        "proposed_answer": "C",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4o-mini-2024-07-18",
+        "challenging_response": "Cleft lip repair is typically performed when the infant is old enough to tolerate anesthesia and has gained sufficient weight for surgery. The ideal time for this procedure is generally between 1 to 3 months of age. This timing allows for better surgical outcomes and minimizes the risk of complications. Operating too early (immediately after birth) may not be safe due to the infant's size and health status, while waiting too long (beyond 3 months) can lead to more complex surgical challenges and potential psychosocial impacts.\n\nTherefore, the best answer is B. 1 to 3 months.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "Following is true about safety muscle of tongue",
+        "answer": "B",
+        "choices": [
+            "Innervated by cranial pa of accessory nerve",
+            "Hypoglossal nerve",
+            "Attached to hard palate",
+            "None of the given options"
+        ],
+        "response": "Let's break down the question:\n\nThe \"safety muscle\" of the tongue refers to the genioglossus muscle, which is responsible for protruding the tongue and preventing it from falling back and obstructing the airway, especially during sleep.\n\nOption A: The accessory nerve (cranial part) does not innervate any tongue muscles.\nOption B: The hypoglossal nerve (cranial nerve XII) innervates all intrinsic and most extrinsic muscles of the tongue, including the genioglossus.\nOption C: The genioglossus is attached to the mandible, not the hard palate.\nOption D: This is incorrect because option B is correct.\n\nTherefore, the correct answer is the hypoglossal nerve.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "1. The safety muscle of the tongue is the palatoglossus, which is responsible for elevating the posterior part of the tongue. It is innervated by the vagus nerve (cranial nerve X), not the hypoglossal nerve or accessory nerve. It is attached to the soft palate, not the hard palate.\n\n2. Option A mentions the accessory nerve, which does not innervate the tongue muscles. Option B mentions the hypoglossal nerve, which innervates most intrinsic and extrinsic tongue muscles but not the palatoglossus. Option C states attachment to the hard palate, but the palatoglossus attaches to the soft palate.\n\n3. Therefore, none of the options correctly describe the safety muscle of the tongue.\n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "Which of the following drugs is not a pa of the ' -Triple Therapy' immunosuppression for post-renai transplant patients ?",
+        "answer": "C",
+        "choices": [
+            "Cyclosporine",
+            "Azathioprine",
+            "FK506",
+            "Prednisolone"
+        ],
+        "response": "Let's break down the typical \"Triple Therapy\" immunosuppression regimen for post-renal transplant patients:\n\n1. The classic triple therapy usually includes:\n   - A calcineurin inhibitor (either Cyclosporine or Tacrolimus/FK506)\n   - An antiproliferative agent (commonly Azathioprine or Mycophenolate Mofetil)\n   - A corticosteroid (Prednisolone)\n\n2. Cyclosporine (A) and FK506 (C, also known as Tacrolimus) are both calcineurin inhibitors, but only one is used at a time, not both together.\n\n3. Azathioprine (B) is an antiproliferative agent and is commonly used in triple therapy.\n\n4. Prednisolone (D) is a corticosteroid and is also a standard part of triple therapy.\n\n5. The question asks which is NOT a part of triple therapy. Since both Cyclosporine and FK506 are alternatives to each other (not used together), the answer is FK506 (Tacrolimus), if Cyclosporine is already included.\n\nANSWER: C",
+        "proposed_answer": "C",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4o-mini-2024-07-18",
+        "challenging_response": "To determine which drug is not part of the 'Triple Therapy' immunosuppression regimen for post-renal transplant patients, we need to identify the typical components of this therapy.\n\n1. **Triple Therapy Components**: The standard 'Triple Therapy' usually includes:\n   - A calcineurin inhibitor (e.g., Cyclosporine or FK506/Tacrolimus)\n   - An antiproliferative agent (e.g., Azathioprine or Mycophenolate Mofetil)\n   - A corticosteroid (e.g., Prednisolone)\n\n2. **Analyzing the Options**:\n   - **A. Cyclosporine**: This is a calcineurin inhibitor and is commonly used in triple therapy.\n   - **B. Azathioprine**: This is an antiproliferative agent and is also part of the regimen.\n   - **C. FK506 (Tacrolimus)**: This is another calcineurin inhibitor and can replace Cyclosporine in the regimen.\n   - **D. Prednisolone**: This is a corticosteroid and is included in the triple therapy.\n\n3. **Identifying the Outlier**: All the options listed are typically used in immunosuppression, but Azathioprine is less commonly used in modern regimens compared to Mycophenolate Mofetil. However, it is still considered part of the traditional triple therapy. \n\nSince all listed drugs can be part of immunosuppression, but the question asks for one that is not typically included in the 'Triple Therapy', we note that Azathioprine is often replaced by Mycophenolate Mofetil in contemporary practice.\n\nThus, the answer is **B. Azathioprine** as it is less commonly used in the current standard triple therapy.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "All of the following pathogenic bacteria fulfill Koch's postulates, except?",
+        "answer": "A",
+        "choices": [
+            "Treponema pallidum",
+            "Yersinia pestis",
+            "Bacillus anthracis",
+            "Helicobacter pylori"
+        ],
+        "response": "Let's analyze each option:\n\nA. Treponema pallidum \u2013 This is the causative agent of syphilis. It cannot be cultured on artificial media, which means it does not fulfill Koch's postulates (one of which requires the organism to be isolated and grown in pure culture).\n\nB. Yersinia pestis \u2013 This bacterium causes plague and can be cultured in the lab, fulfilling Koch's postulates.\n\nC. Bacillus anthracis \u2013 The causative agent of anthrax, and the classic organism used by Koch to develop his postulates. It fulfills all of them.\n\nD. Helicobacter pylori \u2013 This bacterium can be cultured and has been shown to cause disease in experimental models, fulfilling Koch's postulates.\n\nTherefore, the exception is Treponema pallidum.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "Koch's postulates require that a microorganism be found in all cases of the disease, isolated and grown in pure culture, cause the disease when introduced into a healthy host, and then be re-isolated from the experimentally infected host.\n\n- Treponema pallidum (syphilis) fulfills Koch's postulates; it was historically difficult to culture but has been demonstrated to fulfill them.\n- Yersinia pestis (plague) fulfills Koch's postulates; it can be isolated, cultured, and shown to cause disease.\n- Bacillus anthracis (anthrax) fulfills Koch's postulates; it can be isolated, cultured, and shown to cause disease.\n- Helicobacter pylori was initially difficult to fulfill Koch's postulates because it was hard to culture and demonstrate causality until later studies. Although now accepted as the causative agent of peptic ulcers, historically, it did not fulfill all of Koch's postulates initially, especially the requirement of pure culture and experimental reproduction in humans at the time of discovery.\n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "A tangled mass of hyphae is",
+        "answer": "D",
+        "choices": [
+            "Conidia",
+            "Molds",
+            "Pseudopodia",
+            "Mycelium"
+        ],
+        "response": "Let's break down the options:\n\nA. Conidia \u2013 These are asexual spores produced by fungi, not a mass of hyphae.\nB. Molds \u2013 This is a general term for certain types of fungi, but not specifically the tangled mass itself.\nC. Pseudopodia \u2013 These are extensions of the cell membrane in amoeboid cells, not related to hyphae.\nD. Mycelium \u2013 This is the correct term for a tangled mass of hyphae, which forms the main body of a fungus.\n\nTherefore, the correct answer is D.\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "1. Conidia are asexual spores, not a mass of hyphae.  \n2. Molds are fungi that grow as a network of hyphae, which can form a tangled mass.  \n3. Pseudopodia are temporary projections of cytoplasm in amoebas, unrelated to hyphae.  \n4. Mycelium is the network of hyphae, but the question specifies a tangled mass, which is characteristic of the overall growth form of molds, not just the hyphal network itself.  \n\nTherefore, the best answer describing a tangled mass of hyphae is \"Molds.\"  \n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "The most reliable criteria in Gustafson method of age estimation is -",
+        "answer": "C",
+        "choices": [
+            "Attrition",
+            "Secondary dentin deposition",
+            "Transparency of root",
+            "Cementum apposition"
+        ],
+        "response": "Let's break down the options:\n\n- **A. Attrition**: This refers to the wearing down of teeth, which can vary greatly depending on diet and habits, making it less reliable.\n- **B. Secondary dentin deposition**: This occurs with age, but the rate can be influenced by various factors, so it's not the most consistent indicator.\n- **C. Transparency of root**: This is considered the most reliable and consistent age-related change in teeth, as root transparency increases steadily with age and is less affected by external factors.\n- **D. Cementum apposition**: While cementum continues to be deposited with age, the rate can vary, making it less reliable than root transparency.\n\nTherefore, the most reliable criterion in the Gustafson method is the transparency of the root.\n\nANSWER: C",
+        "proposed_answer": "C",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "deepseek-ai/DeepSeek-V3",
+        "challenging_response": "To determine the most reliable criteria in Gustafson's method of age estimation, let's analyze the options:\n\n1. **Attrition (A)**: While attrition (wear of teeth) can indicate age, it is highly variable and influenced by diet, habits, and cultural factors, making it less reliable.\n\n2. **Secondary dentin deposition (B)**: This is a more reliable criterion because it occurs internally and is less affected by external factors. As age increases, secondary dentin is deposited in the pulp chamber, reducing its size predictably.\n\n3. **Transparency of root (C)**: Root transparency increases with age due to sclerotic changes in dentin. However, it is more subjective to measure and can be influenced by postmortem conditions.\n\n4. **Cementum apposition (D)**: Cementum deposition is continuous throughout life and can be a reliable indicator, but it requires microscopic examination and is more technique-sensitive.\n\nAmong these, **secondary dentin deposition (B)** is considered the most reliable because it is less influenced by external factors and shows a consistent age-related pattern. \n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "Maximum cardiac output is seen during which phase of pregnancy?",
+        "answer": "D",
+        "choices": [
+            "Ist trimester",
+            "IInd trimester",
+            "Labour",
+            "Immediate postpaum period"
+        ],
+        "response": "Let's break it down:\n\n1. Cardiac output increases during pregnancy to meet the metabolic demands of the mother and fetus.\n2. It rises progressively through the first and second trimesters.\n3. During labor, cardiac output increases further due to pain, anxiety, and uterine contractions.\n4. The maximum cardiac output is actually seen immediately after delivery (immediate postpartum period) because of autotransfusion of blood from the contracting uterus into the maternal circulation.\n\nTherefore, the correct answer is the immediate postpartum period.\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-mini-2025-04-14",
+        "challenging_response": "Step 1: Understand cardiac output changes in pregnancy.  \nCardiac output increases progressively during pregnancy due to increased blood volume and metabolic demands.\n\nStep 2: Consider each phase:  \n- **Ist trimester:** Cardiac output begins to rise but is not at its peak.  \n- **IInd trimester:** Cardiac output continues to increase, reaching near peak levels.  \n- **Labour:** Cardiac output reaches its maximum due to pain, anxiety, uterine contractions, and increased sympathetic activity.  \n- **Immediate postpartum period:** Cardiac output remains elevated but starts to decline as the body begins to return to pre-pregnancy state.\n\nStep 3: Conclusion:  \nMaximum cardiac output is seen during **labour** because of the combined effects of uterine contractions and sympathetic stimulation.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Sexually active males comes with complaints of recurrent ulcers over the glans which heals with hyperpigmentation probable diagnosis is",
+        "answer": "B",
+        "choices": [
+            "Aphthous ulcer",
+            "Fixed drug eruptions",
+            "Herpes-genitalis",
+            "Chlamydial infection"
+        ],
+        "response": "Let's analyze each option:\n\nA. Aphthous ulcer \u2013 These are usually found in the oral cavity, not on the glans penis, and do not typically heal with hyperpigmentation.\n\nB. Fixed drug eruptions \u2013 These are characterized by recurrent ulcers or lesions at the same site after exposure to a particular drug, and they often heal with hyperpigmentation. This fits the description well.\n\nC. Herpes-genitalis \u2013 Herpetic ulcers are recurrent but usually heal without hyperpigmentation and are often painful.\n\nD. Chlamydial infection \u2013 Chlamydia can cause urethritis and sometimes ulcers, but recurrent ulcers with hyperpigmentation are not typical.\n\nTherefore, the most likely diagnosis is fixed drug eruptions.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4o-mini-2024-07-18",
+        "challenging_response": "To determine the probable diagnosis for recurrent ulcers over the glans in sexually active males, we can analyze each option:\n\nA. **Aphthous ulcer**: These are typically found in the oral cavity and are not common on the glans. They also do not usually recur in the genital area.\n\nB. **Fixed drug eruptions**: These are localized skin reactions that occur in response to a specific drug. They usually present as well-defined lesions that recur at the same site but are not typically described as ulcers.\n\nC. **Herpes-genitalis**: This condition is caused by the herpes simplex virus and is characterized by recurrent painful ulcers in the genital area. The ulcers can heal with hyperpigmentation, which aligns with the symptoms described.\n\nD. **Chlamydial infection**: This typically presents with urethritis or cervicitis and may not cause ulcers on the glans.\n\nGiven the recurrent nature of the ulcers and the description of healing with hyperpigmentation, the most fitting diagnosis is **C. Herpes-genitalis**.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Which of the following is not a sonographic criterion for cesarean scar pregnancy",
+        "answer": "B",
+        "choices": [
+            "Anterior uterine isthmic mass",
+            "Hourglass uterine shape",
+            "Empty cervical canal",
+            "Hyperechoic thin endometrial stripe"
+        ],
+        "response": "Let's analyze each option:\n\nA. Anterior uterine isthmic mass  \n- This is a typical sonographic finding in cesarean scar pregnancy, as the gestational sac implants in the anterior lower uterine segment at the site of the previous cesarean scar.\n\nB. Hourglass uterine shape  \n- This is not a recognized sonographic criterion for cesarean scar pregnancy. It is not typically described in the literature as a feature of this condition.\n\nC. Empty cervical canal  \n- This is a criterion for cesarean scar pregnancy, as the gestational sac is not located in the cervical canal.\n\nD. Hyperechoic thin endometrial stripe  \n- This is also a recognized feature, as the endometrial cavity is usually empty and may appear as a thin hyperechoic stripe.\n\nTherefore, the correct answer is the one that is not a sonographic criterion for cesarean scar pregnancy.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "1. **Explanation:**\n- **A. Anterior uterine isthmic mass:** This is characteristic of cesarean scar pregnancy, as the mass is located at the scar site.\n- **B. Hourglass uterine shape:** This describes a uterine shape seen in cesarean scar pregnancy due to the bulging at the scar site.\n- **C. Empty cervical canal:** This is typical in cesarean scar pregnancy, indicating the pregnancy is implanted low and not in the cervical canal.\n- **D. Hyperechoic thin endometrial stripe:** The endometrial stripe is usually thin and hyperechoic, but this is not a specific criterion for cesarean scar pregnancy; it can be seen in normal or other abnormal pregnancies.\n\n2. **Concise reasoning:** The first three are specific sonographic signs of cesarean scar pregnancy, while a thin hyperechoic endometrial stripe is a general feature and not a criterion for diagnosis.\n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "Functional adrenal incidentaloma of size is managed by",
+        "answer": "A",
+        "choices": [
+            "Laparoscopic adrenalectomy",
+            "Observation and biannual hormonal evaluation",
+            "Palliative management using mitotane",
+            "Chemotherapy using vineristine, Cyclophosphamide"
+        ],
+        "response": "Let's break down the question:\n\nA \"functional adrenal incidentaloma\" refers to an adrenal mass found incidentally (not due to symptoms) that is producing hormones (functional). The standard management for a functional adrenal incidentaloma, regardless of size, is surgical removal because of the risk of hormone excess and potential malignancy.\n\nOption A: Laparoscopic adrenalectomy \u2013 This is the standard treatment for functional adrenal tumors.\nOption B: Observation and biannual hormonal evaluation \u2013 This is for non-functional, small incidentalomas.\nOption C: Palliative management using mitotane \u2013 Used for inoperable or metastatic adrenocortical carcinoma, not first-line for functional incidentaloma.\nOption D: Chemotherapy using vincristine, cyclophosphamide \u2013 Not standard for adrenal incidentaloma.\n\nTherefore, the correct answer is surgical removal.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4o-mini-2024-07-18",
+        "challenging_response": "To determine the management of a functional adrenal incidentaloma, we need to consider the characteristics of the tumor and the patient's overall health. \n\n1. **Laparoscopic adrenalectomy (A)** is typically reserved for larger or symptomatic adrenal tumors, especially if they are secreting hormones and causing clinical symptoms. However, for small, asymptomatic functional adrenal incidentalomas, this may not be the first line of management.\n\n2. **Observation and biannual hormonal evaluation (B)** is often recommended for small, asymptomatic functional adrenal incidentalomas. This approach allows for monitoring of hormone levels and tumor size without immediate surgical intervention, which is appropriate for many patients.\n\n3. **Palliative management using mitotane (C)** is generally used for advanced adrenal cancer rather than incidentalomas, which are typically benign.\n\n4. **Chemotherapy using vincristine and cyclophosphamide (D)** is not a standard treatment for adrenal incidentalomas and is more relevant for specific types of cancers.\n\nGiven these considerations, the most appropriate management for a functional adrenal incidentaloma of size, particularly if it is small and asymptomatic, is observation with regular hormonal evaluations.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "Bone pearl appearance is seen in -",
+        "answer": "A",
+        "choices": [
+            "Electrical bums",
+            "Hydrocution",
+            "Strangulation",
+            "Throttling"
+        ],
+        "response": "Let's analyze each option:\n\nA. Electrical burns \u2013 In electrical burns, the passage of electric current through bone can cause the deposition of calcium salts in concentric layers, giving a characteristic \"bone pearl\" appearance on histology.\n\nB. Hydrocution \u2013 This refers to sudden death due to immersion in cold water, not associated with bone changes.\n\nC. Strangulation \u2013 This is mechanical asphyxia by constriction of the neck, not associated with bone pearl appearance.\n\nD. Throttling \u2013 This is manual strangulation, also not associated with bone pearl appearance.\n\nTherefore, the \"bone pearl\" appearance is specifically seen in electrical burns due to the effect of electric current on bone tissue.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "Let's analyze each option:\n\nA. Electrical burns: Typically cause deep tissue damage, but \"bone pearl\" appearance is not characteristic.\nB. Hydrocution: Refers to death by sudden immersion in cold water; no relation to bone pearl appearance.\nC. Strangulation: Causes neck injuries, but \"bone pearl\" appearance is not associated with this.\nD. Throttling: Similar to strangulation, involves neck compression, but \"bone pearl\" appearance is a specific term seen in certain injuries.\n\nThe term \"bone pearl\" appearance is associated with a specific injury pattern seen in cases of strangulation or throttling, where the hyoid bone or laryngeal structures may show characteristic changes.\n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "True about branchial cyst; is all except",
+        "answer": "A",
+        "choices": [
+            "Arise from lower third of sternocleidomastoid",
+            "Peak age of presentation is 3rd decade",
+            "Cyst wall consists of lymphoid tissue",
+            "Fluid contains cholesterol crystal"
+        ],
+        "response": "Let's analyze each option:\n\nA. Arise from lower third of sternocleidomastoid  \n- Branchial cysts typically arise from the upper part (anterior border) of the sternocleidomastoid muscle, not the lower third. This statement is incorrect.\n\nB. Peak age of presentation is 3rd decade  \n- Branchial cysts most commonly present in young adults, especially in the second and third decades of life. This statement is correct.\n\nC. Cyst wall consists of lymphoid tissue  \n- The wall of a branchial cyst often contains lymphoid tissue. This is a true statement.\n\nD. Fluid contains cholesterol crystal  \n- The fluid inside a branchial cyst often contains cholesterol crystals. This is also true.\n\nTherefore, the statement that is NOT true (the exception) is option A.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4o-mini-2024-07-18",
+        "challenging_response": "To determine which statement about branchial cysts is false, let's analyze each option:\n\nA. **Arise from lower third of sternocleidomastoid** - This is true. Branchial cysts typically occur along the anterior border of the sternocleidomastoid muscle.\n\nB. **Peak age of presentation is 3rd decade** - This is also true. Branchial cysts commonly present in young adults, particularly in their 2nd to 3rd decades of life.\n\nC. **Cyst wall consists of lymphoid tissue** - This statement is false. The wall of a branchial cyst is usually lined with stratified squamous epithelium and may contain some lymphoid tissue, but it is not primarily composed of lymphoid tissue.\n\nD. **Fluid contains cholesterol crystal** - This is true. The fluid within branchial cysts can contain cholesterol crystals, especially if the cyst is older or has undergone some degeneration.\n\nBased on this analysis, the false statement is C.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "In brachytherapy of carcinoma cervix, dose of radiation to Point A is",
+        "answer": "D",
+        "choices": [
+            "1000 rad",
+            "4000 rad",
+            "6000 rad",
+            "8000 rad"
+        ],
+        "response": "Step-by-step reasoning:\n\n1. In brachytherapy for carcinoma of the cervix, \"Point A\" is a standard reference point for radiation dose, located 2 cm superior to the external os and 2 cm lateral to the cervical canal.\n2. The typical total dose delivered to Point A (from both external beam and brachytherapy) is around 80-90 Gy, but specifically from brachytherapy, the dose is usually about 7000-8000 cGy (which is 7000-8000 rad, since 1 Gy = 100 rad).\n3. Among the options, 8000 rad is the closest to the standard dose delivered to Point A in brachytherapy.\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "In brachytherapy for carcinoma cervix, Point A is a standard reference point used to prescribe and evaluate the dose. Typically, the dose delivered to Point A is around 4000 rad (or 40 Gy) in traditional intracavitary brachytherapy protocols.\n\n- 1000 rad is too low for therapeutic purposes.\n- 4000 rad is the standard dose for Point A in many treatment protocols.\n- 6000 rad and 8000 rad are higher doses, generally not used as the prescribed dose but may be cumulative doses or maximum tolerances.\n\nTherefore, the most appropriate and standard dose for Point A is 4000 rad.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "Investigation of choice to demonstrate vesico ureteral reflux",
+        "answer": "B",
+        "choices": [
+            "Isotope cystogram",
+            "Contrast Micturating Cysto Urethrogram",
+            "IVP",
+            "Cystoscopy"
+        ],
+        "response": "To demonstrate vesicoureteral reflux (VUR), the investigation of choice should directly visualize the reflux of urine from the bladder into the ureters during voiding. \n\nA. Isotope cystogram: This is sensitive for detecting reflux, especially for follow-up, but not the gold standard for initial diagnosis.\nB. Contrast Micturating Cysto Urethrogram (MCU): This is the gold standard for diagnosing VUR. It involves filling the bladder with contrast and taking X-rays during voiding to directly observe reflux.\nC. IVP (Intravenous Pyelogram): This visualizes the urinary tract but is not sensitive for detecting reflux.\nD. Cystoscopy: This allows direct visualization of the bladder and urethra but does not demonstrate reflux.\n\nTherefore, the best investigation to demonstrate VUR is the Contrast Micturating Cysto Urethrogram.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "1. To demonstrate vesico-ureteral reflux (VUR), the investigation should visualize the reflux of urine from the bladder into the ureters and kidneys during voiding. An isotope cystogram (voiding cystourethrogram with radionuclide) is specifically designed to detect reflux by showing the flow of radioactive material during voiding. Contrast Micturating Cysto Urethrogram (MCUG) is also used but involves fluoroscopy and contrast dye, primarily for detailed anatomical assessment. IVP (Intravenous Pyelogram) is less sensitive for VUR detection. Cystoscopy is an endoscopic procedure mainly for visual inspection, not for reflux demonstration.\n\n2. The isotope cystogram is considered the investigation of choice for demonstrating vesico-ureteral reflux because it is sensitive, allows functional assessment, and involves less radiation exposure compared to fluoroscopic methods.\n\nANSWER: A",
+        "challenging_answer": "A"
+    },
+    {
+        "question": "All the following are conditions precipitating hemolysis in G6PD deficiency?",
+        "answer": "D",
+        "choices": [
+            "Ingestion of fava beans",
+            "Viral hepatitis",
+            "Antimalarials  - primaquine,chloroproguanil",
+            "Intake of acetaminophen and aspirin"
+        ],
+        "response": "Let's analyze each option:\n\nA. Ingestion of fava beans \u2013 Fava beans contain oxidants that can trigger hemolysis in G6PD-deficient individuals. This is a classic precipitating factor.\n\nB. Viral hepatitis \u2013 Infections, including viral hepatitis, can cause oxidative stress and precipitate hemolysis in G6PD deficiency.\n\nC. Antimalarials - primaquine, chloroproguanil \u2013 These drugs are known to induce oxidative stress and are well-documented triggers for hemolysis in G6PD-deficient patients.\n\nD. Intake of acetaminophen and aspirin \u2013 While some drugs can precipitate hemolysis, acetaminophen and aspirin are generally considered safe in standard doses for G6PD-deficient individuals and are not classic precipitants.\n\nTherefore, the answer is D, as it is NOT a typical precipitating condition.\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4o-mini-2024-07-18",
+        "challenging_response": "G6PD (Glucose-6-Phosphate Dehydrogenase) deficiency is a genetic condition that can lead to hemolytic anemia under certain stressors. \n\n1. **Ingestion of fava beans (A)**: This is a well-known trigger for hemolysis in individuals with G6PD deficiency, leading to a condition called favism.\n  \n2. **Viral hepatitis (B)**: While viral infections can cause hemolysis, they are not specifically known to precipitate hemolysis in G6PD deficiency as directly as other factors.\n\n3. **Antimalarials - primaquine, chloroproguanil (C)**: These medications are known to cause hemolysis in G6PD-deficient individuals, particularly primaquine.\n\n4. **Intake of acetaminophen and aspirin (D)**: These medications are generally considered safe for individuals with G6PD deficiency and are not known to precipitate hemolysis.\n\nBased on this analysis, the conditions that precipitate hemolysis in G6PD deficiency are A and C. However, since the question asks for \"all the following,\" the correct answer must include only those that are known triggers.\n\nThus, the answer is A and C, but since the question format requires a single choice, the most definitive and classic trigger is A.\n\nANSWER: A",
+        "challenging_answer": "A"
+    },
+    {
+        "question": "A 6 year old child does not have any permanent tooth erupted in oral cavity. By what maximum age the tooth should erupt normally?",
+        "answer": "A",
+        "choices": [
+            "7.5 years",
+            "8.5 years",
+            "6.5 years",
+            "all of the above"
+        ],
+        "response": "Let's break it down:\n\n- The first permanent tooth to erupt is usually the first permanent molar.\n- The typical eruption age for the first permanent molar is around 6 years, but there is some variation.\n- The upper limit for normal eruption of the first permanent molar is generally considered to be about 7.5 years.\n- If no permanent tooth has erupted by 7.5 years, it may be considered delayed.\n\nTherefore, the maximum normal age for eruption is 7.5 years.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-mini-2025-04-14",
+        "challenging_response": "Step 1: Identify the typical age for the eruption of the first permanent teeth.  \n- The first permanent teeth to erupt are usually the first molars and the lower central incisors.  \n- These typically begin to erupt around age 6.\n\nStep 2: Consider variability in eruption timing.  \n- There is some normal variation; eruption can be delayed but still considered normal up to a certain age.  \n- Generally, if no permanent teeth have erupted by 7.5 to 8 years, it may be considered delayed.\n\nStep 3: Analyze the options.  \n- 6.5 years is too early to expect all permanent teeth to have erupted.  \n- 7.5 years is a reasonable upper limit for the first permanent teeth to appear.  \n- 8.5 years is on the higher side but still within a possible normal range for late eruption.  \n- \"All of the above\" implies all ages are acceptable maximum ages, which is inconsistent.\n\nStep 4: Choose the best answer.  \n- Since the question asks for the maximum age by which the tooth should erupt normally, 8.5 years is the most inclusive and reasonable maximum age.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "Mother with previous history of delivery a CAH child, what to do in next pregnancy in regard to steroid therapy",
+        "answer": "B",
+        "choices": [
+            "To sta before conception",
+            "To sta as soon as pregnancy is diagnosed",
+            "After chorionic villous sampling",
+            "Determine sex on usg and then sta steroid therapy"
+        ],
+        "response": "Let's break down the question:\n\n- CAH (Congenital Adrenal Hyperplasia) is an autosomal recessive disorder.\n- The concern is virilization of a female fetus due to excess androgens.\n- Steroid therapy (usually dexamethasone) is given to the mother to suppress fetal adrenal androgen production.\n- The therapy is most effective if started early, ideally before 9 weeks gestation, to prevent virilization.\n- Waiting for CVS (chorionic villous sampling) or ultrasound sex determination would be too late, as virilization can already occur by then.\n- Starting before conception is unnecessary, as the therapy is only needed if the fetus is affected.\n\nTherefore, the best practice is to start steroid therapy as soon as pregnancy is diagnosed, and discontinue if the fetus is found not to be an affected female.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": true,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "1. Since the mother has a history of delivering a child with Congenital Adrenal Hyperplasia (CAH), there is a risk that the fetus may also be affected, especially if the fetus is female and carries the mutation. To prevent or mitigate virilization in a female fetus, prenatal steroid therapy (like dexamethasone) is used. The optimal timing is before conception or as early as possible in pregnancy to prevent virilization of the fetus. Starting therapy before conception ensures the steroids are present during early fetal development, before the genitalia are fully formed.\n\n2. Starting after pregnancy diagnosis (option B) may be too late to prevent virilization. Chorionic villous sampling (option C) is used for diagnosis, but waiting until after diagnosis delays therapy. Determining fetal sex via ultrasound (option D) is less reliable early on and may be too late for effective prevention.\n\nANSWER: A",
+        "challenging_answer": "A"
+    },
+    {
+        "question": "A most common complication of Colles",
+        "answer": "C",
+        "choices": [
+            "Malunion",
+            "Avascular necrosis",
+            "Finger stiffness",
+            "Rupture of EPL tendon"
+        ],
+        "response": "Let's analyze each option:\n\n- Colles fracture is a distal radius fracture, common in elderly people after a fall on an outstretched hand.\n- The most common complication is related to the healing process.\n\nA. Malunion: This refers to the bone healing in an incorrect position. Due to the nature of Colles fracture (dorsal displacement), malunion is common if not properly reduced.\n\nB. Avascular necrosis: This is more common in fractures involving the scaphoid or femoral head, not typically with Colles fracture.\n\nC. Finger stiffness: This can occur, but it is not the most common complication.\n\nD. Rupture of EPL tendon: This is a known complication, but it is less common than malunion.\n\nTherefore, the most common complication is malunion.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "challenging_response": "To determine the most common complication of Colles' fracture, let's consider the nature of the fracture and the potential complications listed:\n\n1. **Colles' Fracture**: It's a fracture of the distal radius in the forearm, typically occurring when a person falls onto an outstretched hand. The fracture results in a displacement of the bone fragment, leading to a characteristic \"dinner fork\" deformity.\n\n2. **Complications**:\n   - **A. Malunion**: This refers to the improper healing of the bone, resulting in a deformity. While it's a possible complication, the frequency and impact vary.\n   - **B. Avascular Necrosis**: This is a complication that can occur if the blood supply to the bone is compromised. However, it's not the most common complication associated with Colles' fracture.\n   - **C. Finger Stiffness**: Stiffness in the fingers is a common issue following a Colles' fracture, largely due to immobilization and swelling. Early mobilization is often recommended to mitigate this.\n   - **D. Rupture of EPL Tendon**: The Extensor Pollicis Longus (EPL) tendon can rupture after a Colles' fracture, but this is less common compared to some other complications.\n\nConsidering the above, the most common complication is related to the immobilization and the healing process. **Finger stiffness (C)** is a very common complication due to the swelling and immobilization that often accompany the fracture and its treatment. While malunion and other complications can occur, finger stiffness is frequently observed and is a significant concern for functional recovery.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "True about fibroid is all except",
+        "answer": "C",
+        "choices": [
+            "Pseudo capsulated",
+            "Slow growing",
+            "Least vascular periphery",
+            "Calcifications begins from periphery"
+        ],
+        "response": "Let's analyze each option:\n\nA. Pseudo capsulated  \n- True. Fibroids are surrounded by a pseudo-capsule formed by compressed muscle fibers.\n\nB. Slow growing  \n- True. Fibroids generally grow slowly.\n\nC. Least vascular periphery  \n- True. The periphery of a fibroid is less vascular compared to the center.\n\nD. Calcifications begins from periphery  \n- False. Calcification in fibroids typically begins in the center, not the periphery.\n\nTherefore, the statement that is NOT true about fibroids is option D.\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+        "challenging_response": "To approach this question, let's evaluate each option given about fibroids (uterine leiomyomas):\n\nA. Pseudo capsulated - Fibroids are indeed often described as being pseudoencapsulated. They are surrounded by a layer of compressed uterine tissue that can be considered a pseudocapsule. So, this statement is true.\n\nB. Slow growing - Fibroids are known to grow slowly. Their growth can be influenced by hormonal factors, particularly estrogen. This statement is true.\n\nC. Least vascular periphery - Fibroids typically have a more prominent vascular supply at their periphery. The periphery of a fibroid often has more blood vessels supplying it, which is why they can sometimes be easily enucleated during surgery due to this characteristic. This statement seems incorrect based on the known characteristics of fibroids.\n\nD. Calcifications begins from periphery - Calcifications in fibroids often start from the periphery and can progress centrally. This is a known pattern in the degeneration of fibroids. So, this statement is true.\n\nGiven the information, option C (\"Least vascular periphery\") stands out as not true about fibroids, as they are typically more vascular at the periphery.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Dark brown post mortem lividity is seen in-",
+        "answer": "C",
+        "choices": [
+            "Aniline",
+            "CO",
+            "Phosphorus",
+            "Hydrocyanide"
+        ],
+        "response": "Let's analyze each option:\n\nA. Aniline \u2013 Aniline poisoning typically causes a bluish or chocolate-brown discoloration due to methemoglobinemia, but not specifically dark brown lividity.\n\nB. CO (Carbon Monoxide) \u2013 Carbon monoxide poisoning causes a cherry red or pink coloration of post mortem lividity, not dark brown.\n\nC. Phosphorus \u2013 Phosphorus poisoning does not typically cause dark brown lividity; it may cause jaundice or yellowish discoloration.\n\nD. Hydrocyanide (Hydrogen cyanide) \u2013 Cyanide poisoning usually causes a bright red or pink coloration due to increased oxygenation of blood, not dark brown.\n\nHowever, dark brown post mortem lividity is classically associated with poisoning by substances that cause methemoglobinemia, such as aniline.\n\nTherefore, the correct answer is:\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "Dark brown post mortem lividity indicates the presence of blood that has undergone hemolysis and oxidation, often associated with certain poisons. \n\n- Aniline poisoning causes methemoglobinemia, leading to a bluish discoloration, not dark brown lividity.\n- Carbon monoxide (CO) poisoning results in cherry-red discoloration of tissues, not dark brown lividity.\n- Phosphorus poisoning causes hemolysis and tissue necrosis, which can lead to dark brown discoloration of the livid areas.\n- Hydrocyanic acid (hydrocyanide) causes rapid death but does not produce characteristic dark brown lividity.\n\nTherefore, the dark brown post mortem lividity is characteristic of phosphorus poisoning.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Most common bone fracture in body is:",
+        "answer": "B",
+        "choices": [
+            "Radius",
+            "Clavicle",
+            "Femur",
+            "Vertebra"
+        ],
+        "response": "Step-by-step reasoning:\n\n1. The most common bone fracture in the body is typically associated with falls, especially when people try to break their fall with an outstretched hand.\n2. The distal radius (wrist area) is particularly vulnerable in such situations, leading to what is known as a Colles' fracture.\n3. While clavicle fractures are also common, especially in children and athletes, they are not as frequent as distal radius fractures.\n4. Femur and vertebral fractures are less common overall and usually occur in specific populations (elderly, trauma cases).\n\nTherefore, the radius is the most commonly fractured bone in the body.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "challenging_response": "To determine the most common bone fracture in the body, let's consider the frequency of fractures for the bones listed:\n\n1. **Radius**: The radius is one of the two bones of the forearm. It is commonly fractured, especially at the distal end (near the wrist), known as a Colles' fracture. However, whether it's the most common requires comparison.\n\n2. **Clavicle**: The clavicle, or collarbone, is known for being one of the most frequently fractured bones due to its position and relatively weak structure. It is often fractured in falls onto the shoulder or outstretched hand.\n\n3. **Femur**: The femur, or thigh bone, is a strong bone and not as commonly fractured as some other bones, except in significant trauma or osteoporosis.\n\n4. **Vertebra**: Vertebral fractures can occur, especially in the context of osteoporosis. However, they are not typically considered the most common acute fractures.\n\nConsidering these points, the **Clavicle** is often cited as the most commonly fractured bone due to its susceptibility to injury from falls and its relatively exposed position.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "How is under-nutrition defined?",
+        "answer": "B",
+        "choices": [
+            "Weight for age < -2 SD",
+            "Weight for height < -2 SD",
+            "Weight for age < -3 SD",
+            "Weight for height < - 3 SD"
+        ],
+        "response": "Step by step reasoning:\n\n1. Under-nutrition is a general term that refers to insufficient intake of energy and nutrients.\n2. In clinical and public health settings, under-nutrition is commonly assessed using anthropometric indices.\n3. \"Weight for age\" is used to assess underweight, which is a composite indicator reflecting both acute and chronic under-nutrition.\n4. The World Health Organization (WHO) defines underweight as \"weight for age less than -2 standard deviations (SD) from the median of the reference population.\"\n5. \"Weight for height\" is used to assess wasting (acute under-nutrition), and \"height for age\" is used for stunting (chronic under-nutrition).\n6. The cut-off of -2 SD is used to define moderate under-nutrition, while -3 SD is used for severe under-nutrition.\n\nTherefore, under-nutrition is defined as weight for age < -2 SD.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "challenging_response": "To define under-nutrition, we need to consider how it's measured in terms of anthropometric indicators. Under-nutrition can be indicated by being underweight for one's age or too short for one's age (stunting), but the most direct measure related to the question is weight for height, which indicates wasting (a form of under-nutrition). \n\nWeight for height < -2 SD is the standard cutoff used by the World Health Organization (WHO) to define wasting, which is a form of under-nutrition. This measure compares a child's weight to the expected weight for their height in a healthy population, with -2 SD (standard deviations) below the median indicating moderate wasting.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "Which of the following is least seen in uterine fibroid",
+        "answer": "B",
+        "choices": [
+            "Hyaline degeneration",
+            "Sarcomatous change",
+            "Red degeneration",
+            "Fatty degeneration"
+        ],
+        "response": "Let's analyze each option:\n\nA. Hyaline degeneration \u2013 This is the most common type of degeneration seen in uterine fibroids.\nB. Sarcomatous change \u2013 Malignant transformation (sarcomatous change) is rare, but it does occur.\nC. Red degeneration \u2013 This is a well-known type of degeneration, especially during pregnancy.\nD. Fatty degeneration \u2013 This is extremely rare in uterine fibroids and is the least commonly seen type.\n\nTherefore, the least seen in uterine fibroid is fatty degeneration.\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+        "challenging_response": "To determine which of the following is least seen in uterine fibroid, let's evaluate each option:\n\nA. Hyaline degeneration - This is the most common type of degeneration seen in uterine fibroids, occurring in up to 60% of cases. So, it's frequently seen.\n\nB. Sarcomatous change - This refers to the malignant transformation of a fibroid into a leiomyosarcoma. It is extremely rare, occurring in less than 1% of uterine fibroids.\n\nC. Red degeneration - This type of degeneration is often seen during pregnancy and is associated with pain. It's not as common as hyaline degeneration but is a recognized complication.\n\nD. Fatty degeneration - This is another form of degeneration that can occur in fibroids, often associated with aging or after menopause.\n\nConsidering the frequency and occurrence of these changes in uterine fibroids, sarcomatous change (B) is by far the least common, making it the correct answer.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "Florence test detects: JIPMER 13",
+        "answer": "B",
+        "choices": [
+            "Inositol",
+            "Choline",
+            "Spermine",
+            "Citric acid"
+        ],
+        "response": "Let's break down the options:\n\n- The Florence test is a classic chemical test used in forensic science.\n- It is specifically used to detect the presence of semen.\n- The test works by detecting spermine, a polyamine found in high concentrations in semen.\n- When the Florence reagent (potassium iodide and iodine) is added to a sample containing spermine, characteristic rhombic crystals are formed.\n\nGiven the options:\nA. Inositol \u2013 Not detected by Florence test.\nB. Choline \u2013 Detected by Barberio\u2019s test, not Florence.\nC. Spermine \u2013 Correct, detected by Florence test.\nD. Citric acid \u2013 Not detected by Florence test.\n\nTherefore, the correct answer is spermine.\n\nANSWER: C",
+        "proposed_answer": "C",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+        "challenging_response": "To solve this, let's consider what the Florence test is used for.\n\nThe Florence test is a chemical test used to detect the presence of choline. \n\nGiven this, let's evaluate the options:\nA. Inositol - Not related to the Florence test.\nB. Choline - Directly related to the Florence test.\nC. Spermine - Not detected by the Florence test.\nD. Citric acid - Not related to the Florence test.\n\nTherefore, the correct answer is related to choline.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "Which of the following is not a platelet associated coagulation factor?",
+        "answer": "B",
+        "choices": [
+            "vWF",
+            "Factor IX",
+            "Factor XI",
+            "Factor XIII"
+        ],
+        "response": "Let's analyze each option:\n\nA. vWF (von Willebrand Factor) is associated with platelets because it mediates platelet adhesion to the vessel wall and carries Factor VIII.\nB. Factor IX is part of the intrinsic coagulation pathway and is present in platelets.\nC. Factor XI is also part of the intrinsic pathway and is associated with platelets.\nD. Factor XIII is a transglutaminase that stabilizes fibrin clots but is not directly associated with platelets; it acts after the formation of the fibrin clot.\n\nTherefore, the factor that is not platelet-associated is Factor XIII.\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "challenging_response": "To determine which of the following is not a platelet-associated coagulation factor, let's examine each option:\n\nA. vWF (von Willebrand Factor) - This is associated with platelets as it is stored in the alpha-granules of platelets and plays a crucial role in platelet adhesion.\n\nB. Factor IX - This is a coagulation factor involved in the intrinsic pathway of blood coagulation. It is not typically described as being stored or associated with platelets.\n\nC. Factor XI - This factor is also part of the intrinsic pathway and has been found associated with platelets, as it binds to the platelet surface.\n\nD. Factor XIII - This factor is associated with platelets and is also known as fibrin stabilizing factor. It is stored in the alpha-granules of platelets.\n\nFrom the given options, Factor IX is not typically associated with platelets, unlike the others which have established associations.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "Pleomorphic adenomas (mixed tumors) of the salivary glands are characterized by which of the following?",
+        "answer": "A",
+        "choices": [
+            "They occur most commonly on the lips, tongue, and palate",
+            "They grow rapidly",
+            "They rarely recur if simply enucleated",
+            "They present as rock-hard masses"
+        ],
+        "response": "Let's analyze each option:\n\nA. They occur most commonly on the lips, tongue, and palate  \n- This is incorrect. Pleomorphic adenomas most commonly occur in the parotid gland, not the minor salivary glands of the lips, tongue, or palate.\n\nB. They grow rapidly  \n- This is incorrect. Pleomorphic adenomas are known for their slow growth.\n\nC. They rarely recur if simply enucleated  \n- This is incorrect. Pleomorphic adenomas have a high recurrence rate if only enucleated because of their tendency to have microscopic extensions beyond the main tumor mass.\n\nD. They present as rock-hard masses  \n- This is incorrect. Pleomorphic adenomas are typically firm but not \"rock-hard.\"\n\nTherefore, none of the options are perfectly correct, but the question is likely testing knowledge that pleomorphic adenomas recur if simply enucleated, meaning that \"rarely recur\" is incorrect. Thus, the correct answer is the one that is false about pleomorphic adenomas, which is option C.\n\nANSWER: C",
+        "proposed_answer": "C",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "gpt-4.1-mini-2025-04-14",
+        "challenging_response": "Step 1: Identify what pleomorphic adenomas are.  \nPleomorphic adenomas are the most common benign salivary gland tumors, often called mixed tumors because they contain both epithelial and myoepithelial components.\n\nStep 2: Analyze each option:\n\nA. \"They occur most commonly on the lips, tongue, and palate\"  \n- Incorrect. Pleomorphic adenomas most commonly occur in the parotid gland, not primarily on the lips, tongue, or palate. Minor salivary gland tumors can occur on the palate, but the parotid is the most common site overall.\n\nB. \"They grow rapidly\"  \n- Incorrect. Pleomorphic adenomas typically grow slowly over months to years.\n\nC. \"They rarely recur if simply enucleated\"  \n- Incorrect. Simple enucleation often leaves microscopic tumor extensions behind, leading to a relatively high recurrence rate. Complete excision with a margin is preferred.\n\nD. \"They present as rock-hard masses\"  \n- Incorrect. Pleomorphic adenomas are usually firm but not rock-hard; they are typically painless, slow-growing, and well-circumscribed.\n\nStep 3: Since none of the options perfectly describe pleomorphic adenomas, the best fit is to identify the most accurate statement. The question asks what they are characterized by, so the key features are slow growth, common parotid location, and tendency to recur if not excised properly.\n\nGiven the options, none are fully correct, but the least incorrect is A, since pleomorphic adenomas can occur on the palate (a minor salivary gland site), though not most commonly on lips and tongue.\n\nAlternatively, if the question expects the most common site, none of the options mention parotid gland.\n\nTherefore, the best answer is A, acknowledging that pleomorphic adenomas do occur on the palate (a common minor salivary gland site), though the lips and tongue are less common.\n\nANSWER: A",
+        "challenging_answer": "A"
+    },
+    {
+        "question": "High dose radiotherapy causes pancreatic -",
+        "answer": "A",
+        "choices": [
+            "Acinar dificiency",
+            "Islets of Langerhans deficiency",
+            "A +B",
+            "None"
+        ],
+        "response": "Step-by-step reasoning:\n\n1. High dose radiotherapy can damage tissues in the pancreas.\n2. The pancreas has both exocrine (acinar cells) and endocrine (islets of Langerhans) components.\n3. Radiotherapy is not selective and can affect both cell types, leading to deficiencies in both exocrine (acinar) and endocrine (islets) functions.\n4. Therefore, both acinar deficiency and islets of Langerhans deficiency can occur.\n\nANSWER: C",
+        "proposed_answer": "C",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "deepseek-ai/DeepSeek-V3",
+        "challenging_response": "To answer this question, let's analyze the effects of high-dose radiotherapy on the pancreas:\n\n1. **Acinar cells**: These cells are exocrine and produce digestive enzymes. They are highly sensitive to radiation, and high-dose radiotherapy can lead to **acinar deficiency**, impairing digestive function.\n\n2. **Islets of Langerhans**: These are endocrine cells (e.g., beta cells producing insulin) and are relatively **radioresistant** compared to acinar cells. While extremely high doses may cause some damage, the primary radiation-induced deficiency is in the exocrine (acinar) component.\n\nThus, high-dose radiotherapy primarily causes **acinar deficiency**, not Islets of Langerhans deficiency. \n\nThe correct answer is:\n\nANSWER: A",
+        "challenging_answer": "A"
+    },
+    {
+        "question": "Caries vaccine works by all the following except",
+        "answer": "C",
+        "choices": [
+            "Monoclonal antibodies are formed which attach to the tooth surface by adhering to the salivary pellicle",
+            "Strep.mutans binds to the antibodies",
+            "New flora is established",
+            "Strep.fecalis takes the place occupied by Strep.mutans"
+        ],
+        "response": "Let's analyze each option:\n\nA. Monoclonal antibodies are formed which attach to the tooth surface by adhering to the salivary pellicle  \n- This describes a possible mechanism of a caries vaccine, where antibodies prevent bacterial adhesion.\n\nB. Strep.mutans binds to the antibodies  \n- This is also a mechanism by which the vaccine could neutralize the bacteria.\n\nC. New flora is established  \n- Vaccines generally do not work by establishing new flora; they work by targeting specific pathogens.\n\nD. Strep.fecalis takes the place occupied by Strep.mutans  \n- This suggests replacement therapy, not vaccination. Vaccines do not work by replacing one species with another.\n\nBetween C and D, option D is the most clearly unrelated to how a caries vaccine works, as it describes a different approach (replacement therapy).\n\nANSWER: D",
+        "proposed_answer": "D",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "deepseek-ai/DeepSeek-V3",
+        "challenging_response": "To answer the question, let's analyze each option:\n\n**A. Monoclonal antibodies are formed which attach to the tooth surface by adhering to the salivary pellicle**  \nThis is a valid mechanism for a caries vaccine. The antibodies can bind to the tooth surface or *Streptococcus mutans*, preventing its adhesion and colonization.  \n\n**B. Strep.mutans binds to the antibodies**  \nThis is also correct. The vaccine induces antibodies that bind to *S. mutans*, neutralizing or opsonizing it for immune clearance.  \n\n**C. New flora is established**  \nThis is not a mechanism of caries vaccines. Vaccines work by immune responses (e.g., antibody production), not by introducing or establishing new bacterial flora.  \n\n**D. Strep.fecalis takes the place occupied by Strep.mutans**  \nThis is incorrect. *Streptococcus faecalis* (now *Enterococcus faecalis*) is not part of the caries vaccine mechanism, nor does it replace *S. mutans* in this context.  \n\nThe question asks which option does **not** describe how a caries vaccine works. Both **C** and **D** are incorrect, but **D** is the more clearly unrelated option, as **C** could be misinterpreted as a secondary effect (though not a direct vaccine mechanism).  \n\nHowever, the question likely expects **C** as the primary answer, as establishing new flora is not a vaccine mechanism, while **D** is simply a false statement unrelated to vaccines.  \n\nGiven the phrasing of the question, **C** is the best choice.  \n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "The greatest potential for wearing exists when :",
+        "answer": "B",
+        "choices": [
+            "Porcelain opposes porcelain.",
+            "Porcelain opposes acrylic.",
+            "Porcelain opposes gold.",
+            "Porcelain opposes natural teeth."
+        ],
+        "response": "Let's analyze each option:\n\nA. Porcelain opposes porcelain.  \nPorcelain is a very hard and abrasive material. When two porcelain surfaces oppose each other, they can cause significant wear due to their hardness and brittleness.\n\nB. Porcelain opposes acrylic.  \nAcrylic is much softer than porcelain. Porcelain will wear down the acrylic, but the overall wear potential is less compared to two hard surfaces opposing each other.\n\nC. Porcelain opposes gold.  \nGold is softer than porcelain, so the gold will wear more, but the overall wear is less aggressive than porcelain against porcelain.\n\nD. Porcelain opposes natural teeth.  \nPorcelain is harder than natural enamel, so it can cause wear on the natural teeth, but not as much as when two porcelain surfaces oppose each other.\n\nTherefore, the greatest potential for wearing exists when porcelain opposes porcelain, as both surfaces are hard and abrasive.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "challenging_response": "To determine the greatest potential for wearing, we need to consider the hardness and durability of the materials involved. \n\n- Porcelain is a hard, durable material.\n- Acrylic is a softer material compared to porcelain.\n- Gold is a soft, ductile metal.\n- Natural teeth are hard but can be worn down by harder materials.\n\nThe greatest potential for wearing exists when a hard material opposes a softer material, as the harder material can wear down the softer one more easily. \n\nConsidering the options, porcelain opposing acrylic (B) presents a significant hardness difference, with porcelain being much harder than acrylic. This hardness difference would lead to significant wear on the acrylic.\n\nANSWER: B",
+        "challenging_answer": "B"
+    },
+    {
+        "question": "Nasal cycle is the cyclical alternate nasal blockage occurring:",
+        "answer": "C",
+        "choices": [
+            "Every 6-12 hours",
+            "Every 4- 12 hours",
+            "Every 6-8 Hours",
+            "Every 12-24 hours"
+        ],
+        "response": "The nasal cycle refers to the normal, physiological alternation of congestion and decongestion in the nasal cavities, typically switching from one side to the other. This cycle is controlled by the autonomic nervous system and usually occurs every few hours. The most widely accepted range for the duration of the nasal cycle is between 4 to 12 hours.\n\nA. Every 6-12 hours \u2013 This is within the accepted range, but not as broad as the most common description.\nB. Every 4-12 hours \u2013 This matches the commonly cited duration in medical literature.\nC. Every 6-8 Hours \u2013 This is a narrower range and less commonly cited.\nD. Every 12-24 hours \u2013 This is longer than the typical nasal cycle.\n\nTherefore, the best answer is B, as it covers the full, commonly accepted range.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "gpt-4.1-mini-2025-04-14",
+        "challenging_response": "Step 1: Understand what the nasal cycle is.  \nThe nasal cycle refers to the natural, alternating congestion and decongestion of the nasal cavities, controlled by the autonomic nervous system.\n\nStep 2: Identify the typical duration of this cycle.  \nScientific studies and medical literature commonly report that the nasal cycle occurs approximately every 2 to 6 hours, but some sources extend this range up to 12 hours.\n\nStep 3: Analyze the options given:  \n- A. Every 6-12 hours  \n- B. Every 4-12 hours  \n- C. Every 6-8 hours  \n- D. Every 12-24 hours  \n\nStep 4: Compare the options with known data.  \nThe nasal cycle is generally shorter than 12 hours but can vary. The most accepted range is roughly 2 to 6 hours, sometimes up to 8 hours. Options A and B include 12 hours, which is on the higher end but possible. Option D (12-24 hours) is too long. Option C (6-8 hours) fits well within the typical range.\n\nStep 5: Choose the best answer.  \nOption C (6-8 hours) is the most precise and commonly accepted duration for the nasal cycle.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Churg-strauss involves following except -",
+        "answer": "D",
+        "choices": [
+            "Lungs",
+            "Kidenys",
+            "Small blood vessels",
+            "Heart"
+        ],
+        "response": "Churg-Strauss syndrome (now called Eosinophilic Granulomatosis with Polyangiitis) is a small to medium vessel vasculitis. It commonly involves the lungs (asthma, pulmonary infiltrates), small blood vessels, and can also affect the heart. Kidney involvement is rare compared to other vasculitides like Wegener's granulomatosis.\n\nSo, the exception (least commonly involved) is the kidneys.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "gpt-4o-mini-2024-07-18",
+        "challenging_response": "Churg-Strauss syndrome, also known as eosinophilic granulomatosis with polyangiitis, primarily affects small blood vessels and is associated with asthma, eosinophilia, and systemic vasculitis. It commonly involves the lungs, kidneys, and can also affect the heart. However, while the heart can be involved, it is not as commonly affected as the other organs listed.\n\n1. The lungs are frequently involved due to asthma and pulmonary symptoms.\n2. The kidneys are often affected due to vasculitis leading to renal impairment.\n3. Small blood vessels are the hallmark of the disease, as it is a type of vasculitis.\n4. The heart can be involved but is not a primary feature of Churg-Strauss compared to the other options.\n\nThus, the least commonly involved organ in Churg-Strauss syndrome is the heart.\n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "Which is the most likely inheritance pattern of the disease in the family pedigree cha given below?",
+        "answer": "C",
+        "choices": [
+            "Autosomal recessive type",
+            "Autosomal dominant type",
+            "X-Linked dominant type",
+            "X-linked recessive type"
+        ],
+        "response": "Certainly! To determine the most likely inheritance pattern from a pedigree, we look for key features:\n\n- **Autosomal recessive:** Disease often skips generations; affected individuals can have unaffected parents; both sexes equally affected.\n- **Autosomal dominant:** Disease appears in every generation; affected individuals have at least one affected parent; both sexes equally affected.\n- **X-linked dominant:** Affected males pass the trait to all daughters but no sons; affected females can pass to both sons and daughters.\n- **X-linked recessive:** More males affected; affected males often have carrier mothers; can skip generations.\n\nSince the pedigree chart is not shown, but the question asks for the \"most likely\" pattern, the most common answer in such questions (without a chart) is **autosomal recessive**, as it is the classic pattern for diseases that skip generations and affect both sexes equally.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "gpt-4.1-nano-2025-04-14",
+        "challenging_response": "To determine the inheritance pattern, consider the following typical features:\n\n- **Autosomal recessive (A):** Usually appears in siblings, often with unaffected parents, and both sexes are equally affected.\n- **Autosomal dominant (B):** Usually appears in every generation, with affected individuals having affected parents, and both sexes are equally affected.\n- **X-linked dominant (C):** Affects both males and females, often with affected females passing it to all their children, but males may be more severely affected.\n- **X-linked recessive (D):** More common in males, often with unaffected parents, and affected males with carrier mothers.\n\nSince the question references a family pedigree \"cha\" (likely a typo for \"chart\" or \"chart given below\"), but no image is provided, the most common pattern in such questions is:\n\n- If the pedigree shows affected males and females in every generation, with affected males passing the trait to all daughters but no sons, it suggests X-linked dominant.\n- If affected males pass the trait to all daughters and no sons, and affected females pass it to half their children, X-linked dominant is likely.\n- If the disease appears only when both parents are carriers, it suggests autosomal recessive.\n- If the disease appears in every generation with affected individuals having affected parents, autosomal dominant.\n\nGiven typical question patterns and the options, the most common inheritance pattern depicted in such pedigrees is **X-linked dominant**.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "At low dose, linear increase in plasma drug concentration and at higher dose, steep increase in drug concentration is what type of kinetics?",
+        "answer": "C",
+        "choices": [
+            "First order",
+            "Saturation kinetics",
+            "Pseudo zero order",
+            "None of the above"
+        ],
+        "response": "Let's break down the question:\n\n- At low doses, there is a linear increase in plasma drug concentration. This suggests that the rate of drug metabolism or elimination is proportional to the drug concentration (first-order kinetics).\n- At higher doses, there is a steep (disproportionate) increase in plasma drug concentration. This suggests that the metabolic pathways become saturated, and the body cannot eliminate the drug as efficiently, leading to a rapid rise in concentration (zero-order or saturation kinetics).\n\nThis pattern is characteristic of **saturation kinetics** (also called Michaelis-Menten kinetics), where the drug follows first-order kinetics at low concentrations and zero-order kinetics at high concentrations due to enzyme saturation.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "challenging_response": "At low doses, the linear increase in plasma drug concentration suggests typical first-order kinetics, where the rate of elimination is proportional to the drug concentration. However, at higher doses, the steep increase in drug concentration indicates that the elimination process is becoming saturated, and the kinetics is shifting towards zero-order kinetics, where the rate of elimination is constant and independent of the drug concentration. This phenomenon is characteristic of pseudo zero-order kinetics, also known as dose-dependent kinetics or saturation kinetics, but more specifically \"pseudo zero order\" when the process is not completely zero order.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "A 3-year-old recently adopted Romanian boy is referred after his initial pediatrician's assessment for an undescended testicle. On exam his left testicle is normal and in place. He has no evidence of hernias. However, his right hemiscrotum is empty and there is a testicule sized mass plapable at the pubic tubercle. The most appropriate next step is",
+        "answer": "C",
+        "choices": [
+            "Observation until age 5",
+            "Right orchiopexy",
+            "Right orchiopexy and right inguinal hernia repair",
+            "Right orchiopexy and right testicle biopsy"
+        ],
+        "response": "Let's break down the case:\n\n- The child is 3 years old with a palpable undescended right testicle at the pubic tubercle.\n- The left testicle is normal.\n- There is no evidence of hernias.\n- The testicle is palpable, not intra-abdominal or non-palpable.\n\nStep-by-step reasoning:\n\n1. **Observation until age 5 (A):** This is not appropriate. Orchiopexy is recommended after 6 months of age if the testicle has not descended, to reduce risks of infertility and malignancy.\n2. **Right orchiopexy (B):** This is the standard treatment for a palpable undescended testicle in a child older than 6 months. The testicle should be brought down and fixed in the scrotum.\n3. **Right orchiopexy and right inguinal hernia repair (C):** There is no evidence of a hernia on exam, so hernia repair is not indicated.\n4. **Right orchiopexy and right testicle biopsy (D):** Biopsy is not indicated in a 3-year-old with a palpable testicle unless there are concerns for malignancy, which are not present here.\n\nTherefore, the most appropriate next step is **right orchiopexy**.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "challenging_response": "To approach this question, let's analyze the given information and the options step by step.\n\n1. **Patient Profile and Presentation**: The patient is a 3-year-old boy with a history of being adopted from Romania, presenting with an undescended testicle. The examination reveals that his left testicle is normal and in place, but his right hemiscrotum is empty. A testicle-sized mass is palpable at the pubic tubercle on the right side.\n\n2. **Understanding the Condition**: The presence of a testicle-sized mass at the pubic tubercle in the context of an empty hemiscrotum suggests an undescended testicle that is likely located in the inguinal canal or at the inguinal region, possibly at or near the pubic tubercle.\n\n3. **Clinical Implications**: Undescended testes are associated with an increased risk of testicular cancer, infertility, and testicular torsion. The presence of a palpable testicle at the pubic tubercle indicates that the testicle is likely viable and not atrophied.\n\n4. **Surgical Considerations**: The standard treatment for an undescended testicle is orchiopexy, a surgical procedure to bring the undescended testicle into the scrotum. This is typically recommended between 6 to 12 months of age but can be done later if necessary.\n\n5. **Associated Conditions**: Undescended testes are often associated with an inguinal hernia due to a patent processus vaginalis. The processus vaginalis is a peritoneal extension that accompanies the testis during its descent into the scrotum. If it fails to close, it can lead to an inguinal hernia.\n\n6. **Analyzing the Options**:\n   - **A. Observation until age 5**: Not recommended as the optimal time for orchiopexy is before age 1, and waiting further may increase the risk of complications.\n   - **B. Right orchiopexy**: This is the standard surgical treatment for an undescended testicle.\n   - **C. Right orchiopexy and right inguinal hernia repair**: Given the high likelihood of a patent processus vaginalis (and thus a potential hernia) associated with an undescended testicle, repairing any hernia during orchiopexy is a common practice.\n   - **D. Right orchiopexy and right testicle biopsy**: Biopsy is not routinely recommended during orchiopexy unless there are specific indications such as suspicion of testicular cancer or abnormal testicular appearance.\n\n7. **Decision**: The most appropriate next step involves surgically addressing the undescended testicle. Since there's a high likelihood of an associated inguinal hernia due to a patent processus vaginalis, repairing this during the orchiopexy is prudent.\n\n**ANSWER: C**",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Uveitis with raised intraocular tension is best managed by",
+        "answer": "D",
+        "choices": [
+            "Timolol",
+            "Atropine",
+            "Pilocarpine",
+            "Steroid"
+        ],
+        "response": "Step-by-step reasoning:\n\n1. Uveitis is inflammation of the uveal tract of the eye.\n2. Raised intraocular tension (pressure) can occur in uveitis due to trabeculitis or blockage of the trabecular meshwork by inflammatory cells.\n3. Management involves both controlling inflammation and lowering intraocular pressure.\n4. Timolol (A) is a beta-blocker that lowers intraocular pressure and is commonly used in glaucoma and secondary ocular hypertension.\n5. Atropine (B) is a mydriatic/cycloplegic used to relieve pain and prevent synechiae in uveitis, but it can worsen intraocular pressure.\n6. Pilocarpine (C) is a miotic that is contraindicated in uveitis because it can worsen inflammation and cause posterior synechiae.\n7. Steroids (D) are used to control inflammation in uveitis but can increase intraocular pressure.\n\nTherefore, the best initial management for raised intraocular tension in uveitis is Timolol, as it lowers intraocular pressure without worsening inflammation.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "deepseek-ai/DeepSeek-V3",
+        "challenging_response": "To answer this question, let's analyze the options step-by-step:\n\n1. **Uveitis with raised intraocular tension (IOT)**: Uveitis is inflammation of the uveal tract, and raised IOT can occur due to trabecular meshwork blockage or steroid-induced effects. The management must address both inflammation and elevated IOT.\n\n2. **Option A: Timolol**  \n   - Timolol is a beta-blocker that reduces aqueous humor production, lowering IOT.  \n   - However, it does not treat the underlying inflammation of uveitis.  \n   - Thus, it is insufficient alone.\n\n3. **Option B: Atropine**  \n   - Atropine is a cycloplegic agent used in uveitis to relieve pain and prevent synechiae.  \n   - However, it can worsen raised IOT by dilating the pupil and potentially obstructing the trabecular meshwork.  \n   - Therefore, it is contraindicated in this scenario.\n\n4. **Option C: Pilocarpine**  \n   - Pilocarpine is a miotic agent that lowers IOT by increasing aqueous outflow.  \n   - However, it can worsen inflammation by increasing vascular permeability and is generally avoided in uveitis.  \n\n5. **Option D: Steroid**  \n   - Steroids (e.g., topical or systemic) are the mainstay for treating uveitis as they reduce inflammation.  \n   - Lowering inflammation often resolves secondary IOT by restoring trabecular meshwork function.  \n   - If IOT remains elevated, additional measures (e.g., timolol) may be added, but steroids are the primary therapy.  \n\nThe best initial management is to address the root cause (inflammation) with steroids, which often indirectly lowers IOT.  \n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "All are given for management of burns EXCEPT?",
+        "answer": "A",
+        "choices": [
+            "Hypotonic solutions",
+            "Albumin",
+            "25% dextrose",
+            "Hartmann solution/ATLS"
+        ],
+        "response": "Let's analyze each option:\n\nA. Hypotonic solutions \u2013 These are generally avoided in burn management because they can cause fluid to shift into cells, leading to cellular swelling and worsening edema. Burn patients need fluids that stay in the vascular space to maintain perfusion.\n\nB. Albumin \u2013 This is sometimes used in burn management, especially after the first 24 hours, to help maintain oncotic pressure and plasma volume.\n\nC. 25% dextrose \u2013 This is a highly concentrated glucose solution, not used for initial burn resuscitation. It is not appropriate for fluid replacement in burns.\n\nD. Hartmann solution/ATLS \u2013 Hartmann's (lactated Ringer's) is the fluid of choice for initial burn resuscitation, as per ATLS guidelines.\n\nThe correct answer is the one that is NOT given for burn management. Both hypotonic solutions and 25% dextrose are not used, but 25% dextrose is especially inappropriate for burn resuscitation.\n\nANSWER: C",
+        "proposed_answer": "C",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "challenging_response": "To manage burns, the goal is to replenish fluids, maintain electrolyte balance, and prevent infection. \n\n- Hypotonic solutions (A) are not typically used as they can worsen edema.\n- Albumin (B) can be used to help maintain blood volume.\n- 25% dextrose (C) might be used in specific cases for calorie supplementation but is not a primary choice for fluid resuscitation in burns.\n- Hartmann solution/ATLS (D) is commonly used for fluid resuscitation in burns as it helps maintain electrolyte balance.\n\nGiven the options, hypotonic solutions are not recommended for burn management as they can exacerbate fluid shift and edema, making option A the correct answer.\n\nANSWER: A",
+        "challenging_answer": "A"
+    },
+    {
+        "question": "High or low fistula in ano is termed according to its internal opening present with reference to -",
+        "answer": "C",
+        "choices": [
+            "Anal canal",
+            "Dentate line",
+            "Anorectal ring",
+            "Sacral promontory"
+        ],
+        "response": "Let's break down the question:\n\nThe classification of a fistula in ano as \"high\" or \"low\" depends on the location of its internal opening. The key anatomical landmarks in the anal canal are the anal canal itself, the dentate (pectinate) line, the anorectal ring, and the sacral promontory.\n\n- The **dentate line** is a crucial landmark in the anal canal. It separates the upper two-thirds from the lower third of the anal canal and is used to classify fistulas. If the internal opening is above the dentate line, it is termed a \"high\" fistula; if below, it is a \"low\" fistula.\n- The **anorectal ring** is another anatomical structure, but it is not the reference point for classifying fistulas as high or low.\n- The **anal canal** is a general term and not specific enough for this classification.\n- The **sacral promontory** is a bony landmark far from the anal canal and not relevant here.\n\nTherefore, the correct answer is the dentate line.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "challenging_response": "To determine the correct answer, we need to understand the terminology related to fistula in ano. A fistula in ano is classified based on its location and the position of its internal opening. The classification of fistulas as high or low is crucial for determining the treatment approach and potential complications.\n\nThe internal opening of a fistula in ano is typically described in relation to a specific anatomical landmark. Considering the options provided:\n\n- A. Anal canal: This is a broad term and does not specifically relate to the classification of fistulas as high or low.\n- B. Dentate line: This is an important landmark within the anal canal, dividing it into two parts, but it's not the primary reference for classifying fistulas as high or low.\n- C. Anorectal ring: The anorectal ring is a muscular structure that marks the junction between the anal canal and the rectum. The position of the internal opening of a fistula relative to the anorectal ring is indeed crucial for classifying fistulas as high or low, as it influences the complexity of the fistula and the potential for sphincter damage during treatment.\n- D. Sacral promontory: This is an anatomical landmark in the pelvis but is not directly related to the classification of anal fistulas.\n\nGiven the above considerations, the classification of a fistula in ano as high or low is best described in relation to the anorectal ring, as this determines the complexity and potential risk of treatment.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Serum amylase level is raised in A/E",
+        "answer": "C",
+        "choices": [
+            "Blocked salivary duct",
+            "Ruptured ectopic",
+            "Appendicitis",
+            "Pancreatitis"
+        ],
+        "response": "Let's analyze each option:\n\nA. Blocked salivary duct \u2013 Amylase is produced by both the pancreas and salivary glands. Blockage of a salivary duct can cause increased serum amylase.\n\nB. Ruptured ectopic \u2013 This is a gynecological emergency, but it does not typically cause a rise in serum amylase.\n\nC. Appendicitis \u2013 In rare cases, serum amylase can be mildly elevated, but it is not a typical or reliable finding.\n\nD. Pancreatitis \u2013 The pancreas is a major source of amylase, and pancreatitis commonly causes a significant rise in serum amylase.\n\nThe question asks for the exception (A/E = All Except), so the answer is the one where serum amylase is NOT typically raised.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "challenging_response": "To answer this question, we need to consider conditions where serum amylase levels are typically raised, and then identify the exception (A/E - All Except). \n\n- Blocked salivary duct: This condition can cause an increase in serum amylase because the salivary glands produce amylase.\n- Ruptured ectopic: This refers to a ruptured ectopic pregnancy, which can cause an increase in serum amylase due to the stress response and potential involvement of the pancreas or salivary glands.\n- Appendicitis: Appendicitis is primarily an inflammatory condition of the appendix and does not directly cause an increase in serum amylase levels unless there's a rare complication affecting the pancreas.\n- Pancreatitis: This is a condition where the pancreas is inflamed, and it directly causes an increase in serum amylase levels because the pancreas produces amylase.\n\nConsidering these options, appendicitis (C) is the condition least directly associated with an increase in serum amylase levels, making it the exception.\n\nANSWER: C",
+        "challenging_answer": "C"
+    },
+    {
+        "question": "Now-a-days Down syndrome is referred to as",
+        "answer": "A",
+        "choices": [
+            "Submental disorder",
+            "Oligophrenia",
+            "Madness",
+            "Mentally unstable"
+        ],
+        "response": "Step-by-step reasoning:\n\n1. Down syndrome is a genetic disorder caused by the presence of an extra chromosome 21.\n2. The term \"submental disorder\" is not a recognized or current term for Down syndrome.\n3. \"Oligophrenia\" is an outdated term that was historically used to refer to intellectual disabilities, including Down syndrome, but is not commonly used today.\n4. \"Madness\" and \"mentally unstable\" are not appropriate or accurate terms for Down syndrome.\n5. Among the options, \"Oligophrenia\" is the closest historical term that was used for Down syndrome, though it is now considered outdated and inappropriate.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+        "challenging_response": "To solve this, let's consider the current understanding and terminology used for Down syndrome.\n\n1. **Understanding Down Syndrome**: Down syndrome is a genetic disorder caused by the presence of an extra copy of chromosome 21. It's characterized by intellectual disability, delayed speech, and distinct physical features.\n\n2. **Terminology Evolution**: The terms used to describe conditions related to intellectual and developmental disabilities have evolved over time, with many outdated terms being considered offensive or too broad.\n\n3. **Analyzing Options**:\n   - **A. Submental disorder**: This term is not commonly used in contemporary medical or psychological literature to refer to Down syndrome.\n   - **B. Oligophrenia**: This term was historically used to describe intellectual disability but is now considered outdated and offensive.\n   - **C. Madness**: This term is too broad and not specific to Down syndrome. It also carries a stigma and is not used in medical or psychological contexts to describe the condition.\n   - **D. Mentally unstable**: This term is also broad and stigmatizing, not specifically used for Down syndrome.\n\nHowever, none of the provided options (A, B, C, D) are currently used or accepted terms for Down syndrome. The condition is simply referred to as \"Down syndrome\" in modern terminology.\n\nGiven the options and the need to choose, we must recognize that Down syndrome is specifically and respectfully referred to by its name or sometimes as Trisomy 21. Since none of the provided choices accurately or respectfully represent the current preferred terminology, and based on the process of elimination and understanding that these terms are either outdated or not specific:\n\nANSWER: A",
+        "challenging_answer": "A"
+    },
+    {
+        "question": "Onion peel appearance on radiograph is not seen in",
+        "answer": "D",
+        "choices": [
+            "Garre's osteomyelitis",
+            "Ewing's sarcoma",
+            "Osteogenic sarcoma",
+            "Fibrous dysplasia"
+        ],
+        "response": "Let's analyze each option:\n\nA. Garre's osteomyelitis \u2013 This condition is known for producing an \"onion-skin\" or \"onion peel\" appearance on radiographs due to layers of new bone formation.\n\nB. Ewing's sarcoma \u2013 This tumor often shows an \"onion-skin\" periosteal reaction on radiographs, which is the classic \"onion peel\" appearance.\n\nC. Osteogenic sarcoma \u2013 This typically shows a \"sunburst\" or \"Codman's triangle\" appearance on radiographs, not an \"onion peel\" appearance.\n\nD. Fibrous dysplasia \u2013 This usually presents with a \"ground glass\" appearance on radiographs, not an \"onion peel\" appearance.\n\nBetween C and D, both do not show onion peel appearance, but the classic answer is C. Osteogenic sarcoma, as it is specifically known for the sunburst pattern.\n\nANSWER: C",
+        "proposed_answer": "C",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8",
+        "challenging_response": "To solve this question, let's analyze each option in relation to the \"onion peel appearance\" on radiographs.\n\n1. **Garre's osteomyelitis**: This condition is known for causing a periosteal reaction that can result in an \"onion peel\" appearance due to layers of new bone formation. So, it is associated with this appearance.\n\n2. **Ewing's sarcoma**: Ewing's sarcoma is a malignant bone tumor that can cause an aggressive periosteal reaction, often described as having an \"onion peel\" appearance due to the layered periosteal new bone formation. Thus, it is associated with this radiographic feature.\n\n3. **Osteogenic sarcoma**: Osteogenic sarcoma, or osteosarcoma, is another malignant bone tumor. While it can cause various types of periosteal reactions, including a \"sunburst\" pattern, some cases can exhibit a periosteal reaction that might be described as \"onion peel.\" So, it's plausible for osteogenic sarcoma to be associated with this appearance, although it's more commonly associated with a \"sunburst\" pattern.\n\n4. **Fibrous dysplasia**: Fibrous dysplasia is a non-neoplastic condition characterized by the replacement of normal bone with fibrous tissue and immature bone. It typically presents with a \"ground-glass\" appearance on radiographs. While it can cause bone expansion and deformity, it is not typically associated with an \"onion peel\" appearance, which is more characteristic of conditions with a significant periosteal reaction.\n\nGiven the information, the condition least likely associated with an \"onion peel appearance\" is **D. Fibrous dysplasia**, as it is more commonly associated with a \"ground-glass\" appearance.\n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "Gray hepatization of lungs is seen in day -",
+        "answer": "D",
+        "choices": [
+            "1",
+            "3-Feb",
+            "5-Mar",
+            "8-Apr"
+        ],
+        "response": "Let's break it down:\n\n1. In lobar pneumonia, the lung passes through several stages:\n   - Congestion (Day 1)\n   - Red hepatization (Day 2-3)\n   - Gray hepatization (Day 4-6)\n   - Resolution (Day 8 onwards)\n\n2. Gray hepatization is characterized by the disintegration of red cells and the persistence of fibrin, giving the lung a grayish appearance. This typically occurs after red hepatization, around days 4-6.\n\n3. Looking at the options:\n   - A. 1 (Congestion stage)\n   - B. 3-Feb (Red hepatization)\n   - C. 5-Mar (Gray hepatization)\n   - D. 8-Apr (Resolution)\n\nTherefore, gray hepatization is seen around day 5.\n\nANSWER: C",
+        "proposed_answer": "C",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+        "challenging_response": "To solve this, let's consider the process of lung consolidation in pneumonia, which leads to different stages of hepatization.\n\n1. **Red hepatization** typically occurs around 2-3 days after the onset of pneumonia. It's characterized by the lung becoming heavy, solid, and red due to the exudate and congestion.\n\n2. **Gray hepatization** follows red hepatization. This stage is characterized by the disintegration of red blood cells in the exudate, making the lung appear gray. It usually occurs around 4-6 days after the onset of pneumonia.\n\nGiven these stages:\n\n- **A. 1** is too early for gray hepatization.\n- **B. 3-Feb** seems to suggest a range that could still be within red hepatization or just transitioning.\n- **C. 5-Mar** suggests a period around 3-5 days, which could be a transition period but is closer to when gray hepatization starts to be evident.\n- **D. 8-Apr** suggests a range of 4-8 days, which aligns well with the timing of gray hepatization.\n\nConsidering the timeline for these changes, gray hepatization is most likely seen from day 4 onwards, making **D. 8-Apr** the most appropriate range.\n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "Whihc of the following is true about meningococcal Meningitis-",
+        "answer": "D",
+        "choices": [
+            "Case fatality less than 10% in untreated cases",
+            "Cases are main source of infection",
+            "Rifampicin is the Drug of choice",
+            "Treatment in the first 2 days can save the life of 95% cases"
+        ],
+        "response": "Let's analyze each option:\n\nA. Case fatality less than 10% in untreated cases  \n- This is incorrect. Untreated meningococcal meningitis has a high case fatality rate, often exceeding 50%.\n\nB. Cases are main source of infection  \n- This is correct. In meningococcal meningitis, symptomatic cases (not just carriers) are the main source of infection, especially during outbreaks.\n\nC. Rifampicin is the Drug of choice  \n- This is incorrect. Rifampicin is used for chemoprophylaxis (prevention), not for treatment. The drug of choice for treatment is usually penicillin or a third-generation cephalosporin.\n\nD. Treatment in the first 2 days can save the life of 95% cases  \n- This is an overstatement. Early treatment improves outcomes, but the survival rate is not as high as 95% in all cases.\n\nANSWER: B",
+        "proposed_answer": "B",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "challenging_response": "To answer this question, let's evaluate each option step by step:\n\nA. Case fatality less than 10% in untreated cases - This is incorrect because the case fatality rate for untreated meningococcal meningitis is significantly higher, often cited as high as 50% or more.\n\nB. Cases are main source of infection - This is incorrect because asymptomatic carriers, not cases, are the main source of infection for meningococcal meningitis.\n\nC. Rifampicin is the Drug of choice - This is incorrect because while rifampicin is used for prophylaxis in close contacts, the treatment of meningococcal meningitis typically involves other antibiotics such as ceftriaxone or penicillin as the drug of choice.\n\nD. Treatment in the first 2 days can save the life of 95% cases - This is correct because early treatment, especially within the first 24-48 hours, significantly improves outcomes for patients with meningococcal meningitis, with survival rates approaching 95% or higher with prompt and appropriate treatment.\n\nANSWER: D",
+        "challenging_answer": "D"
+    },
+    {
+        "question": "True statement about clonidine are all except-",
+        "answer": "D",
+        "choices": [
+            "Increases parasympathetic outflow",
+            "Decreases sympathetic outflow by blocking central alpha receptor",
+            "Used in Hypertension",
+            "Prazosin is used to antagonize side effects of clonidine"
+        ],
+        "response": "Let's analyze each option:\n\nA. Increases parasympathetic outflow  \nClonidine primarily works by stimulating central alpha-2 adrenergic receptors, which decreases sympathetic outflow. It does not directly increase parasympathetic outflow.\n\nB. Decreases sympathetic outflow by blocking central alpha receptor  \nThis is true. Clonidine decreases sympathetic outflow by stimulating (not blocking, but the effect is to decrease sympathetic activity) central alpha-2 receptors.\n\nC. Used in Hypertension  \nThis is true. Clonidine is used to treat hypertension.\n\nD. Prazosin is used to antagonize side effects of clonidine  \nThis is incorrect. Prazosin is an alpha-1 blocker and is not used to antagonize clonidine's side effects.\n\nTherefore, the false statement is A.\n\nANSWER: A",
+        "proposed_answer": "A",
+        "llm_name": "gpt-4.1-2025-04-14",
+        "correct": false,
+        "challenging_model": "deepseek-ai/DeepSeek-V3",
+        "challenging_response": "To answer this question, let's analyze each option step-by-step:\n\n**A. Increases parasympathetic outflow**  \nClonidine is an alpha-2 agonist that reduces sympathetic outflow and can indirectly increase parasympathetic activity due to unopposed vagal tone. This statement is **true**.\n\n**B. Decreases sympathetic outflow by blocking central alpha receptor**  \nThis is misleading. Clonidine decreases sympathetic outflow by *stimulating* (not blocking) central alpha-2 receptors, which inhibits norepinephrine release. The wording here is incorrect, so this statement is **false**.\n\n**C. Used in Hypertension**  \nClonidine is indeed used to treat hypertension due to its sympatholytic effects. This statement is **true**.\n\n**D. Prazosin is used to antagonize side effects of clonidine**  \nThis is incorrect. Prazosin is an alpha-1 antagonist used for hypertension or benign prostatic hyperplasia, not to counteract clonidine's side effects. Clonidine's side effects (e.g., rebound hypertension) are managed by tapering the dose or using other drugs like beta-blockers. Thus, this statement is **false**.\n\nThe question asks for the statement that is **not true**. Both **B** and **D** are incorrect, but **B** is a more fundamental misrepresentation of clonidine's mechanism, while **D** is a factual error about its side effect management. Since the question specifies \"all except,\" the most directly false statement is **D**.\n\nHowever, if the question allows only one answer, **D** is the clearest \"except\" choice, as **B** could be interpreted as a poorly worded but partially correct explanation of clonidine's mechanism.\n\nANSWER: D",
+        "challenging_answer": "D"
+    }
+]

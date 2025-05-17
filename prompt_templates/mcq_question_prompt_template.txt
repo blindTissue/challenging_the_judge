@@ -1,0 +1,8 @@
+Answer the following multiple choice question. Please
+1. Explain your reasoning for the answer.
+2. Be concise and to the point.
+3. End with "ANSWER: [letter]" where [letter] is your final answer.
+
+{problem_text}
+
+Let's think step by step.

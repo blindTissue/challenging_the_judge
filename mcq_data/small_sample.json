@@ -1,0 +1,46 @@
+[
+    {
+        "question": "Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?",
+        "choices": [
+            "plaque",
+            "enamel",
+            "white blood cells",
+            "red blood cells"
+        ],
+        "answer": 0,
+        "support": ""
+    },
+    {
+        "question": "The lithosphere is divided into a dozen major and several minor what?",
+        "choices": [
+            "crystals",
+            "zones",
+            "plates",
+            "faults"
+        ],
+        "answer": 2,
+        "support": "The lithosphere is divided into a dozen major and several minor plates. Each plate is named for the continent or ocean basin it contains. Some plates are made of all oceanic lithosphere. A few are all continental lithosphere. But most plates are made of a combination of both."
+    },
+    {
+        "question": "No charge is actually created or destroyed when charges are separated as we have been discussing. rather, existing charges are moved about. in fact, in all situations the total amount of charge is always this?",
+        "choices": [
+            "less",
+            "constant",
+            "smaller",
+            "more"
+        ],
+        "answer": 1,
+        "support": "No charge is actually created or destroyed when charges are separated as we have been discussing. Rather, existing charges are moved about. In fact, in all situations the total amount of charge is always constant. This universally obeyed law of nature is called the law of conservation of charge. Law of Conservation of Charge Total charge is constant in any process."
+    },
+    {
+        "question": "What happens to air density and pressure when gas molecules are warm?",
+        "choices": [
+            "they are greater",
+            "they are unchanged",
+            "they are equal",
+            "they are lower"
+        ],
+        "answer": 3,
+        "support": "When gas molecules are warm, they move vigorously. They take up more space. Air density and air pressure are lower."
+    }
+]

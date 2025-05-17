@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?",
+        "answer": "A",
+        "choices": [
+            "plaque",
+            "enamel",
+            "white blood cells",
+            "red blood cells"
+        ],
+        "response": "Step 1: Understand the context of \"rupture\" in the bloodstream.  \nStep 2: Rupture commonly refers to the breaking of an atherosclerotic plaque in arteries.  \nStep 3: When a plaque ruptures, fragments can enter the bloodstream.  \nStep 4: These fragments can travel and become lodged in other arteries, causing blockages.  \nStep 5: Enamel is related to teeth, not blood vessels.  \nStep 6: White and red blood cells do not typically rupture and travel as fragments causing blockages.  \n\nTherefore, the correct answer is A. plaque.\n\nANSWER: A",
+        "proposed_answer": "A"
+    },
+    {
+        "question": "The lithosphere is divided into a dozen major and several minor what?",
+        "answer": "C",
+        "choices": [
+            "crystals",
+            "zones",
+            "plates",
+            "faults"
+        ],
+        "response": "Step 1: Understand the lithosphere. The lithosphere is the rigid outer layer of the Earth, including the crust and the uppermost mantle.\n\nStep 2: What is the lithosphere divided into? The lithosphere is broken into large pieces that move relative to each other.\n\nStep 3: Evaluate the options:\n- A. Crystals: The lithosphere contains minerals made of crystals, but it is not divided into crystals.\n- B. Zones: This is vague and not the standard term used.\n- C. Plates: The lithosphere is divided into tectonic plates, which are major and minor plates.\n- D. Faults: Faults are fractures within plates, not divisions of the lithosphere itself.\n\nConclusion: The correct term for the divisions of the lithosphere is \"plates.\"\n\nANSWER: C",
+        "proposed_answer": "C"
+    },
+    {
+        "question": "No charge is actually created or destroyed when charges are separated as we have been discussing. rather, existing charges are moved about. in fact, in all situations the total amount of charge is always this?",
+        "answer": "B",
+        "choices": [
+            "less",
+            "constant",
+            "smaller",
+            "more"
+        ],
+        "response": "Step 1: The question states that no charge is created or destroyed when charges are separated; only existing charges are moved.\n\nStep 2: This implies the total amount of charge remains unchanged regardless of how charges are rearranged.\n\nStep 3: Therefore, the total charge in any closed system is conserved and does not increase or decrease.\n\nANSWER: B",
+        "proposed_answer": "B"
+    },
+    {
+        "question": "What happens to air density and pressure when gas molecules are warm?",
+        "answer": "D",
+        "choices": [
+            "they are greater",
+            "they are unchanged",
+            "they are equal",
+            "they are lower"
+        ],
+        "response": "Step 1: When gas molecules are warmed, their kinetic energy increases, causing them to move faster.\n\nStep 2: Faster-moving molecules tend to spread out more, increasing the volume if the container is flexible or open.\n\nStep 3: If volume increases and the number of molecules remains constant, the air density (mass per unit volume) decreases.\n\nStep 4: Pressure depends on the force exerted by molecules colliding with surfaces. If volume is constant, pressure increases with temperature. If volume can expand, pressure may stay the same or decrease.\n\nStep 5: The question does not specify volume constraints, but generally, warming air causes density to decrease and pressure to decrease or remain constant if the air expands.\n\nTherefore, the best general answer is that both air density and pressure become lower when gas molecules are warm.\n\nANSWER: D",
+        "proposed_answer": "D"
+    }
+]

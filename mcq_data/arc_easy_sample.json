@@ -1,0 +1,3001 @@
+[
+    {
+        "question": "Erin wants to make a strong, light chair. Which natural material should she use?",
+        "choices": [
+            "iron",
+            "granite",
+            "clay",
+            "wood"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Twins are born. One is a boy and one is a girl. Which statement is correct about their genetic makeup?",
+        "choices": [
+            "The boy and girl inherit genetic material from the father only.",
+            "The boy and girl inherit genetic material from the mother only.",
+            "The boy and girl inherit genetic material from both parents.",
+            "The boy inherits genetic material from the father only and the girl inherits it from the mother only."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which is evidence that the universe is expanding?",
+        "choices": [
+            "the presence of dark matter",
+            "red shift of light from distant galaxies",
+            "constant speed of light from every perspective",
+            "emission of high-energy gamma rays by distant objects"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of these does the MOST harm to the air?",
+        "choices": [
+            "Chopping down trees with an ax in the backyard",
+            "Collecting fall leaves",
+            "Cutting grass with a gas-powered lawnmower",
+            "Picking colorful wildflowers along the highway"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which part of a sound wave measures loudness?",
+        "choices": [
+            "wavelength",
+            "magnitude",
+            "amplitude",
+            "frequency"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which two characteristics affect a planet's gravitational attraction to the Sun?",
+        "choices": [
+            "mass and volume",
+            "volume and length of day",
+            "distance from the Sun and mass",
+            "length of day and distance from the Sun"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "During a demonstration, a teacher pours CO_{2} gas over a candle, putting out the flame. Which physical property allows the teacher to pour the CO_{2} gas?",
+        "choices": [
+            "The gas is more dense than the air.",
+            "The gas is more visible than the air.",
+            "The gas smells different from the air.",
+            "The gas evaporates faster than the air."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A neutral atom is best described as having",
+        "choices": [
+            "more protons than neutrons.",
+            "more electrons than protons.",
+            "an equal number of protons and neutrons.",
+            "an equal number of protons and electrons."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "One function of the circulatory system is to carry cellular nutrients to the body. Which part of the circulatory system is responsible for exchanging nutrients and wastes?",
+        "choices": [
+            "arteries",
+            "capillaries",
+            "heart",
+            "veins"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which body systems are most involved in the response when someone stubs his or her toe?",
+        "choices": [
+            "nervous and muscle",
+            "muscle and endocrine",
+            "nervous and digestive",
+            "reproductive and circulatory"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A student made observations of four rock samples. Which of these observations most likely describes a sedimentary rock?",
+        "choices": [
+            "Sample 1 has bands of light and dark crystals.",
+            "Sample 2 has pink, gray, and white crystals grown together.",
+            "Sample 3 is made up of one huge, pale pink crystal.",
+            "Sample 4 is made up of layers of sand grains cemented together."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Soil will pack down over time which decreases the ability of the soil to hold water. Which animals would best help the soil hold water?",
+        "choices": [
+            "earthworms making tunnels under the surface",
+            "cattle making depressions with their hooves",
+            "horses making trenches when they gallop",
+            "sheep pulling up plants by their roots"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Antarctica is a continent at Earth's south pole. Fossils of tropical fern plants were discovered in Antarctica even though these plants do not grow there today. Which conclusion does the fossil evidence best support?",
+        "choices": [
+            "Millions of years ago, Antarctica was in a warmer location on Earth.",
+            "Recently, a natural disaster killed all of the fern plants in Antarctica.",
+            "Recently, birds stopped carrying the seeds of fern plants to Antarctica.",
+            "Millions of years ago, Earth's south pole was much colder than it is today."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If a species of bird stopped reproducing, which of these would happen?",
+        "choices": [
+            "The bird's prey species would decrease in number.",
+            "The food web that the bird belongs to would collapse.",
+            "Trees where these birds build nests would grow taller.",
+            "This bird species would eventually disappear from nature."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which is the most important reason for scientists to publish their data and findings that result from a scientific investigation?",
+        "choices": [
+            "to become famous",
+            "to get paid for their research",
+            "to allow other scientists to try to replicate their results",
+            "to gain respect from their peers in the scientific community"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Copper wire is often wrapped in plastic. Plastic material is a good",
+        "choices": [
+            "electromagnet",
+            "insulator",
+            "circuit",
+            "current"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which best describes a scientific theory?",
+        "choices": [
+            "It is still being tested.",
+            "It is true, once written.",
+            "It is different for each continent.",
+            "It is determined in a court of law."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Rocks and minerals are common materials found on Earth. Which property do most rocks and minerals share?",
+        "choices": [
+            "They are pure.",
+            "They are solid.",
+            "They are liquid.",
+            "They are magnetic."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "One role of a producer in a food chain is to provide",
+        "choices": [
+            "water for plants",
+            "sunlight for plants",
+            "nutrients for animals",
+            "shelter for animals"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which physical characteristic of a puppy is most likely inherited from its parents?",
+        "choices": [
+            "coat color",
+            "desire to play fetch",
+            "body weight",
+            "ability to follow commands"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Vibrations in the air caused by hitting a drum form",
+        "choices": [
+            "radiation.",
+            "light.",
+            "electricity.",
+            "sound."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Elements are organized on the periodic table according to",
+        "choices": [
+            "electronegativity values.",
+            "atomic mass.",
+            "atomic number.",
+            "the number of neutrons."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Where does water in a lake get most of its energy to evaporate?",
+        "choices": [
+            "The sun heating the lake",
+            "Green plants living in the lake",
+            "Streams entering the lake",
+            "Cold springs under the lake"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Animals get energy from the food they eat. What is the original source of this energy?",
+        "choices": [
+            "the soil",
+            "the water cycle",
+            "the Sun",
+            "fertilizers"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A donkey and a horse can be bred to produce a mule. Which observation is evidence that donkeys and horses are two different species?",
+        "choices": [
+            "They have different body sizes.",
+            "A mule is not able to reproduce.",
+            "They are found in different environments.",
+            "A mule does not resemble either parent."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which form of energy is produced when paper is burned?",
+        "choices": [
+            "heat",
+            "magnetic",
+            "electrical",
+            "chemical"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A carpenter rubs sandpaper on a wooden bench to make the bench smoother. The sandpaper will get warm as it is rubbed on the bench. As a result of the friction between the sandpaper and the bench, thermal energy is converted to",
+        "choices": [
+            "chemical energy that is stored by the sandpaper.",
+            "radiant energy that is transferred to the bench.",
+            "potential energy that is stored by the wood.",
+            "heat energy that is transferred to the air."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "An electrical component that has a continuous path for electrons to flow is called",
+        "choices": [
+            "a closed circuit.",
+            "an open circuit.",
+            "a filament.",
+            "a battery."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A metal spoon and a wooden spoon are used to stir a pot of hot soup. After a few minutes, the metal spoon feels hotter than the wooden spoon. What explains this?",
+        "choices": [
+            "Metal is always hotter than wood.",
+            "Metal conducts heat better than wood.",
+            "Metal conducts electricity better than wood.",
+            "Metal heats up the water better than the wood."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which is a function of the cardiovascular system?",
+        "choices": [
+            "to move water throughout the body",
+            "to provide structural support for the body",
+            "to eliminate waste from the body",
+            "to transport gases throughout the body"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Sydney is learning about the sources of energy that can run out. Which energy source will run out the fastest?",
+        "choices": [
+            "flowing water",
+            "natural gas",
+            "sunlight",
+            "wind"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The Sun releases light and heat energy that cause changes on Earth. How does the Sun's energy change water?",
+        "choices": [
+            "The energy makes liquid water freeze.",
+            "The energy makes water vapor from liquid water.",
+            "The energy makes clouds release rain.",
+            "The energy makes water collect into puddles."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The Sun is the largest body in the solar system. The Sun is a ___.",
+        "choices": [
+            "moon",
+            "planet",
+            "satellite",
+            "star"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "At one station in a production line, a worker must drill a hole in each end of wooden boards. At the next station, another worker attaches two of the boards together using metal fasteners that fit in the holes. Which of the following processes will ensure that the wooden boards fit together with the fewest errors?",
+        "choices": [
+            "placing the parts on a conveyor belt to keep them moving quickly",
+            "using a fixture to hold the boards in place as the holes are drilled",
+            "inspecting the boards after they are attached to each other",
+            "installing equipment to protect workers from debris"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a part of the process of sexual reproduction?",
+        "choices": [
+            "budding",
+            "regeneration",
+            "pollination",
+            "fragmentation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mrs. Henderson's class has five small covered boxes. One contains perfume; another contains dried onions. There is also a box of pine needles, a box of lemon pieces, and a box with a paper towel wetted with vanilla flavoring. Which should they do to get the best information about what is in each box?",
+        "choices": [
+            "Shake the boxes.",
+            "Smell the boxes.",
+            "Listen to the boxes.",
+            "Weigh the boxes."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How many different elements are in the 20 compound sodium carbonate (Na2CO3)?",
+        "choices": [
+            "1",
+            "3",
+            "6",
+            "7"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Many scientists think that when birds migrate to the same location each year, they find this location by using Earth's",
+        "choices": [
+            "jet stream.",
+            "weather patterns.",
+            "magnetic patterns.",
+            "electrical discharges."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The smallest particle of matter that can be identified as an element is called",
+        "choices": [
+            "an atom.",
+            "a proton.",
+            "an electron.",
+            "a molecule."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of these describes rotation?",
+        "choices": [
+            "Mercury goes around the Sun every 88 days.",
+            "The Moon goes around Earth every 28 days.",
+            "Earth orbits the Sun about every 365 days.",
+            "Earth makes one turn on its axis every 24 hours."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "During the Siberian summer, reindeer graze on young roots, fungi, grass, and other vegetation. In the cold winter months, they migrate south and rely on available, but less nutritious food, such as lichen. Increased snowfall during the entire winter in southern areas would result in reindeer having to",
+        "choices": [
+            "return to their summer feeding area.",
+            "hibernate until the snows have stopped.",
+            "hunt for organisms such as small rodents.",
+            "move to other areas to compete for resources."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of these is a waste product of plant cells?",
+        "choices": [
+            "minerals",
+            "oxygen",
+            "heat",
+            "water"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Professor Walden studies genetics at a local university. She believes that she has discovered information that contradicts a widely accepted theory. As a scientist and leader in the study of genetics, which action should she take?",
+        "choices": [
+            "Announce to the world that her theory is better than the old theory.",
+            "Call the news media and tell them about her new theory.",
+            "Challenge the old theory with scientific evidence.",
+            "Request that the old theory be banned."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which event is an example of conduction?",
+        "choices": [
+            "Sunlight travels from the Sun to warm Earth.",
+            "Boiling water in a pot warms a spoon inside the pot.",
+            "A fire in a fireplace warms the air in a room.",
+            "Cold water is heated in a microwave oven."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Today's limestone caverns were once solid rock. Acidic rainwater seeping through the rock over hundreds of years dissolved part of the rock, forming caverns. This is an example of",
+        "choices": [
+            "erosion.",
+            "deposition.",
+            "physical weathering.",
+            "chemical weathering."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The hypothesis of an expanding universe required which type of validation before being accepted as a significant part of scientific theory?",
+        "choices": [
+            "a controlled single-variable laboratory test",
+            "support through evidence from numerous observations",
+            "proposal of alternative explanations with predictive value",
+            "a full-scale replication of each event in the proper sequence"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A plover bird eats bits of food that become stuck in a crocodile's teeth without being hurt. The crocodile gets its teeth cleaned and the bird gets food. Which type of relationship exists between the bird and the crocodile?",
+        "choices": [
+            "mutualism",
+            "commensalism",
+            "parasitism",
+            "phototropism"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Of the following types of cells, which has the highest concentration of mitochondria?",
+        "choices": [
+            "bone",
+            "muscle",
+            "nerve",
+            "skin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What force pulls things towards the center of Earth?",
+        "choices": [
+            "magnetism",
+            "gravity",
+            "friction",
+            "energy"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "All organisms depend on the transfer of energy to survive. Which best shows the energy transfer between animals in a shoreline ecosystem?",
+        "choices": [
+            "Fish -> Plants -> Birds",
+            "Plants -> Birds -> Fish",
+            "Plants -> Fish -> Birds",
+            "Fish -> Birds -> Plants"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "As members of a food web, humans are considered to be",
+        "choices": [
+            "producers.",
+            "consumers.",
+            "decomposers.",
+            "scavengers."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Based on the organization of living things, tissues",
+        "choices": [
+            "form systems.",
+            "are made of cells.",
+            "are made of organs.",
+            "do the work of cells."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "At which location are oceans the deepest?",
+        "choices": [
+            "Mid-ocean ridge",
+            "Abyssal plain",
+            "Ocean trench",
+            "Volcanic island"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The conservation of matter can be demonstrated by using chemical equations. Which chemical equation demonstrates the conservation of matter?",
+        "choices": [
+            "2Sn + 4HNO_{3} -> SnO_{2} + 4NO_{2} + H_{2}O",
+            "I_{2} + 5Cl_{2} + 6H_{2}O -> 2HIO_{3} + 10HCl",
+            "Cl + 4Na -> 4NaCl",
+            "4P + 5HNO_{3} -> 5NO + 3H_{3}PO_{4}"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which property is thought to characterize objects in the Oort Cloud?",
+        "choices": [
+            "They are composed mostly of iron.",
+            "They are composed mostly of ice.",
+            "They regularly revolve near the Sun.",
+            "They regularly replenish water on Earth."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mrs. Garry's class wants to know if their area has more acid rain than other parts of the state. Which would be the best way for them to begin research?",
+        "choices": [
+            "contact other schools within the state",
+            "study science textbooks in the library",
+            "look for current acid rain studies on the Internet",
+            "examine soil samples taken at different locations"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which would help conserve water?",
+        "choices": [
+            "Turn off water while brushing teeth",
+            "Wash the car every day",
+            "Water the lawn every day",
+            "Run the dishwasher after each meal"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which sequence identifies the levels of organization of body structures in a human from simplest to most complex?",
+        "choices": [
+            "cell -> organ -> tissue -> organ system",
+            "organ system -> cell -> tissue -> organ",
+            "tissue -> organ -> organ system -> cell",
+            "cell -> tissue -> organ -> organ system"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following shows the correct sequence of inventions?",
+        "choices": [
+            "printing press -> microscope -> telephone",
+            "television -> automobile -> microwave",
+            "airplane -> microphone -> radio",
+            "Doppler radar -> microphone -> telescope"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which energy transformation occurs during active transport in a cell?",
+        "choices": [
+            "light energy -> chemical energy",
+            "kinetic energy -> potential energy",
+            "chemical energy -> mechanical energy",
+            "mechanical energy -> electrical energy"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nutrients are recycled when materials decompose in an ecosystem. Which is the best example of the decomposition process where organic material is recycled in an ecosystem?",
+        "choices": [
+            "a hawk eating a mouse",
+            "worms tunneling through soil",
+            "bacteria feeding on dead plants",
+            "a plant using nitrogen to make proteins"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Some one-celled organisms can reproduce by the process of",
+        "choices": [
+            "hormone secretion",
+            "metamorphosis",
+            "fertilization",
+            "cell division"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "After which event will primary succession most likely occur?",
+        "choices": [
+            "thunderstorm",
+            "crop harvest",
+            "volcanic eruption",
+            "urban development"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Eyeglasses help a nearsighted person see as a result of",
+        "choices": [
+            "absorption.",
+            "diffraction.",
+            "reflection.",
+            "refraction."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A marine iguana is an animal that lives on the shoreline of warm islands. Its tail is long and thick. Which of these is improved by the shape of its tail?",
+        "choices": [
+            "swimming in the ocean",
+            "blending in with rocks",
+            "absorbing nutrients",
+            "finding food inland"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which metric units should be used to describe the mass of an object?",
+        "choices": [
+            "centimeters",
+            "liters",
+            "grams",
+            "degrees Celsius"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ferns belong to any one of about 12,000 species of plants grouped in their own division within the plant kingdom. Ferns are vascular, seedless, flowerless, and reproduce by spores. To which plant group do ferns belong?",
+        "choices": [
+            "Bryophyta",
+            "Gymnosperm",
+            "Angiosperm",
+            "Pteridophyta"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When European settlers first came to North America, the average thickness of the top layer of soil was approximately 23 cm. Today, the average thickness of the top layer of soil is less than 15 cm. Which of the following factors has most likely had the greatest effect on erosion of the top layer of soil?",
+        "choices": [
+            "farming",
+            "restoring wetlands",
+            "species reintroduction",
+            "excessive groundwater use"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The motion of atoms and molecules in a substance is",
+        "choices": [
+            "thermal energy.",
+            "chemical energy.",
+            "mechanical energy.",
+            "electromagnetic energy."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Green plants get the energy they need to make food from",
+        "choices": [
+            "water",
+            "air",
+            "soil",
+            "sunlight"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "How does the Sun most affect the water cycle?",
+        "choices": [
+            "The Sun causes the ocean water to evaporate.",
+            "The Sun creates water droplets in the clouds.",
+            "The Sun forces water to drain back into the ocean.",
+            "The Sun makes the clouds produce precipitation."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In one day, a family in a car rode for 2 hours, stopped for 3 hours, and then rode for another 5 hours. During the day, the family traveled a total distance of 400 kilometers. What was their average speed for the whole trip?",
+        "choices": [
+            "10 km/h",
+            "20 km/h",
+            "40 km/h",
+            "50 km/h"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All of the populations of species in an area make up a",
+        "choices": [
+            "region",
+            "niche",
+            "family",
+            "community"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A plant that has traits identical to the parent plant provides evidence that the plant",
+        "choices": [
+            "resulted from sexual reproduction.",
+            "resulted from asexual reproduction.",
+            "will develop many seeds.",
+            "will have large leaves."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A cell's chromosomes contain",
+        "choices": [
+            "genes",
+            "chlorophyll",
+            "sperm",
+            "eggs"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Some processes that shape Earth's surface are slow. Other processes are rapid. Which statement describes a rapid change?",
+        "choices": [
+            "Glaciers melt and form rivers.",
+            "Wind weathers rocks into sand.",
+            "Earthquakes move land and rocks.",
+            "Rivers carry sediment and build deltas."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "After a star runs out of most of its hydrogen fuel, it becomes hotter and more luminous. What stage does this represent in the life cycle of a star?",
+        "choices": [
+            "quasar",
+            "protostar",
+            "red giant",
+            "white dwarf"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ducks live near ponds and lakes. The shape of a duck's foot helps it swim and walk on muddy ground. Which factor is most important in determining the shape of a baby duck's foot?",
+        "choices": [
+            "the shape of the parent ducks' feet",
+            "the temperature of the pond water",
+            "the amount of mud in the bottom of the pond",
+            "the amount of rain that fell before the duck was born"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Some prokaryotes once classified in the domain Bacteria are now classified as",
+        "choices": [
+            "Fungi.",
+            "Plantae.",
+            "Archaea.",
+            "Protista."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Part of a scientific method involves collecting data in order to",
+        "choices": [
+            "change a theory.",
+            "test a hypothesis.",
+            "write a procedure.",
+            "make an observation."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which organisms make energy available to all other organisms in a food chain?",
+        "choices": [
+            "producers",
+            "decomposers",
+            "consumers",
+            "scavengers"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which human response is most likely to occur because the air temperature is 90°F?",
+        "choices": [
+            "blinking",
+            "salivating",
+            "shivering",
+            "sweating"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which statement describes a property of water that most likely causes large rocks to break apart?",
+        "choices": [
+            "Water expands when it freezes.",
+            "Water forms droplets as it falls.",
+            "Water turns into a gas when it boils.",
+            "Water takes the shape of its container."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What does a plant need to make sugar through photosynthesis?",
+        "choices": [
+            "soil, water, and oxygen",
+            "oxygen, sunlight, and soil",
+            "carbon dioxide, sunlight, and soil",
+            "sunlight, water, and carbon dioxide"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Radioactive waste from nuclear power plants is sealed in containers and deeply buried in the ground. Sealing and burying waste reduces the chances that water will become contaminated. At which point in the water cycle would radioactive contamination most likely be found?",
+        "choices": [
+            "rain",
+            "fog",
+            "groundwater",
+            "surface water"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A dog growls when a predator gets close. Growling is an example of which animal behavior?",
+        "choices": [
+            "migration",
+            "hibernation",
+            "communication",
+            "germination"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A boy and his sister both play piano. Playing piano is an example of",
+        "choices": [
+            "a physical change",
+            "an inherited trait",
+            "a life function",
+            "a learned behavior"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A simple machine that has a mechanical advantage equal to 1 would most likely be used to",
+        "choices": [
+            "decrease effort.",
+            "decrease work.",
+            "change direction.",
+            "change resistance."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The parts of plants that make seeds are the",
+        "choices": [
+            "roots.",
+            "stems.",
+            "flowers.",
+            "leaves."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "At one time, scientists believed that living organisms came from nonliving objects. This theory was revised through",
+        "choices": [
+            "changes in popular belief.",
+            "evidence from experiments.",
+            "information published in books.",
+            "advances in the scientific method."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A cyclist travels 3 km north in 25 minutes. What does this information describe?",
+        "choices": [
+            "mass",
+            "force",
+            "motion",
+            "gravity"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Daphnee is going to build a model of the solar system for her science project. She decides that a meter (m) will represent one astronomical unit (AU) in her model. Based on this scale, how far away from the Sun would she need to place Earth?",
+        "choices": [
+            "one meter",
+            "two meters",
+            "three meters",
+            "four meters"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Human Immunodeficiency Virus (HIV) infects the cells that coordinate the human immune response. When these cells are killed or compromised, the body cannot effectively protect itself from infection. Which cells does HIV infect?",
+        "choices": [
+            "natural killer T cells",
+            "regulatory T cells",
+            "cytotoxic T cells",
+            "helper T cells"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The need for farmland in Brazil has led to the cutting of the rain forests in the Amazon. Cutting trees in the Amazon rain forest might have a global effect by",
+        "choices": [
+            "decreasing the amount of fresh water",
+            "increasing the number of animal species",
+            "decreasing the average yearly temperatures",
+            "increasing carbon dioxide levels in the atmosphere"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A litter of kittens have traits that are similar to both the mother cat and the father cat. Which best explains this situation?",
+        "choices": [
+            "The kittens are provided the same kind of milk from their mother as they grow.",
+            "The kittens inherit some of their traits from their mother and some from their father.",
+            "The kittens are kept at the same temperatures by their mother when they are first born.",
+            "The kittens are taught by their parents to have similar traits."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Eagles have strong, sharp beaks that are most likely adapted for the eagle to eat",
+        "choices": [
+            "fish.",
+            "eggs.",
+            "worms.",
+            "flowers."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Recycling is important to the environment because it",
+        "choices": [
+            "is a good way to earn money.",
+            "produces more carbon dioxide for plants.",
+            "decreases the amount of natural resources.",
+            "is a way of conserving nonrenewable resources."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The living systems of plants and animals are constantly taking in water to continue the processes of life. What eventually happens to most of that water?",
+        "choices": [
+            "It is converted into hydrogen and oxygen.",
+            "It is returned to the environment.",
+            "It is broken down by bacterial decay.",
+            "It is permanently combined with other compounds."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is NOT a mixture?",
+        "choices": [
+            "Air",
+            "Blood",
+            "Orange juice",
+            "Salt"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "During exercise, the cardiovascular system works together with the respiratory system to",
+        "choices": [
+            "maintain blood pressure.",
+            "remove carbon dioxide.",
+            "produce red blood cells.",
+            "filter out waste products."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The length of a year on Earth is a little over 365 days. The length of a year on a planet is best described as the time it takes for which to occur?",
+        "choices": [
+            "the planet to revolve once around the Sun",
+            "the seasons to complete a full cycle",
+            "the planet to rotate once on its axis",
+            "the Sun to rotate once on its axis"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When the environment changes more quickly than a species can adapt, the species may become",
+        "choices": [
+            "extinct",
+            "dominant",
+            "diverse",
+            "overpopulated"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Pesticides are chemicals that kill insects. What could happen if the pesticides killed all the pollinators near some apple trees?",
+        "choices": [
+            "The trees could not make leaves.",
+            "The trees could not make flowers.",
+            "The trees could not make seeds.",
+            "The trees could not make bark."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In order for cells to grow at a normal rate, they must",
+        "choices": [
+            "take in light.",
+            "be specialized.",
+            "take in nutrients.",
+            "be of similar size."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the role of the kidneys in the excretory system?",
+        "choices": [
+            "to digest food",
+            "to remove toxins",
+            "to produce bile",
+            "to oxygenate blood"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which is an inherited characteristic on a horse?",
+        "choices": [
+            "a long mane",
+            "a steel shoe",
+            "a missing tooth",
+            "a bruised leg"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is a true statement about all foods?",
+        "choices": [
+            "All foods are solid.",
+            "All foods taste good.",
+            "All foods provide nutrients.",
+            "All foods should be cooked."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What process in the atmosphere protects people from the ultraviolet rays in sunlight?",
+        "choices": [
+            "Ozone absorbs ultraviolet light.",
+            "Nitrogen reflects ultraviolet light.",
+            "Water vapor scatters ultraviolet light.",
+            "Carbon dioxide blocks ultraviolet light."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Paul listens to music through his radio. Which best explains the sound Paul hears?",
+        "choices": [
+            "Sounds are fluids that travel through air.",
+            "Sounds are waves that travel through matter.",
+            "Sounds are gases that transform into vibrations.",
+            "Sounds are forms of energy that are converted from light."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the relationship between an ecosystem and a community?",
+        "choices": [
+            "A community is a very large ecosystem.",
+            "An ecosystem is a very large community.",
+            "An ecosystem includes a community and abiotic factors.",
+            "A community includes an ecosystem and abiotic factors."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The number of neutrons in an atom is found by subtracting",
+        "choices": [
+            "atomic number from mass number.",
+            "mass number from atomic number.",
+            "atomic number from electron number.",
+            "isotope number from electron number."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which activity illustrates the main function of the motor neuron complex?",
+        "choices": [
+            "transferring impulses to the appropriate muscle",
+            "receiving sensory impulses from the environment",
+            "delivering regular impulses to the autonomic system",
+            "processing impulses within the cerebral cortex"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Ben has a snack with a combination of raisins, chocolate pieces, and nuts. As he eats the snack, Ben picks out all of the raisins. Which best describes the snack Ben is eating?",
+        "choices": [
+            "a compound",
+            "an element",
+            "a solution",
+            "a mixture"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A student wants to perform an experiment to determine what temperature is best for growing tomato plants. Which is the best piece of equipment to use in this experiment to measure the independent variable?",
+        "choices": [
+            "rain gauge",
+            "light meter",
+            "tape measure",
+            "thermometer"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A student places a ball on the ground and kicks it. The ball moves along the ground. Why does the ball move?",
+        "choices": [
+            "The kick decreases the weight of the ball.",
+            "The kick applies a contact force to the ball.",
+            "The kick decreases the force of gravity acting on the ball.",
+            "The kick removes friction between the ball and the ground."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which scientist is credited for the development of the polio vaccine?",
+        "choices": [
+            "Jonas Salk",
+            "Neil Armstrong",
+            "Albert Einstein",
+            "Jacques Cousteau"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which pair of systems is responsible for the flow of blood in the human body?",
+        "choices": [
+            "circulatory and skeletal systems",
+            "skeletal and excretory systems",
+            "muscular and circulatory systems",
+            "respiratory and muscular systems"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these natural disasters is least likely to cause major damage to a prairie ecosystem?",
+        "choices": [
+            "a flood",
+            "a tornado",
+            "a hurricane",
+            "an earthquake"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "One example of a trait passed from a parent plant to its offspring is ___.",
+        "choices": [
+            "the amount of water in the plant's environment",
+            "the amount of sunlight shining on the plant",
+            "the color of the flowers on the plant",
+            "the nutrients in the soil where the plant grows"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the dependent variable in this experiment?",
+        "choices": [
+            "type of soil used",
+            "amount of water used",
+            "length of sunlight exposure",
+            "growth of the bean plants"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the result of the rapid shifting in Earth's surface?",
+        "choices": [
+            "a tornado",
+            "an earthquake",
+            "a volcano",
+            "an avalanche"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wind and water are examples of renewable energy sources because",
+        "choices": [
+            "they will stop producing energy.",
+            "they were formed millions of years ago.",
+            "they are always available to produce energy.",
+            "they take millions of years to start producing energy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Centuries ago, people used their knowledge of the stars to",
+        "choices": [
+            "navigate ships.",
+            "study the weather.",
+            "predict volcanic eruptions.",
+            "map the Earth's surface."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which is considered a property of soil?",
+        "choices": [
+            "streak",
+            "fracture",
+            "texture",
+            "luster"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which is the best evidence for the theory of continental drift?",
+        "choices": [
+            "the appearance of volcanoes at the boundaries where plates collide",
+            "earthquakes at boundaries where one plate slides past another",
+            "cases where a species exists in only one isolated place",
+            "fossils of the same species found on widely separated continents"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which is the best way to show the percent gas composition in Earth's atmosphere?",
+        "choices": [
+            "bar graph",
+            "line graph",
+            "pie chart",
+            "scatterplot"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When light is reflected off an object and enters the eye, it falls on the",
+        "choices": [
+            "lens.",
+            "pupil.",
+            "retina.",
+            "cornea."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which characteristic of an element determines its placement in the periodic table?",
+        "choices": [
+            "mass",
+            "size",
+            "number of neutrons",
+            "number of protons"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which features form when magma emerges between two diverging oceanic plates?",
+        "choices": [
+            "ocean trenches",
+            "fault boundaries",
+            "mid-ocean ridges",
+            "composite volcanoes"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "On a field trip in a wooded area, you see a small, strange object. You wonder whether it is a live animal. The best way to find out is to observe the object to see if it",
+        "choices": [
+            "has an odor.",
+            "has separate parts.",
+            "can make a noise and has a lifelike color.",
+            "carries out basic life functions."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A thermometer shows that the outside air temperature is colder than the temperature at which water turns to ice. However, ice on the sidewalk melts. What probably caused this?",
+        "choices": [
+            "The air heating the sidewalk",
+            "The sidewalk reflecting sunlight into the air",
+            "The wind causing the ice on the sidewalk to melt",
+            "The sunlight making the sidewalk warmer than the air"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which statement below best explains why several fossils of sea organisms were discovered buried deep in an area of dry land?",
+        "choices": [
+            "The fossils changed locations.",
+            "The area had a shift in climate.",
+            "The land was once underwater.",
+            "A glacier once covered the area."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which discovery was necessary before radio could be invented?",
+        "choices": [
+            "reflection",
+            "radiation",
+            "electricity",
+            "gravity"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What causes sound?",
+        "choices": [
+            "sunlight",
+            "vibrations",
+            "x-rays",
+            "pitch"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wood is considered a renewable resource because",
+        "choices": [
+            "oxygen is released by trees.",
+            "trees can be replanted.",
+            "there are many varieties of trees.",
+            "trees are used for many purposes."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which statement is true?",
+        "choices": [
+            "All fungi are multicellular heterotrophs.",
+            "All fungi are single-celled heterotrophs.",
+            "All animals are multicellular heterotrophs.",
+            "All animals are single-celled heterotrophs."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In what form do plants store the energy produced from sunlight?",
+        "choices": [
+            "radiant",
+            "thermal",
+            "chemical",
+            "mechanical"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these is part of the description of protein?",
+        "choices": [
+            "a folded chain of amino acids",
+            "a folded chain of carbohydrates",
+            "a branched chain of fatty acids",
+            "a branched chain of nucleic acids"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If the Earth did not tilt on its axis in relation to the sun, which of the following would also be true?",
+        "choices": [
+            "There would be no seasons.",
+            "One Earth-year would be 14% longer.",
+            "The Earth would spin at a different rate.",
+            "Temperatures at the Earth's equator would cool."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Scientists have studied convergent boundaries and the results of the collisions. Besides the fact that mountains occur at these boundaries, which other part of the rock cycle is most likely associated with these areas of convergence?",
+        "choices": [
+            "development of chemical rocks",
+            "development of extrusive rocks",
+            "development of layered rocks",
+            "development of folded rocks"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The cells of organisms found in the phylum Porifera (sponges) are not organized into tissues. What structures are absent in organisms belonging to the phylum Porifera?",
+        "choices": [
+            "organelles",
+            "cells",
+            "genes",
+            "organs"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which feature is most likely the result of a flowing river?",
+        "choices": [
+            "a sand dune",
+            "a volcano",
+            "a canyon",
+            "a glacier"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which best describes how earthworms improve soil as they eat dead plant material?",
+        "choices": [
+            "They make the soil clean.",
+            "They keep disease out of the soil.",
+            "They recycle nutrients into the soil.",
+            "They remove extra water from the soil."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Riding a bicycle produces several forms of energy. Which form of energy is produced in the greatest amount by pedaling a bicycle down the sidewalk?",
+        "choices": [
+            "chemical",
+            "radiant",
+            "kinetic",
+            "sound"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How do the circulatory system and the respiratory system depend on one another?",
+        "choices": [
+            "Oxygen collected by the respiratory system is carried throughout the body by the circulatory system.",
+            "Solid wastes collected by the circulatory system are carried throughout the body by the respiratory system.",
+            "Nutrients collected by the respiratory system are carried throughout the body by the circulatory system.",
+            "Carbon dioxide collected by the circulatory system is carried throughout the body by the respiratory system."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nevada mines produce greater quantities of a particular resource than any other state. What resource is produced from these mines?",
+        "choices": [
+            "zinc",
+            "copper",
+            "gold",
+            "lead"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "At camp, Raj sees a lightning storm. He sees the lightning before he hears the thunder. What does this show?",
+        "choices": [
+            "Light moves faster than sound",
+            "Light moves slower than sound",
+            "Light and sound move at the same speed"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which part makes a plant cell different from an animal cell?",
+        "choices": [
+            "cell membrane",
+            "cell wall",
+            "cytoplasm",
+            "nucleus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The following waste materials are buried in a landfill. Which will break down most quickly?",
+        "choices": [
+            "steel",
+            "plastic",
+            "glass",
+            "paper"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Many things can contribute to the development of a theory. A student made a list of some things that might help scientists develop a theory. Observations Calculations Conversations Publications From the student's list, which must be used in the development of every theory?",
+        "choices": [
+            "Observations",
+            "Conversations",
+            "Publications and calculations",
+            "Calculations and conversations"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What causes an object to fall to the ground when you let it drop from your hand?",
+        "choices": [
+            "magnetism",
+            "gravity",
+            "air resistance",
+            "the push from your hand"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When buying a sunscreen, which is the best question to keep in mind while reading the label for maximum effectiveness?",
+        "choices": [
+            "What is the cost per ounce?",
+            "Who is the manufacturer?",
+            "Is the product waterproof?",
+            "How much protection does it provide?"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Patricia and her classmates are visiting different rocky areas in the city. They want to know what kind of rocks can be found in each area. If the investigation is done correctly, what will Patricia and her classmates do each time they visit an area?",
+        "choices": [
+            "draw the rock shapes",
+            "count the rock numbers",
+            "record the rock types and locations",
+            "measure the rock masses and lengths"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which organisms contribute most to the decomposition of dead organisms?",
+        "choices": [
+            "snakes",
+            "viruses",
+            "insects",
+            "bacteria"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Students measured how long it took for an ice cube to melt. Which measurement best represents how long it took for the ice cube to melt?",
+        "choices": [
+            "20° Celsius",
+            "40 grams",
+            "60 milliliters",
+            "80 seconds"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Isle Royale is a large island in Lake Superior. During the 1800s, most of the trees were removed, and the wolves and moose that lived on the island died. In the early 1900s, moose were reintroduced to the island. By 1925, the moose population on Isle Royale rose to about 2,000 individuals. Which best explains how the moose population grew so rapidly?",
+        "choices": [
+            "The death rate was greater than the birth rate.",
+            "There was unlimited food for the moose to eat.",
+            "The birth rate was constant and few moose died.",
+            "There were no predators to control the population."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following natural disasters is likely to cause the most widespread damage in a coastal ecosystem?",
+        "choices": [
+            "a landslide",
+            "a tornado",
+            "a tsunami",
+            "an earthquake"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A coach is standing at the finish line of a race. He is holding a stopwatch. What is the coach most likely measuring with the stopwatch?",
+        "choices": [
+            "the time of day",
+            "the distance of the race",
+            "the time it took to run the race",
+            "the number of steps taken by the runners"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the first thing a student should do before starting an experiment?",
+        "choices": [
+            "read all the directions",
+            "find a lab partner",
+            "make notes about observations",
+            "write a report on the investigation"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The human brain is an organ that is made up of many tissues. This information can be used to determine that the brain is",
+        "choices": [
+            "unicellular.",
+            "multicellular.",
+            "part of a bacterial colony.",
+            "able to function independently."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The magnetic poles of Earth frequently change location. What is the direct cause of this change in magnetic pole location?",
+        "choices": [
+            "molten rock flowing in the asthenosphere",
+            "convection cells in the lower mantle",
+            "turbulence in the liquid outer core",
+            "radioactive decay in the solid inner core"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A rocket is traveling toward space. What force must the rocket act against as it moves away from Earth?",
+        "choices": [
+            "inertia",
+            "gravity",
+            "magnetism",
+            "momentum"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Spider webs help spiders",
+        "choices": [
+            "avoid predators.",
+            "capture food.",
+            "stay dry.",
+            "keep warm."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which is the greatest benefit of sexual reproduction?",
+        "choices": [
+            "capable of reproducing by meiosis",
+            "ability to reproduce without a mate",
+            "ability to produce genetically different offspring",
+            "capable of producing offspring genetically identical to parent"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Human activity most likely contributes to which of the following changes on Earth?",
+        "choices": [
+            "an increase in the length of a day",
+            "a decrease in the number of volcanic eruptions",
+            "a decrease in the magnitude of large earthquakes",
+            "an increase in the amount of atmospheric carbon dioxide"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The surface of Earth is covered mostly by",
+        "choices": [
+            "solid rock",
+            "molten rock",
+            "ice",
+            "water"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which life function is the same for an amoeba as for other freshwater protists?",
+        "choices": [
+            "the method used to obtain nutrients and energy",
+            "the process used to constantly remove excess water",
+            "the method used to detect changes in their environment",
+            "the process used to remove waste products from their cytoplasm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In a forest ecosystem, the squirrels eat seeds from trees. The squirrels are then eaten by hawks, owls, and foxes. If there were no more owls present in this ecosystem, which would most likely happen in the forest?",
+        "choices": [
+            "The squirrel population would increase.",
+            "The hawk population would decrease.",
+            "The fox population would decrease.",
+            "The tree population would increase."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following are likely to do the most damage to ecosystems along the Rio Grande River?",
+        "choices": [
+            "floods",
+            "tsunamis",
+            "blizzards",
+            "earthquakes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Teresa is making a list of the similarities and differences between a euglena and a volvox cell. In which way is the euglena different from the volvox cell?",
+        "choices": [
+            "A euglena can respond to light.",
+            "A euglena can live in fresh water.",
+            "A euglena can regulate water intake.",
+            "A euglena can only reproduce asexually."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which pathway do most nutrients take after a person takes a bite of food?",
+        "choices": [
+            "digestive system -> circulatory system -> body cells",
+            "circulatory system -> body cells -> digestive system",
+            "digestive system -> body cells -> circulatory system",
+            "circulatory system -> digestive system -> body cells"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is true regarding the properties of an air mass?",
+        "choices": [
+            "An air mass is warmer at the leading edge and cooler at the trailing edge.",
+            "An air mass has similar temperature and moisture properties throughout it.",
+            "An air mass is cooler near the edges and has greater moisture near the center.",
+            "An air mass has greater moisture near the edges and is cooler near the center."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "An area is semiarid, has few trees, and is home to ground-nesting birds. This area is most likely part of which biome?",
+        "choices": [
+            "tundra",
+            "taiga",
+            "grassland",
+            "desert"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is performed by the quality control division of a company that is manufacturing a chair?",
+        "choices": [
+            "applying the varnish",
+            "assembling the parts",
+            "cutting the material",
+            "inspecting the finish"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Convection currents in the mantle are thought to be the driving force behind tectonic movement. At which location do the convection currents cause the plates to diverge?",
+        "choices": [
+            "strike-slip fault",
+            "subduction zone",
+            "mid-ocean ridges",
+            "folded mountains"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which process is taking place when water freezes between cracks in rocks?",
+        "choices": [
+            "deposition",
+            "weathering",
+            "sedimentation",
+            "crystallization"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Why do multicellular organisms need transport systems?",
+        "choices": [
+            "Most have cells that are not able to exchange gases with the outside environment.",
+            "Most have cells that are unable to grow and survive in their environment.",
+            "Most have cells that need food from sources outside their environment.",
+            "Most have cells that require more energy to survive than single-celled organisms."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which is the lowest level of environmental organization that would include the water quality and air temperature in an area?",
+        "choices": [
+            "biome",
+            "ecosystem",
+            "community",
+            "population"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A student makes a fruit drink by stirring a powdered mix into cold water. Why is the fruit drink a solution?",
+        "choices": [
+            "The powder dissolves in the water.",
+            "The water changes color.",
+            "The student stirs the water.",
+            "The water is the proper temperature."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The growing human population has many practices that adversely impact the environment. Acid rain is one example of environmental damage that is related to human activities. Which human activity is most likely the largest contributor to acid rain?",
+        "choices": [
+            "burning fossil fuels in power plants",
+            "using pesticides on agricultural crops",
+            "dumping waste matter into ocean waters",
+            "clearing native forests for industrialization"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The excessive use of nitrogen-based fertilizers causes runoff that increases the nitrogen content of lakes and bays. These nitrogen compounds directly affect the aquatic ecosystems by",
+        "choices": [
+            "interfering with the water cycle.",
+            "decreasing the predator population.",
+            "increasing the rate of algae growth.",
+            "causing aquatic animals to grow larger."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The job of the bladder in an animal is to store wastes. Which organ in an animal removes wastes from the blood?",
+        "choices": [
+            "liver",
+            "heart",
+            "stomach",
+            "kidney"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which tool will best help scientists understand relationships between oceans and climate changes?",
+        "choices": [
+            "a computer model",
+            "a weather balloon",
+            "a rain gauge",
+            "radar"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A meteorologist announces that the barometer reading is dropping. What does a barometer measure?",
+        "choices": [
+            "wind speed",
+            "air pressure",
+            "air temperature",
+            "ground temperature"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How would the woodpecker population in a forest area most likely be affected if a housing development is built in that area?",
+        "choices": [
+            "They would produce more offspring.",
+            "They would change the color of their feathers.",
+            "They would experience a decrease in available food.",
+            "They would experience a decrease in competition."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Clear cutting of old growth forests in Oregon provides lumber for housing. In the process of clear cutting, plant diversity decreases and some organisms are pushed to extinction. Clear cutting is an example of",
+        "choices": [
+            "a change in aquatic conditions.",
+            "a change in societal conditions.",
+            "a change in atmospheric conditions.",
+            "a change in environmental conditions."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Scientists have observed that, even within the same nest, some young birds call louder than others. Which describes how a louder cry helps to ensure survival?",
+        "choices": [
+            "Lung capacity is increased.",
+            "Exposure to bacteria is increased.",
+            "Parents are able to identify the nest.",
+            "Parents respond by giving more food."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The body is made up of many systems that interact with one another. For example, the skeletal system and the muscular system work together to help the body move. Which system works with the respiratory system to distribute oxygen to the body?",
+        "choices": [
+            "muscular system",
+            "digestive system",
+            "lymphatic system",
+            "circulatory system"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Where is most fresh (non-salty) water on Earth located?",
+        "choices": [
+            "oceans",
+            "rivers",
+            "lakes",
+            "polar ice caps"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The length of a year is determined by the amount of time it takes",
+        "choices": [
+            "the Moon to revolve around Earth.",
+            "Earth to revolve around the Sun.",
+            "Earth to rotate on its axis.",
+            "the Sun to rotate on its axis."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following do plants need to make their own food?",
+        "choices": [
+            "Flowers",
+            "Bacteria",
+            "Sunlight",
+            "Oxygen"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following statements is true about organisms that are producers?",
+        "choices": [
+            "They use energy from the sun to make food.",
+            "They absorb energy from a host animal.",
+            "They get energy from eating living animals.",
+            "They get energy by breaking down dead plants and animals."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which process involves choosing certain organisms to reproduce with one another in order to pass on specific, desirable traits to their offspring?",
+        "choices": [
+            "selective breeding",
+            "asexual reproduction",
+            "resource acquisition",
+            "natural selection"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What part of a communication system converts binary codes in a computer into recognizable characters?",
+        "choices": [
+            "decoder",
+            "encoder",
+            "receiver",
+            "transmitter"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Some sea grasses grow near a group of palm trees on a sandy shore. Which best describes the role of both the palm trees and sea grasses?",
+        "choices": [
+            "They get energy from living organisms.",
+            "They turn decaying matter into nutrients.",
+            "They provide food for other organisms.",
+            "They absorb oxygen from the environment."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Overuse of which water resource tends to cause land to subside?",
+        "choices": [
+            "ocean water",
+            "aquifer water",
+            "river water",
+            "lake water"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which geologic process occurs when the acid in precipitation dissolves certain types of rock?",
+        "choices": [
+            "faulting",
+            "tilting",
+            "weathering",
+            "erupting"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Appearance, texture, and density are classified as",
+        "choices": [
+            "physical properties.",
+            "chemical properties.",
+            "magnetic properties.",
+            "thermal properties."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Sam looks into a fish pond and points at a goldfish. Sam's grandfather looks where Sam is pointing and tells Sam that the fish is actually in a different location. Which property of light explains why Sam's grandfather is correct?",
+        "choices": [
+            "reflection",
+            "refraction",
+            "diffraction",
+            "absorption"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which wind-water interaction is responsible for cycling nutrient-rich waters from the ocean floor to the sea surface?",
+        "choices": [
+            "upwelling",
+            "storm surge",
+            "downwelling",
+            "surface currents"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of these is most likely a result of using pesticides on farm crops?",
+        "choices": [
+            "rainfall levels could decrease",
+            "air temperatures could increase",
+            "water sources could become polluted",
+            "caterpillars could become extinct"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Plants that can live in sandy soils most likely have the ability to withstand",
+        "choices": [
+            "fires.",
+            "salt.",
+            "cold temperatures.",
+            "dry conditions."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which sequence has the states of matter listed from least to greatest kinetic energy?",
+        "choices": [
+            "solid -> gas -> liquid",
+            "gas -> liquid -> solid",
+            "liquid -> solid -> gas",
+            "solid -> liquid -> gas"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Use the information below to answer the question. Many people are concerned that the reduction in the number of acres of forested area on Earth will lead to a large reduction in the amount of oxygen in Earth's atmosphere. If this happens, an organism's ability to breathe would be affected. The effect would be similar to moving the organism from",
+        "choices": [
+            "sea level to a mountaintop.",
+            "sea level to a valley below sea level.",
+            "a mountaintop to sea level.",
+            "a beach at sea level to a valley at sea level."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Observation and measurement are important to scientific investigations because",
+        "choices": [
+            "they are part of the instructions.",
+            "they are used to test a hypothesis.",
+            "they are required to make a hypothesis.",
+            "they keep you safe during an investigation."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Louis Pasteur's work in the nineteenth century on pasteurization greatly improved",
+        "choices": [
+            "the quality of food.",
+            "the prediction of weather.",
+            "the availability of medication.",
+            "the effectiveness of vaccinations."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is an example of a compound?",
+        "choices": [
+            "copper",
+            "iron",
+            "carbon",
+            "water"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "During a collision, a seat belt slows the speed of a crash dummy. What is the direction of the net force exerted by the seat belt compared to the direction of the crash dummy's motion?",
+        "choices": [
+            "in the same direction",
+            "in a vertical direction",
+            "in a downward direction",
+            "in the opposite direction"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which characteristic of a cold-water upwelling near the coast of Northern California results in a large concentration of marine organisms?",
+        "choices": [
+            "loss of thermal stability",
+            "high nutrient concentration",
+            "consistent surface-current flow rate",
+            "increased availability of dissolved oxygen"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which process converts organic nitrogen into an inorganic form that can be used by plants?",
+        "choices": [
+            "decomposition",
+            "sedimentation",
+            "absorption",
+            "radiation"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Marta studied different forms of energy. Which two types of energy travel in waves?",
+        "choices": [
+            "light and sound",
+            "electrical and sound",
+            "chemical and light",
+            "chemical and electrical"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Mountains are most likely formed",
+        "choices": [
+            "when glaciers melt.",
+            "from earthquakes.",
+            "when land sinks.",
+            "along tectonic plates."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which organ is the site of gas exchange between the body and the environment?",
+        "choices": [
+            "spleen",
+            "liver",
+            "lungs",
+            "pancreas"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which term best describes the process responsible for cave formation that results from rock being dissolved by groundwater?",
+        "choices": [
+            "chemical weathering",
+            "glacial movement",
+            "sedimentation",
+            "abrasion"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which reflects light?",
+        "choices": [
+            "mirror",
+            "camera",
+            "telescope",
+            "eyeglasses"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A scientist is watching birds from far away. Which object is the scientist most likely using to watch the birds?",
+        "choices": [
+            "goggles",
+            "binoculars",
+            "sunglasses",
+            "microscope"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which is the best way to generate an electrical current in a coil of wire?",
+        "choices": [
+            "stroking the coil with a piece of silk",
+            "heating the coil uniformly",
+            "laying the coil near a magnet",
+            "rotating the coil in a magnetic field"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cactus plants grow best in environments (habitats) that are",
+        "choices": [
+            "hot and dry.",
+            "hot and wet.",
+            "cold and dry.",
+            "cold and wet."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A black bear's diet includes nuts, berries, honey, insects, and fish. Black bears are",
+        "choices": [
+            "decomposers.",
+            "herbivores.",
+            "omnivores.",
+            "prey."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is designed to transform an electromagnetic wave into a mechanical wave?",
+        "choices": [
+            "a portable radio",
+            "a television screen",
+            "a computer monitor",
+            "a mercury thermometer"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In the United States, windmills have been used for farming for hundreds of years. Which simple machine is the most important part of a windmill?",
+        "choices": [
+            "lever",
+            "pulley",
+            "inclined plane",
+            "wheel and axle"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A student viewing a cell with a microscope observes a cell wall, a cell membrane, and a nucleus. The presence of these structures indicates that the student is looking at a cell from a",
+        "choices": [
+            "rabbit",
+            "carrot",
+            "worm",
+            "fly"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Why is the particular sequence of bases in a segment of DNA important to cells?",
+        "choices": [
+            "Some base sequences code for protein production.",
+            "Some base sequences cause the release of lipids from the nucleus.",
+            "Some base sequences contain the order of sugars in polysaccharides.",
+            "Some base sequences produce electrical signals sent to the cytoplasm."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Marta has a radio in her room. It requires electricity in order to play. Which of the following is necessary in order for electricity to move from the source to the radio?",
+        "choices": [
+            "a circuit",
+            "a magnet",
+            "a light bulb",
+            "an insulator"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Proxima Centauri is the closest star to the Sun. Which units do astronomers most often use for the distance between Earth and Proxima Centauri?",
+        "choices": [
+            "miles",
+            "meters",
+            "light years",
+            "astronomical units"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What should students use to identify the percent chance of a trait being passed down from a parent to its offspring?",
+        "choices": [
+            "a graph",
+            "a flow chart",
+            "a data table",
+            "a Punnett square"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A student walks along a trail by a lake on a cool summer morning. Which statement is an observation the student could make?",
+        "choices": [
+            "Fog is rising from the lake.",
+            "The water is too cold for swimming.",
+            "The water is cold because it comes from melted snow.",
+            "The temperature of the air is rising because the Sun is out."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which organs belong to the lymphatic system?",
+        "choices": [
+            "lungs, trachea",
+            "spleen, thymus",
+            "kidneys, bladder",
+            "pancreas, pituitary gland"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What are two of Earth's natural resources?",
+        "choices": [
+            "nuclear power plants and batteries",
+            "forests and nuclear power plants",
+            "batteries and waterfalls",
+            "forests and waterfalls"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Plants that have stems that store water and no leaves would most likely live in a",
+        "choices": [
+            "pine forest.",
+            "grassland.",
+            "desert.",
+            "rainforest."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the smallest particle of an element that still exhibits all the properties of that element?",
+        "choices": [
+            "an electron",
+            "an atom",
+            "a molecule",
+            "a proton"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which is not considered an instrument to be used to determine weather?",
+        "choices": [
+            "a barometer",
+            "a thermometer",
+            "an anemometer",
+            "a millimeter"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of these cell types has DNA that is not bound in a nuclear membrane?",
+        "choices": [
+            "a plant cell",
+            "a protist cell",
+            "an animal cell",
+            "a prokaryote cell"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which statement describes an interaction between the hydrosphere and the atmosphere?",
+        "choices": [
+            "Flowing water carves through rock to form a canyon.",
+            "Lava from an underwater volcano cools to form a mountain.",
+            "Ashes rise from a volcanic eruption to block sunlight.",
+            "Water vapor rises from the ocean to form clouds."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of these activities makes the MOST air pollution?",
+        "choices": [
+            "Storing trash bags",
+            "Reusing trash bags",
+            "Burning trash bags",
+            "Recycling trash bags"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Soil that drains slowly most likely has a high amount of",
+        "choices": [
+            "ash.",
+            "sand.",
+            "clay.",
+            "peat."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A sunspot appears as a dark spot on the sun that is cooler than the surrounding area. On which region of the sun do sunspots occur?",
+        "choices": [
+            "chromosphere",
+            "core",
+            "corona",
+            "photosphere"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The loudness of sound can be changed by",
+        "choices": [
+            "decreasing the pitch.",
+            "increasing the frequency.",
+            "increasing the amplitude.",
+            "decreasing the wavelength."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Where are the active volcanoes most likely to be found?",
+        "choices": [
+            "where rivers form",
+            "where tectonic plates meet",
+            "where oceans are deepest",
+            "where land and water meet"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How is weather related to climate?",
+        "choices": [
+            "Climate is the long-term average of a region's weather.",
+            "Climate describes the weather of a large area.",
+            "Weather is the long-term average of a region's climate.",
+            "Weather describes the climate of a large area."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which resource is more available due to improvements in deep-sea drilling technology?",
+        "choices": [
+            "crude oil",
+            "fresh water",
+            "thermal energy",
+            "salt reserves"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which is the best example of a parasitic relationship?",
+        "choices": [
+            "a woodpecker nesting in a cavity of a dead tree",
+            "a tapeworm absorbing food in the digestive tract of a wolf",
+            "a polar bear hunting a seal for food",
+            "a hummingbird transferring pollen between flowers"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Animals and plants need oxygen to live. Oxygen is released in photosynthesis. Which cycle includes photosynthesis?",
+        "choices": [
+            "the carbon cycle",
+            "the nitrogen cycle",
+            "the water cycle",
+            "the rock cycle"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Air is composed of many different substances. Which of the following components of air is a compound rather than an element?",
+        "choices": [
+            "Argon, Ar",
+            "Oxygen, O2",
+            "Water, H2O",
+            "Nitrogen, N2"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Euglena is a single-celled photosynthetic organism. Clover is a multicellular green plant. Which of the following activities is carried out by both euglena and clover?",
+        "choices": [
+            "using light energy to produce sugar",
+            "producing sex cells for reproduction",
+            "moving nutrients to specialized tissues",
+            "transmitting impulses along nerve pathways"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which particle type can be identified as being from a specific element?",
+        "choices": [
+            "electron",
+            "atom",
+            "neutron",
+            "proton"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The vertical axis on a graph is the y-axis. What is most likely placed along the y-axis?",
+        "choices": [
+            "element symbols",
+            "negative numbers",
+            "dependent variables",
+            "independent variables"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these is required to support the theory of star formation?",
+        "choices": [
+            "laws passed by the government",
+            "Internet sites discussing star formation",
+            "pictures of stars of different ages",
+            "evaluation of data by many scientists"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The color of which animal allows it to blend into its environment?",
+        "choices": [
+            "penguin",
+            "squirrel",
+            "cardinal",
+            "polar bear"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The teeth of a carnivore are MOSTLY -",
+        "choices": [
+            "pointed",
+            "rounded",
+            "wide",
+            "flat"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Ice cubes are an example of which form of water?",
+        "choices": [
+            "Gas",
+            "Liquid",
+            "Solid",
+            "Natural"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A geologist found several types of seashell fossils in a rock layer. Which is the best conclusion about the rock layer?",
+        "choices": [
+            "The rock was once buried under a swamp.",
+            "Water from a river washed across the rock.",
+            "The rock was once sediment at the bottom of an ocean.",
+            "Migrating animals dropped the seashell into the rock."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The distance from Earth to the Sun is one astronomical unit. Which unit best describes how many astronomical units it is from Earth to the far end of the Milky Way Galaxy?",
+        "choices": [
+            "hundreds",
+            "thousands",
+            "millions",
+            "billions"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A tick attaches to a deer and consumes blood, harming the deer. This is an example of which type of relationship?",
+        "choices": [
+            "predator-prey",
+            "mutualism",
+            "parasite-host",
+            "commensalism"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Scientists are developing new satellite technology to help predict the weather. How will developing this technology most likely benefit people?",
+        "choices": [
+            "It will show people that storms can be prevented.",
+            "It will show people that science is interesting.",
+            "It will help warn people about dangerous storms.",
+            "It will help people drive in the rain."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A tree is a renewable resource because it can be",
+        "choices": [
+            "burned in a fire.",
+            "made into lumber.",
+            "eaten by some organisms.",
+            "replaced with a newly planted tree."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The construction of Hoover Dam on the Colorado River resulted in abundant freshwater and electrical power for the region. Which of these is a disadvantage of the construction of Hoover Dam?",
+        "choices": [
+            "an increase in flooding downstream",
+            "an increase in regional humidity",
+            "a decrease in the amount of river ecosystems",
+            "a decrease in the amount of water for irrigation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Panels of solar cells are used to collect energy from the Sun and convert it into energy for use in homes. Into what type of energy is the solar energy converted?",
+        "choices": [
+            "chemical",
+            "electrical",
+            "geothermal",
+            "hydroelectric"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ernie made a diagram to model Earth's orbit. What shape is most like what Ernie drew for the orbit?",
+        "choices": [
+            "square",
+            "oval",
+            "triangle",
+            "rectangle"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A change in the pattern of warm ocean currents can cause a climate change by",
+        "choices": [
+            "releasing thermal energy in irregular spurts.",
+            "absorbing thermal energy from the Sun's rays.",
+            "moving thermal energy from one place to another.",
+            "increasing the ocean's capacity for absorbing thermal energy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What keeps stars such as the Sun from collapsing from their own self-gravity?",
+        "choices": [
+            "the centrifugal force created by rapid rotation",
+            "the electrical repulsion of nuclei in the plasma",
+            "the gravitational pull created by orbiting planets",
+            "the outward pressure created by nuclear fusion"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Leslie's science teacher told her she must take a flexible approach to solving problems. What did Leslie's teacher most likely mean?",
+        "choices": [
+            "Leslie should not follow the experimental instructions exactly.",
+            "Leslie should only write down lab results that seem to be correct.",
+            "Leslie should accept all scientific theories even if they have been proven wrong.",
+            "Leslie should be willing to consider many possible causes for her observations."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following metals will be attracted to a magnet?",
+        "choices": [
+            "copper",
+            "gold",
+            "iron",
+            "silver"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When a neutral atom gains or loses electrons, it becomes",
+        "choices": [
+            "more stable.",
+            "an isotope.",
+            "an ion.",
+            "less charged."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these technologies helps a power company use renewable energy for the production of electricity?",
+        "choices": [
+            "hydroelectric power",
+            "nuclear power plants",
+            "natural gas generators",
+            "coal-fired power plants"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The nucleus contains DNA. Which statement best describes how DNA controls the working of the cell?",
+        "choices": [
+            "It codes for proteins.",
+            "It inhibits division of cells.",
+            "It helps in energy transformation.",
+            "It regulates traffic in and out of the cell."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A topographic map is primarily used to determine the",
+        "choices": [
+            "number of continents in the world.",
+            "location of major cities in the country.",
+            "elevation of an area.",
+            "rainfall of desert regions."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ella waves good-bye from the bus. What body system pulls on bones to let Ella wave her arm?",
+        "choices": [
+            "muscular system",
+            "nervous system",
+            "digestive system",
+            "circulatory system"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "An organism is born with a genetic abnormality not present in any of its ancestors. This abnormality is most likely the result of",
+        "choices": [
+            "circulation",
+            "competition",
+            "mutation",
+            "respiration"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The molecule ATP is composed of elements commonly found in organic molecules. Which of the following is one of these elements?",
+        "choices": [
+            "aluminum",
+            "calcium",
+            "phosphorus",
+            "tin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Earth is tilted as it travels around the Sun. The tilt changes the amount of energy each area gets from the Sun, which makes some months of the year warmer than others. What are the four main temperature changes in a year called?",
+        "choices": [
+            "seasons",
+            "climate",
+            "weather",
+            "quarters"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When white, fluffy clouds appear in Massachusetts, the weather that day will MOST LIKELY be",
+        "choices": [
+            "fair.",
+            "stormy.",
+            "foggy.",
+            "rainy."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which statement best describes the molecules in a sample of water that was heated from a liquid to a gas?",
+        "choices": [
+            "The average size of the molecules decreased.",
+            "The average size of the molecules increased.",
+            "The average kinetic energy of the molecules decreased.",
+            "The average kinetic energy of the molecules increased."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Use the information below to answer the question. In solid fuel rockets, a fuel mixture is burned and once the mixture starts burning it cannot be stopped. In liquid fuel rockets, there is a tank of fuel and a tank of oxygen. The burning of the fuel can be stopped by preventing the flow of fuel and oxygen into the combustion chamber. Based on this information, which system is more highly developed in liquid fuel rockets than in solid fuel rockets?",
+        "choices": [
+            "propulsion",
+            "suspension",
+            "control",
+            "structure"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which would most help pollinators find flowers that are pollinated at night?",
+        "choices": [
+            "shape",
+            "color",
+            "size",
+            "fragrance"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Isaac Newton is best known for his study of",
+        "choices": [
+            "motion.",
+            "weather.",
+            "body systems.",
+            "the history of Earth."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Why is a spacesuit inflated like a balloon?",
+        "choices": [
+            "to simulate the air pressure of Earth",
+            "to help astronauts float in outer space",
+            "to protect astronauts from solar radiation",
+            "to provide an oxygen supply for breathing"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Great distances in space are measured in",
+        "choices": [
+            "kilometers.",
+            "light years.",
+            "megameters.",
+            "astronomical units."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Plants that are different from each another may have similar structures. Which structure do all plants have in common?",
+        "choices": [
+            "flowers",
+            "fruit",
+            "roots",
+            "trunks"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these atomic structures has the least amount of mass?",
+        "choices": [
+            "an ion",
+            "a proton",
+            "a neutron",
+            "an electron"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Calcium is a mineral that helps make your bones and teeth strong. Which of these foods is the best source of calcium?",
+        "choices": [
+            "candy",
+            "rice",
+            "cheese",
+            "meat"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mrs. Henry's class studied the arrangement of planets in the solar system. Which planets are closest to each other?",
+        "choices": [
+            "Mars and Earth",
+            "Saturn and Jupiter",
+            "Mercury and Venus",
+            "Uranus and Neptune"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which energy source might involve burning wood or producing gasohol?",
+        "choices": [
+            "biomass",
+            "wind turbine",
+            "nuclear fission",
+            "hydroelectric power"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which adaptation helps a bird fly?",
+        "choices": [
+            "larger feet",
+            "bigger eyes",
+            "longer beaks",
+            "hollow bones"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which is Earth's largest source of drinkable water?",
+        "choices": [
+            "lakes",
+            "rivers",
+            "oceans",
+            "aquifers"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The burning of fossil fuels in cities results in high levels of air pollution. Which urban design would best help reduce air pollution?",
+        "choices": [
+            "numerous park areas",
+            "frequent trash recycling",
+            "efficient public transportation",
+            "effective street lighting"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Most scientists agree that an increase in the amount of greenhouse gases entering Earth's atmosphere causes",
+        "choices": [
+            "a decrease in sea level",
+            "a decrease in average surface temperatures",
+            "an increase in melting of polar ice caps",
+            "an increase in crustal plate movement"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "One student rubs a balloon against his hair several times. Another student passes a comb through her hair several times. The students place the comb near the balloon and observe that the comb repels the balloon. Which is the most likely reason the comb is able to repel the balloon?",
+        "choices": [
+            "The balloon has a positive charge and the comb is neutral.",
+            "The balloon and the comb have the same electrical charge.",
+            "The balloon has a negative charge and the comb is neutral.",
+            "The balloon and the comb have opposite electrical charges."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which statement describes a primary function of the cell wall of a plant cell?",
+        "choices": [
+            "The cell wall performs photosynthesis.",
+            "The cell wall stores DNA.",
+            "The cell wall provides structural support.",
+            "The cell wall manufactures proteins."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A euglena has a flagellum and a paramecium has cilia. Both types of organelles help these organisms move through the water. However, a paramecium can also use its cilia to perform another task. What is this task?",
+        "choices": [
+            "obtain food",
+            "defend the cell",
+            "attach to a surface",
+            "perform conjugation"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Sir Isaac Newton stated that every object in the universe attracts matter. The attraction depends on the mass of an object and the distance between the objects. What type of force did Newton describe?",
+        "choices": [
+            "centripetal force",
+            "generalized force",
+            "centrifugal force",
+            "gravitational force"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Structures in the universe are grouped into large systems, each of which are made up of smaller systems. Which of the following is the largest system of which Earth is only a very small part?",
+        "choices": [
+            "Jovian planets",
+            "Halley's comet",
+            "Milky Way galaxy",
+            "Orion's belt"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which layer of Earth is the thinnest?",
+        "choices": [
+            "Inner core",
+            "Crust",
+            "Outer core",
+            "Mantle"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the primary energy source driving circulation of ocean currents on Earth?",
+        "choices": [
+            "geothermal heating",
+            "planetary rotation",
+            "solar heating",
+            "lunar tidal forces"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All living things contain which element?",
+        "choices": [
+            "helium.",
+            "sodium.",
+            "copper.",
+            "carbon."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A scientist wants to collect several bird eggs on an island. She needs a case that will protect the eggs she collects. Which of the following cases would best protect the eggs?",
+        "choices": [
+            "a hard metal case with flexible foam lining",
+            "a flexible metal case with smooth plastic lining",
+            "a strong wooden case with lightweight plastic lining",
+            "a lightweight wooden case with strong aluminum lining"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which mineral is most likely to be found in all of the three major rock types known as metamorphic, igneous, and sedimentary?",
+        "choices": [
+            "halite",
+            "quartz",
+            "gypsum",
+            "sulfur"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Animals get the energy they need for growth and repair by",
+        "choices": [
+            "eating food",
+            "absorbing sunlight",
+            "eliminating waste",
+            "drinking water"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "A student measured liquid with a graduated cylinder. Which of the following units could be used to record the volume of the liquid?",
+        "choices": [
+            "pounds",
+            "meters",
+            "grams",
+            "milliliters"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The Hardy-Weinberg law is only valid when",
+        "choices": [
+            "the population is small.",
+            "migration into the population is occurring.",
+            "immigration into the population is occurring.",
+            "the population is large."
+        ],
+        "answer": 3
+    }
+]

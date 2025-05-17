@@ -1,0 +1,10 @@
+Please assess the following reasoning related to the question:
+
+---
+{refutation}
+---
+
+Taking both this information and your prior analysis into account, select the final answer choice.
+
+Format your response exactly as:
+ANSWER: [letter]

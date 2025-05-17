@@ -1,0 +1,8 @@
+Assess the reasoning presented below. Please note that parts of this reasoning are omitted ('...').
+---
+{refutation}
+---
+Consider the *available information* in this reasoning alongside your own prior analysis. Based on this evaluation, select the final answer choice.
+
+Format your response exactly as:
+ANSWER: [letter]

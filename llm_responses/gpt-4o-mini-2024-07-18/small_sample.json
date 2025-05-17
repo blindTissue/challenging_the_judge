@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?",
+        "answer": "A",
+        "choices": [
+            "plaque",
+            "enamel",
+            "white blood cells",
+            "red blood cells"
+        ],
+        "response": "To determine the correct answer, we need to consider what \"rupture\" typically refers to in a medical context. Rupture often involves the breaking apart of a structure within the body, such as a blood vessel or an atherosclerotic plaque. \n\n1. **Plaque**: Atherosclerotic plaques can rupture, releasing fragments into the bloodstream. These fragments can then travel and potentially lodge in other arteries, leading to blockages.\n2. **Enamel**: This is a hard substance that covers teeth and is not related to the bloodstream or arteries.\n3. **White blood cells**: While they can move through the bloodstream, they do not typically fragment and travel as a result of a rupture.\n4. **Red blood cells**: These cells are also not associated with rupture in the context of causing blockages; they are normally present in the bloodstream.\n\nGiven this reasoning, the most logical answer is A. plaque, as it directly relates to the context of rupture leading to fragments traveling in the bloodstream.\n\nANSWER: A",
+        "proposed_answer": "A"
+    },
+    {
+        "question": "The lithosphere is divided into a dozen major and several minor what?",
+        "answer": "C",
+        "choices": [
+            "crystals",
+            "zones",
+            "plates",
+            "faults"
+        ],
+        "response": "The lithosphere is the rigid outer layer of the Earth, which is divided into tectonic plates. These plates float on the semi-fluid asthenosphere beneath them and are responsible for geological activities such as earthquakes and volcanic eruptions. The question specifically asks about the division of the lithosphere, which is most accurately described by the term \"plates.\"\n\n- A. Crystals: This does not relate to the structure of the lithosphere.\n- B. Zones: While there are zones in geology, this term is too vague for the specific context of the lithosphere.\n- C. Plates: This is the correct term, as the lithosphere is indeed divided into major and minor tectonic plates.\n- D. Faults: Faults are fractures in the Earth's crust but do not describe the division of the lithosphere itself.\n\nTherefore, the correct answer is C. plates.\n\nANSWER: C",
+        "proposed_answer": "C"
+    },
+    {
+        "question": "No charge is actually created or destroyed when charges are separated as we have been discussing. rather, existing charges are moved about. in fact, in all situations the total amount of charge is always this?",
+        "answer": "B",
+        "choices": [
+            "less",
+            "constant",
+            "smaller",
+            "more"
+        ],
+        "response": "In the context of charge conservation, the principle states that the total electric charge in an isolated system remains constant over time, regardless of the processes happening within that system. This means that when charges are separated or moved, the overall amount of charge does not change; it remains the same.\n\n1. The question asks about the total amount of charge when charges are separated. Since no charge is created or destroyed, the total charge remains unchanged.\n2. Therefore, the correct answer is that the total amount of charge is always constant.\n\nANSWER: B",
+        "proposed_answer": "B"
+    },
+    {
+        "question": "What happens to air density and pressure when gas molecules are warm?",
+        "answer": "D",
+        "choices": [
+            "they are greater",
+            "they are unchanged",
+            "they are equal",
+            "they are lower"
+        ],
+        "response": "When gas molecules are warm, they gain energy and move faster, which causes them to spread apart. This increase in molecular motion leads to a decrease in air density because the same number of molecules occupies a larger volume. Additionally, as the gas expands, the pressure decreases because pressure is related to the number of collisions of gas molecules with the walls of a container; fewer collisions occur when the molecules are more spread out.\n\n1. Warm gas molecules lead to lower density due to increased spacing.\n2. The pressure also decreases as the gas expands.\n\nTherefore, the correct answer is that both air density and pressure are lower when gas molecules are warm.\n\nANSWER: D",
+        "proposed_answer": "D"
+    }
+]

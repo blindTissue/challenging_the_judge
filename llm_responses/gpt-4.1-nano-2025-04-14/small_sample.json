@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?",
+        "answer": "A",
+        "choices": [
+            "plaque",
+            "enamel",
+            "white blood cells",
+            "red blood cells"
+        ],
+        "response": "Rupture in blood vessels or arterial plaques can release fragments that travel through the bloodstream and lodge in other arteries, causing blockages. Plaque, which is made up of fatty deposits, is known to rupture and send debris into the bloodstream, leading to embolisms. Enamel, white blood cells, and red blood cells are less likely to cause such embolisms when fragments are dislodged; enamel is part of teeth, and white and red blood cells are normally circulating within blood vessels.\n\nANSWER: A",
+        "proposed_answer": "A"
+    },
+    {
+        "question": "The lithosphere is divided into a dozen major and several minor what?",
+        "answer": "C",
+        "choices": [
+            "crystals",
+            "zones",
+            "plates",
+            "faults"
+        ],
+        "response": "The lithosphere is the rigid outer layer of Earth, and it is known to be divided into large sections called tectonic plates. These plates move and interact at their boundaries, causing geological activity. The term \"plates\" is the correct classification for these divisions.\n\n- Crystals (A) are mineral structures, not divisions of the lithosphere.\n- Zones (B) is too vague and not specific to the lithosphere's divisions.\n- Faults (D) are fractures within the lithosphere, not the divisions themselves.\n\nTherefore, the correct answer is \"plates.\"\n\nANSWER: C",
+        "proposed_answer": "C"
+    },
+    {
+        "question": "No charge is actually created or destroyed when charges are separated as we have been discussing. rather, existing charges are moved about. in fact, in all situations the total amount of charge is always this?",
+        "answer": "B",
+        "choices": [
+            "less",
+            "constant",
+            "smaller",
+            "more"
+        ],
+        "response": "The key point is that charge is conserved; it cannot be created or destroyed, only moved. Therefore, regardless of how charges are separated or redistributed, the total amount remains unchanged.\n\nANSWER: B",
+        "proposed_answer": "B"
+    },
+    {
+        "question": "What happens to air density and pressure when gas molecules are warm?",
+        "answer": "D",
+        "choices": [
+            "they are greater",
+            "they are unchanged",
+            "they are equal",
+            "they are lower"
+        ],
+        "response": "When gas molecules are warm, they gain energy and move faster, which causes the gas to expand. As the gas expands, the molecules spread out more, leading to a decrease in both air density (fewer molecules per unit volume) and pressure (fewer collisions per unit area). Therefore, both air density and pressure decrease when the gas is warm.\n\nANSWER: D",
+        "proposed_answer": "D"
+    }
+]

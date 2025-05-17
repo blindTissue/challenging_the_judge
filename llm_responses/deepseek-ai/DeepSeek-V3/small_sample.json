@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?",
+        "answer": "A",
+        "choices": [
+            "plaque",
+            "enamel",
+            "white blood cells",
+            "red blood cells"
+        ],
+        "response": "To answer this question, let's analyze the options:\n\n1. **Plaque (A)**: Plaque is a buildup of cholesterol, fat, and other substances in the arteries. If a plaque ruptures, fragments can break off, travel through the bloodstream, and block smaller arteries, leading to conditions like strokes or heart attacks. This matches the description in the question.\n\n2. **Enamel (B)**: Enamel is the hard outer layer of teeth. It is not related to arteries or the bloodstream, so this option is irrelevant.\n\n3. **White blood cells (C)**: While white blood cells travel in the bloodstream, they are not fragments that rupture and lodge in arteries. This option does not fit the context.\n\n4. **Red blood cells (D)**: Red blood cells are normal components of blood and do not rupture to form fragments that lodge in arteries. This option is incorrect.\n\nThe correct answer is **A. plaque**, as it is the only option that fits the scenario described.\n\nANSWER: A",
+        "proposed_answer": "A"
+    },
+    {
+        "question": "The lithosphere is divided into a dozen major and several minor what?",
+        "answer": "C",
+        "choices": [
+            "crystals",
+            "zones",
+            "plates",
+            "faults"
+        ],
+        "response": "To answer the question, let's analyze the options and the context:\n\n1. The lithosphere is the rigid outer layer of the Earth, which includes the crust and the uppermost part of the mantle. It is known to be divided into large, distinct segments.\n\n2. **Option A (crystals)**: Crystals are microscopic or small-scale structures and do not describe the division of the lithosphere. This is incorrect.\n\n3. **Option B (zones)**: While \"zones\" could describe regions, it is not the specific term used for the large, rigid segments of the lithosphere. This is incorrect.\n\n4. **Option C (plates)**: The lithosphere is divided into tectonic plates, which are major and minor segments that move and interact at their boundaries. This is the correct term.\n\n5. **Option D (faults)**: Faults are fractures or zones of fractures where rocks have moved, but they do not describe the division of the lithosphere into large segments. This is incorrect.\n\nThus, the correct answer is **plates**.\n\nANSWER: C",
+        "proposed_answer": "C"
+    },
+    {
+        "question": "No charge is actually created or destroyed when charges are separated as we have been discussing. rather, existing charges are moved about. in fact, in all situations the total amount of charge is always this?",
+        "answer": "B",
+        "choices": [
+            "less",
+            "constant",
+            "smaller",
+            "more"
+        ],
+        "response": "To answer the question, let's analyze the key points:\n\n1. The question states that no charge is created or destroyed, only moved around. This implies that the total amount of charge remains unchanged.\n2. The principle described here is the **conservation of charge**, a fundamental law in physics, which states that the total charge in an isolated system remains constant.\n3. The options \"less,\" \"smaller,\" and \"more\" suggest changes in the total charge, which contradicts the principle of charge conservation. The correct description is that the total charge remains the same.\n\nThus, the correct answer is \"constant.\"\n\nANSWER: B",
+        "proposed_answer": "B"
+    },
+    {
+        "question": "What happens to air density and pressure when gas molecules are warm?",
+        "answer": "D",
+        "choices": [
+            "they are greater",
+            "they are unchanged",
+            "they are equal",
+            "they are lower"
+        ],
+        "response": "To answer this question, let's analyze the relationship between temperature, air density, and pressure:\n\n1. **Air Density**: When gas molecules are warm, they gain kinetic energy and move faster. This causes them to spread out, occupying more space, which reduces the number of molecules per unit volume. As a result, air density decreases.\n\n2. **Pressure**: While warm air can exert higher pressure if confined (e.g., in a sealed container), in an open atmosphere, warm air tends to rise and disperse, leading to lower pressure at the surface compared to cooler, denser air.\n\nThus, both air density and pressure are lower when gas molecules are warm in typical atmospheric conditions.\n\nANSWER: D",
+        "proposed_answer": "D"
+    }
+]
